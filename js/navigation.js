@@ -48,7 +48,11 @@
               [
                 'CAs',
                 'CA de Letras', 'CA de Serviço Social', 'CA de História', 'CA de Ciências Sociais', 'CA de Psicologia', 'CAs - Xerox'
+              ],
+                            [
+                'Centro Administrativo'
               ]
+
           ];
 
           // Função para transformar o array de buscas nos nomes possíveis da busca.
