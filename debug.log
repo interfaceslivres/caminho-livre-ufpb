@@ -1,0 +1,766 @@
+[0722/113826:ERROR:process_info.cc(330)] VirtualQueryEx: Acesso negado. (0x5)
+[0722/113826:ERROR:process_info.cc(547)] ReadMemoryInfo failed
+[0722/113826:ERROR:process_info.cc(608)] range at 0x321000, size 0x230 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0x7706ab40, size 0x24 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24a98, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd21cec, size 0x76 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd21d4e, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd249b8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd248c8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0x76f6bc84, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24ea0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24f80, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24fa8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25170, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25250, size 0x44 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25278, size 0x1c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd266f0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd250f0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25118, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28968, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28a48, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28a70, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28b80, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28c60, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28c88, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd204a0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28db0, size 0x42 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28dd8, size 0x1a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28ea8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28f88, size 0x50 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28fb0, size 0x28 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d338, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d418, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d440, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d578, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d658, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d680, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d7a8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d888, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d8b0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f3f8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f7d8, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f800, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f200, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f930, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f958, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28848, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f4a0, size 0x9a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f51e, size 0x1c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2dfe8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fd88, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fdb0, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e510, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fce8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fd10, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e630, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd304f0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30518, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f548, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd305b0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd305d8, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f5f0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30700, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30728, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f698, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30750, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30778, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f008, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30850, size 0x42 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30878, size 0x1a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f2a8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd308a0, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd308c8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ee10, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34ff0, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd35018, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ea20, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34ae0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34b08, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ef60, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd306a8, size 0x4e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd306d0, size 0x26 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eeb8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e40, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e68, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f158, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34c90, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34cb8, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f350, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f8c0, size 0x4c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f8e8, size 0x24 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e780, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e88, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34eb0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ec18, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28d30, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28d58, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f0b0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e828, size 0x9e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e8a6, size 0x20 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e8d0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4aff8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b020, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eac8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d460, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d488, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ed68, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d4f8, size 0x46 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d520, size 0x1e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd40288, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd303b8, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd303e0, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f6b8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b280, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b2a8, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd40330, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44940, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44968, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f2c8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b0d0, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b0f8, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f8b0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44d50, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44d78, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f958, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4ae48, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4ae70, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f178, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b310, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b338, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ecc0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd447b0, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd447d8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eb70, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd49188, size 0xee fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4925e, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f760, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44c60, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44c88, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3ffe8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b358, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b380, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fd48, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b5e0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b608, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fa00, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b118, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b140, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fca0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b040, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b068, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f220, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b478, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b4a0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24a98, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd21cec, size 0x76 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd21d4e, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd249b8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd248c8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0x76f6bc84, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24ea0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24f80, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24fa8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25170, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25250, size 0x44 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25278, size 0x1c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd266f0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd250f0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25118, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28968, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28a48, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28a70, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28b80, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28c60, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28c88, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd204a0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28db0, size 0x42 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28dd8, size 0x1a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28ea8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28f88, size 0x50 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28fb0, size 0x28 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d338, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d418, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d440, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d578, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d658, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d680, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d7a8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d888, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d8b0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f3f8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f7d8, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f800, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f200, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f930, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f958, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28848, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f4a0, size 0x9a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f51e, size 0x1c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2dfe8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fd88, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fdb0, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e510, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fce8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fd10, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e630, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd304f0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30518, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f548, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd305b0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd305d8, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f5f0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30700, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30728, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f698, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30750, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30778, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f008, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30850, size 0x42 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30878, size 0x1a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f2a8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd308a0, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd308c8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ee10, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34ff0, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd35018, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ea20, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34ae0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34b08, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ef60, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd306a8, size 0x4e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd306d0, size 0x26 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eeb8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e40, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e68, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f158, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34c90, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34cb8, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f350, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f8c0, size 0x4c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f8e8, size 0x24 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e780, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e88, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34eb0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ec18, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28d30, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28d58, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f0b0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e828, size 0x9e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e8a6, size 0x20 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e8d0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4aff8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b020, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eac8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d460, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d488, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ed68, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d4f8, size 0x46 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d520, size 0x1e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd40288, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd303b8, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd303e0, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f6b8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b280, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b2a8, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd40330, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44940, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44968, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f2c8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b0d0, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b0f8, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f8b0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44d50, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44d78, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f958, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4ae48, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4ae70, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f178, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b310, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b338, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ecc0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd447b0, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd447d8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eb70, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd49188, size 0xee fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4925e, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f760, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44c60, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44c88, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3ffe8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b358, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b380, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fd48, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b5e0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b608, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fa00, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b118, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b140, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fca0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b040, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b068, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f220, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b478, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b4a0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd249b8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd248c8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0x76f6bc84, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25170, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25250, size 0x44 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25278, size 0x1c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24ea0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24f80, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24fa8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd266f0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd250f0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd25118, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d7a8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d888, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d8b0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28ea8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28f88, size 0x50 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28fb0, size 0x28 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd204a0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28db0, size 0x42 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28dd8, size 0x1a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28b80, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28c60, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28c88, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28968, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28a48, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28a70, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d338, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d418, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d440, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d578, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d658, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d680, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28848, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f4a0, size 0x9a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f51e, size 0x1c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2dfe8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fd88, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fdb0, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f2a8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd308a0, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd308c8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f008, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30850, size 0x42 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30878, size 0x1a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f200, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f930, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f958, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f3f8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f7d8, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f800, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ee10, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34ff0, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd35018, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e510, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fce8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2fd10, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f548, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd305b0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd305d8, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e630, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd304f0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30518, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f5f0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30700, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30728, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f698, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30750, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd30778, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eeb8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e40, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e68, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f158, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34c90, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34cb8, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f350, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f8c0, size 0x4c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f8e8, size 0x24 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e780, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34e88, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34eb0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ec18, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28d30, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd28d58, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ef60, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd306a8, size 0x4e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd306d0, size 0x26 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ea20, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34ae0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd34b08, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e8d0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4aff8, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b020, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fa00, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b118, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b140, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ecc0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd447b0, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd447d8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eb70, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd49188, size 0xee fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4925e, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2ed68, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d4f8, size 0x46 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d520, size 0x1e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f220, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b478, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b4a0, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd40288, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd303b8, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd303e0, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fca0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b040, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b068, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2eac8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d460, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2d488, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f6b8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b280, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b2a8, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd40330, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44940, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44968, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f760, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44c60, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44c88, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f2c8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b0d0, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b0f8, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3ffe8, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b358, size 0x3a fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b380, size 0x12 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f958, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4ae48, size 0x3c fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4ae70, size 0x14 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f178, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b310, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b338, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3f8b0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44d50, size 0x40 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd44d78, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd3fd48, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b5e0, size 0x3e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd4b608, size 0x16 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2f0b0, size 0x48 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e828, size 0x9e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2e8a6, size 0x20 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd21840, size 0x310 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd24b90, size 0x7e fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd21cec, size 0x76 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd21d64, size 0x1808 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd2356e, size 0x76 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0xd235e6, size 0x64 fully unreadable
+[0722/113826:ERROR:process_reader_win.cc(252)] range at 0xd205c8, size 0x10000 completely inaccessible
+[0722/113826:ERROR:process_info.cc(608)] range at 0x770684b8, size 0x18 fully unreadable
+[0722/113826:ERROR:process_info.cc(608)] range at 0x7706883c, size 0x20 fully unreadable
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76a2e490 of 38 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(154)] could not read debug directory from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72c70000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x744b0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76890000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c90000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x768f0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76a80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73cc0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72150000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.103\chrome_elf.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76e00000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x702b0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76cb0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74570000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742d0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x702e0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x766a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72d30000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x737c0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x739e0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750c0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74830000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76720000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74880000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d40000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73dd0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x752a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76710000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x737d0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70370000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72810000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6b6a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75280000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71c40000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76790000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75020000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72de0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76730000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x714f0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75010000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ad0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76c50000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cd0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x51f00000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.103\chrome_child.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6b4a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x7706ab80 of 5888 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x800000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f60000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d90000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x769a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72c70000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x744b0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76890000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c90000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x768f0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76a80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73cc0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72150000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.103\chrome_elf.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76e00000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x702b0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76cb0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74570000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742d0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x702e0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x766a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72d30000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x737c0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x739e0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750c0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74830000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76720000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74880000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d40000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73dd0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x752a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76710000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x737d0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70370000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72810000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6b6a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75280000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71c40000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76790000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75020000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72de0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76730000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x714f0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75010000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ad0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76c50000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cd0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x51f00000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.103\chrome_child.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6b4a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0722/113826:ERROR:process_reader_win.cc(98)] process 6620 not found
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x800000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f60000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d90000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x769a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72c70000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x744b0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76890000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c90000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x768f0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76a80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73cc0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72150000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.103\chrome_elf.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a80000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76e00000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x702b0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76cb0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74570000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742d0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x702e0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x766a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72d30000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x737c0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x739e0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750c0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74830000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76720000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74880000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d40000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73dd0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x752a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76710000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x737d0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70370000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72810000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6b6a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75280000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71c40000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76790000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75020000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72de0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76730000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x714f0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75010000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ad0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76c50000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cd0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x51f00000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.103\chrome_child.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6b4a0000 of 64 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0722/113826:ERROR:process_reader_win.cc(232)] ReadMemory at 0x8bc374 of 12 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0722/113826:WARNING:process_snapshot_win.cc(102)] ReadMemory ExceptionInformation failed
+[0722/113826:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0722/113826:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558

@@ -1,0 +1,769 @@
+/* --------------- Popups ----------------- */
+
+
+
+.poppy{clear:both;width:220px;height:auto;float:left;overflow:hidden;}
+
+.poppy-wrap{float:left;width:100%;position:relative;right:50%;}
+
+.poppy ul,.poppylarge ul{margin:0 0 10px 0px;padding:0;line-height:160%!Important;font-size:120%!Important}
+
+.poppy h3,.poppy h4,.poppylarge h3,.poppylarge h4{margin:0;padding:0;line-height:160%;clear:both}
+
+.poppy h2 {  color:#fff; text-transform:uppercase; text-align:center; background: #007bbe; padding: 10px; margin-bottom:20px; border-radius: 4px;}
+
+.poppy img{float:left; /* width:50% */}
+
+.poppy p,.poppylarge p{margin:0 0 5px!important;line-height:160%!Important;font-size:120%!Important}
+
+.poppy2{width:46%;left:56%;float:left;position:relative;padding: 0 0 1em 0;overflow: hidden;padding-top:32px;}
+
+.poppy1{width:46%;left:52%;float:left;position:relative;padding: 0 0 1em 0;overflow: hidden;}
+
+.poppy a:link,.poppylarge a:link{text-decoration:none;font-weight:700}
+
+.poppy a:hover,.poppylarge a:hover{text-decoration:none}
+
+.poppylarge{width:620px;max-height:320px;padding:0 20px 0 0}
+
+.poppylarge form{background:#eee;min-height:90px;padding:10px 15px 15px 15px;}
+
+.poppylarge input{height:20px}
+
+.poppylarge select{height:25px}
+
+.leaflet-popup-content {
+  background: #fff;
+	overflow-y: auto;
+	overflow-x: hidden;
+	width: auto!important;
+  box-shadow: 3px 3px 3px 1px rgba(0,0,0,0.25);
+	border-radius: 4px;
+}
+
+.leaflet-popup-content-wrapper::after {
+    content:"";
+    width:66px;
+    height: 32px;
+    display: inline-block;
+    position:relative;
+    left:155px;
+    float:left;
+    margin-left:-66px;
+    background: url(image/ponta.png);
+  }
+
+  .mapbox-logo-true:before {
+display: none;
+  }
+
+/* ------------- mapa ------------------------- */
+
+.leaflet-top {
+	top: 70px !important;
+}
+
+.leaflet-bar a, .leaflet-bar a:hover {
+
+}
+
+.leaflet-bar {
+    margin-top: 30px;
+}
+
+.leaflet-left .leaflet-control {
+  margin-left: 20px;
+  border: 1px solid #333;
+  border-radius:4.5px;
+}
+
+.leaflet-control-locate a {
+  background: url('../images/bg-local.png');
+  border-radius:0px;
+  border: 0px solid #009de1;
+  padding: 12px;
+}
+
+
+/* ---- Panellum ---- */
+
+#frame {
+  width: 220px;
+  height: 220px;
+}
+
+
+/* ------------- header ------------- */
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+}
+
+#logo-cl {
+  float:left;
+  margin-right: 2px;
+}
+
+#header {
+	display: inline-block;
+	text-align: center;
+	position:absolute;
+	z-index:10;
+	margin:20px 10px;
+  width: 90%;
+}
+
+#content {
+	margin-top: -8px;
+}
+
+
+#searchBox { 
+  outline:none;
+  height: 26px;
+  border-radius: 4px 0px 0px 4px;
+  border-top:1px solid #669;
+  border-left:1px solid #669;
+  border-right:none;
+  border-bottom:1px solid #669;
+  float:left;
+  color: #888;
+  padding-left:8px;
+  margin-left: 6px;
+}
+
+::-webkit-input-placeholder {
+   color: #888;
+   font-style: italic;
+}
+
+:-moz-placeholder {
+   color: #888;
+   font-style: italic;
+}
+
+#searchMap {
+  background: #009de1;
+  height: 30px;
+  border-top:1px solid #669;
+  border-right:1px solid #669;
+  border-bottom:1px solid #669;
+  border-left:none;
+  border-radius: 0px 4px 4px 0px;
+  transition: background 0.2s ease;
+  float:left;
+}
+
+#searchMap:hover {
+  background: #007bbe;
+}
+
+#searchMap img {
+  height: 100%;
+}
+
+#localMap {
+  background: #009de1;
+  height: 30px;
+  border: 1px solid #669;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+  float:left;
+  margin-left:10px;
+}
+
+#localMap:hover {
+  background: #007bbe;
+}
+
+#localMap img {
+  height: 100%;
+}
+
+#outros {
+  background: #009de1;
+  font-size: 12px;
+  border-radius: 4px;
+  float:right;
+  border:1px solid #669;
+  list-style: none;
+  margin-top:0px;
+  position: absolute;
+  top: 160px;
+  left: 2px;
+  display: inline-block;
+  width: 26px;
+  height: 25px;
+  background: url('../images/bg-sobre.png');
+}
+
+
+#outros a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.leaflet-top .leaflet-control {
+  top: 6px;
+}
+
+.leaflet-touch .leaflet-bar a {
+  width: 26px;
+  height: 26px;
+}
+
+#helper {
+    border-left: 1px solid #669;
+    margin-left:-4px;
+}
+
+#collab {
+  width: 4px;
+}
+
+#collab:hover {
+  background: #007bbe;
+  border-radius: 4px 0px 0px 4px;
+  transition: background 0.2s ease;
+}
+
+
+#helper:hover {
+  background: #007bbe;
+  border-radius: 0px 4px 4px 0px;
+  transition: background 0.2s ease;
+}
+
+.easy-autocomplete-container ul li, .easy-autocomplete-container ul .eac-category {
+	color: #000;
+}
+
+.poppy1 h2 {
+	text-align: center;
+	font-weight: bold;
+	color: #009de1;
+}
+
+.no-decoration {
+	list-style-type: none;
+}
+
+.int-voltar {
+  background: #ffcb08;
+}
+
+/* ------------- accordion ------------ */
+
+.tabs {
+  position: relative;
+  margin: 0;
+  padding: 15px;
+  font-size: 0;
+
+}
+
+#icone-acessibilidade {
+  width: 20px;
+  height: 20px;
+  float:right;
+  margin-left:4px;
+}
+
+#acess {
+  margin-top:-12px;
+}
+
+#acess li {
+  list-style-type: decimal;
+  display: block;
+  color: #fff;
+}
+
+.tabs li {
+  display: inline-block;
+  margin-right: 1px;
+  list-style-type: none;
+  font-size: 14px;
+}
+
+.tabs li:last-child { margin-right: 0; }
+
+.tabs li a {
+  display: block;
+  padding: 10px 15px;
+  background: rgba(219,219,219,1);
+  text-decoration: none;
+  color: #4B5056;
+  transition: background 0.2s ease;
+  border-radius: 4px;
+  width: 220px;
+  float: left;
+  text-align: center;
+}
+
+ a.onFocus {
+  border-radius: 4px 4px 0px 0px !important;
+  background: #ffcb08 !important;
+}
+
+.tabs li a:hover {
+	text-decoration:none;
+	background: #bbb;
+  color:#444;
+}
+
+.tabs a + div {
+  display: none;
+}
+
+.tabs div {
+  text-align: justify;
+}
+
+.selected {
+  display: block!important;
+ // position: absolute;
+ // left: 0;
+  font-size: 12px;
+  overflow: visible;
+  padding: 10px;
+  background: #eeeeee ;
+  border-radius: 0px 0px 4px 4px;
+  width:220px;
+  float: left;
+  /* transition: display 0.5s ease; */
+}
+
+.selected h4 {
+  color:#4B5056;
+  border-bottom: 2px solid #ffcb08;
+  margin: 15px 0;
+}
+
+.onFocus {
+  background: #eeeeee !important;
+  color: #4B5056 !important;
+}
+
+
+ .ui-autocomplete {
+    max-height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+#voltar {
+  background: #ccc;
+  font-size: 12px;
+  width: 50%;
+  color: #444;
+}
+
+#voltar:hover {
+  background: #999;
+  text-decoration: none;
+}
+
+#voltar>a:hover {
+  text-decoration: none;
+}
+
+/*
+.tabs a + div {
+  position: absolute;
+  left: 0;
+  height: 0;
+  padding: 0 15px;
+  overflow: hidden;
+}
+
+.tabs :target a { background: rgba(219,219,219,0); }
+
+.tabs :target a + div {
+  height: 100%;
+  overflow: visible;
+}*/
+
+@media (max-width: 768px) {
+
+.tabs a { width: 100%; }
+
+.tabs a + div {
+  position: static;
+  float: left;
+}
+
+.tabs li {
+  display: block;
+  overflow: hidden;
+  margin: 0 0 1px 0;
+}
+
+
+ .ui-autocomplete {
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+
+}
+
+/* Estilos modificados do JQuery UI */
+.ui-widget input[type=submit] {
+  background: #f6f6f6;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  padding: 3px 10px;
+}
+
+.ui-widget input[type=submit]:hover {
+  background: #ccc;
+}
+
+.ui-widget-header {
+  border: none;
+  background: #007bbe;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  padding-left:30px;
+}
+
+.ui-widget-content .ui-icon {
+  background-image: url("image/ui-icons_444444_256x240.png");
+}
+.ui-widget-header .ui-icon {
+  background-image: url("image/ui-icons_444444_256x240.png");
+}
+.ui-button .ui-icon {
+  background-image: url("image/ui-icons_777777_256x240.png");
+}
+.ui-state-hover .ui-icon,
+.ui-state-focus .ui-icon,
+.ui-button:hover .ui-icon,
+.ui-button:focus .ui-icon,
+.ui-state-default .ui-icon {
+  background-image: url("image/ui-icons_555555_256x240.png");
+}
+.ui-state-active .ui-icon,
+.ui-button:active .ui-icon {
+  background-image: url("image/ui-icons_ffffff_256x240.png");
+}
+
+a.interna {
+  color: #007bbe;
+}
+
+div#dialog-message {
+  width: 90%;
+  font-size: 13px; 
+  background: #fff;
+  border-radius: 5px;
+  height: auto;
+  padding: 15px;
+}
+
+#dialog-message ul {
+  list-style: none;
+}
+
+#dialog-message h4 {
+  font-size: 16px;
+  color:#4B5056;
+  border-bottom: 2px solid #ffcb08;
+  margin: 15px 0;
+  text-align: center;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+  border-width: 0px;
+}
+
+.lista-colunas {
+  float:left;
+  width:50%;
+  margin:10px;
+}
+
+.lista-colunas li {
+  font-size: 10px;
+  padding-right: 2px;
+  line-height: 1.7;
+}
+
+.lista-colunas li span {
+  color: #aaa;
+  font-style: italic;
+}
+
+*:focus {
+  outline: none;
+}
+
+.apoios {
+  width: 140px;
+  padding-bottom: 40px;
+}
+
+.apoios img {
+  border: 0px;
+  height: 50px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.leaflet-label-right {
+  display: none;
+}
+
+/* Formulario de email */
+
+input#name, input#email, textarea#message {
+  width: 200px;
+  background: #fff;
+  border: #ccc 1px solid;
+  margin-top:5px;
+  height: 25px;
+  padding: 2px 5px;
+}
+
+input#secret {
+  width: 120px;
+  background: #fff;
+  border: #ccc 1px solid;
+  margin-top:5px;
+  height: 25px;
+  padding: 2px 5px;
+}
+
+textarea#message {
+  height: 180px;
+  max-width: 200px;
+}
+
+label#name, label#email, label#message, label#secret {
+color: #333;
+text-shadow: none;
+  }
+
+input#submit {
+  background: #007bbe;
+  border-radius: 4px;
+  border: none;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+form {
+    margin:0
+}
+form label {
+    margin-bottom:.2em;
+    font-size:1.3rem;
+    line-height:1.3rem;
+    font-size:13px;
+    line-height:13px;
+    color:#e6e6e1;
+    text-shadow:0px -1px #202020
+}
+form label.error {
+    margin-bottom:1em;
+    font-size:1.2rem;
+    line-height:1.2rem;
+    font-size:12px;
+    line-height:12px;
+    color:#c0392b;
+    display: block;
+    text-shadow: none;
+}
+form input[type="text"], form textarea {
+    margin-bottom:1.25em;
+    font-family:"Inconsolata", sans-serif;
+    font-size:1.4rem;
+    line-height:1.4rem;
+    font-size:14px;
+    line-height:14px;
+    box-shadow:none;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    background:#e6e6e6;
+    border:1px solid #191919;
+    -moz-border-radius:0.2em;
+    -webkit-border-radius:0.2em;
+    border-radius:0.2em
+}
+form input[type="text"]:focus, form textarea:focus {
+    border-color:#191919;
+    box-shadow:none;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none
+}
+form input[type="text"][disabled], form textarea[disabled] {
+    background:#fff
+}
+form input[type="text"].error, form textarea.error {
+    background:#e6e6e6;
+    border-color:#c0392b
+}
+fieldset {
+    border:0px;
+    margin:0;
+    padding:0;
+}
+.required {
+    color:#e9266d
+}
+#success, #error {
+    display:none;
+}
+#success span, #error span {
+    display:block;
+    position:relative;
+    top:-307px;
+    width:85%;
+    background: #eee;
+    border-radius: 5px;
+    border: #ccc solid 1px;
+    padding: 10px;
+    margin-bottom: 3px;
+}
+#success span p, #error span p {
+    margin-top:6em
+}
+#success span p {
+  color:#9bd32d;
+}
+#error span p {
+  color:#c0392b;
+}
+
+#contact {
+  width: 100%;
+}
+
+/* Mapa */
+
+.wrapper {
+  overflow: hidden;
+}
+
+/* - MQueries - */
+
+
+/* FULL SCREEN */
+@media screen and (min-width: 768px) {
+  
+.apoios {
+  width: 250px;
+  padding-bottom: 0px;
+}
+
+.lista-colunas li {
+  font-size: 14px;
+  padding-right: 2px;
+}
+
+/* Formulario de email */
+
+input#name, input#email, textarea#message {
+  width: 500px;
+}
+
+input#secret {
+  width: 120px;
+}
+
+textarea#message {
+  height: 200px;
+  max-width: 600px;
+}
+
+label#name, label#email, label#message, label#secret {
+color: #333;
+text-shadow: none;
+  }
+
+/* Fim formulario */
+
+.leaflet-label-right {
+  display: block;
+}
+
+#searchBox {
+  width: 190px;
+}
+
+.poppy {
+  width: 500px;
+  height: auto;
+}
+
+#frame {
+  width: 500px;
+  height: 500px;
+}
+
+.leaflet-popup-content-wrapper::after {
+    left:296px;
+  }
+
+.selected {
+  width: 500px;
+}
+.tabs li a {
+  width: 500px;
+}
+
+#header {
+  width: 320px;
+}
+
+
+
+}
+
+/* TABLET */
+@media screen and (max-width: 767px) and (min-width: 520px) {
+
+.poppy {
+  width: 350px;
+  height: auto;
+}
+
+#frame {
+  width: 350px;
+  height: 350px;
+}
+
+.leaflet-popup-content-wrapper::after {
+    left:220px;
+  }
+
+.tabs li a {
+  width: 350px;
+}
+
+.selected {
+  width: 350px;
+}
+
+#header {
+  width: 300px;
+}
+
+}
+
+#conteudo-collab {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* TELINHA */
+@media screen and (max-width: 480px) {
+
+#searchBox {
+  width: 150px;
+}
+
+}

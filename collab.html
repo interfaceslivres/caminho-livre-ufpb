@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Caminho Livre UFPB/CCHLA</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href='css/style.css' rel='stylesheet' />
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js'></script>
+    <script src='js/email.js'></script>
+    <style>
+      body { background: #009de1; }
+    </style>
+</head>
+<body>
+
+<div id="conteudo-collab">
+  <div id="dialog-message" class="poppy">
+    <h2>SOBRE</h2>
+    <br><p>Caminho Livre CCHLA/UFPB é um projeto do <a class="interna" href="https://github.com/interfaceslivres" alt="Interfaces Livres">Interfaces Livres</a> que propõe-se a mapear o Campus da Universidade Federal da Paraíba.</p><br>
+
+    <h4> Colaboradores</h4>
+      <ul class="lista-colunas"> 
+          <li>- Haroldo Carvalho <span>(Front-end)</span></li>
+          <li>- Júlio Ximenes <span>(Front-end)</span></li>
+          <li>- Matheus Beltrão <span>(Conteúdo)</span></li>
+          <li>- Marina Lauritzen <span>(Pesquisa)</span></li>
+      </ul>
+      <ul class="lista-colunas"> 
+          
+          <li>- Edson <span>(Conteúdo)</span></li>
+          <li>- Layse Julyanne <span>(Idealização)</span></li>
+          <li>- Paulo Henrique <span>(Coordenação)</span></li>
+      </ul>
+    <br><br><br><br>
+
+    <h4>Apoio</h4>
+    <center>
+    <div class="apoios">
+        <a href="https://github.com/interfaceslivres" alt="Interfaces Livres"><img src="images/pat2.png"></a>
+        <a href="http://www.cchla.ufpb.br/ccmd/" alt="CCMD"><img src="images/pat4.png"></a>
+        <a href="http://www.cchla.ufpb.br" alt="CCHLA"><img src="images/pat3.png"></a>
+        <a href="http://www.ufpb.br" alt="UFPB"><img src="images/pat1.png"></a>
+      </div>
+    </center>
+    <br><br><br><br>
+
+    <h4> Contato</h4>
+    <center>
+
+
+
+  <!--Testes de email -->
+
+
+  <form id="contact" name="contact" method="post">  
+    <fieldset>  
+      <label for="name" id="name">Nome<span class="required">*</span></label><br>
+      <input type="text" name="name" id="name" size="30" value="" required/>
+  <br>
+      <label for="email" id="email">Email<span class="required">*</span></label><br>
+      <input type="text" name="email" id="email" size="30" value="" required/>
+  <br>
+      <label for="message" id="message">Mensagem<span class="required">*</span></label><br>
+      <textarea name="message" id="message" required></textarea>
+  <br>
+      <label for="secret" id="secret">3 + 4 = <span class="required">*</span></label><br>
+      <input type="text" id="secret" name="secret" value="" required/>
+  <br>
+      <input id="submit" type="submit" name="submit" value="ENVIAR" />  
+    </fieldset>  
+  </form>
+
+      <div id="success">
+        <span>
+          <p>Sua mensagem foi enviada com sucesso!</p>
+        </span>
+      </div>
+
+      <div id="error">
+        <span>
+          <p>Algo está errado, tente atualizar e enviar novamente.</p>
+        </span>
+      </div>
+
+    <br>
+    <hr>
+    <br>
+
+    <a href="index.html"><h2 id="voltar">Voltar</h2></a>
+
+    </center>
+    </div>
+</div>
+</body>
+</html>
