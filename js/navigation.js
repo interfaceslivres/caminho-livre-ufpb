@@ -1,4 +1,6 @@
   $(document).ready(function () {
+
+
           // A ordem dos itens aqui deve ser a mesma do array predios.
           var buscas = [
               [
@@ -49,8 +51,11 @@
                 'CAs',
                 'CA de Letras', 'CA de Serviço Social', 'CA de História', 'CA de Ciências Sociais', 'CA de Psicologia', 'CAs - Xerox'
               ],
-                            [
-                'Centro Administrativo'
+              [
+                'CT - Centro Administrativo', 'Centro Administrativo'
+              ],
+              [
+                'CT - Centro de Multimídia', 'Centro de Multimídia', 'Biscoitão', 'Bolo de Noiva'
               ]
 
           ];

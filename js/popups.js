@@ -1,4 +1,14 @@
-var Ambiente2_pop = '<div class="poppy"> <ul class="tabs"> <h2>Ambiente dos Professores II</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>57, 58, 59, 60, 61</p></div> </li> <li id=option2> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível"> <h4>Salas</h4> <p>62, 63, 64, 65, 66</p>   </div> </li> <li id=option3> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível">  <h4>Salas</h4> <p>67, 68, 69, 70, 71</p> </div> </li> </ul> </div>';
+var Ambiente2_pop = '<div class="poppy"> <ul class="tabs">'
+	+'<h2>Ambiente dos Professores II</h2>'
+	+'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected">'
+		+'<img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível">'
+		+'<h4>Salas</h4> <p>57, 58, 59, 60, 61</p></div> </li>'
+	+'<li id="option2"> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>'
+		+'<img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível">'
+		+'<h4>Salas</h4> <p>62, 63, 64, 65, 66</p>   </div> </li>'
+	+'<li id=option3> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>'
+		+'<img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível">'
+		+'<h4>Salas</h4> <p>67, 68, 69, 70, 71</p> </div> </li> </ul> </div>';
 var CCSABloco1_pop = '<div class="poppy"> <ul class="tabs"> <h2>CCSA - Bloco 1</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>T01, T02, T03, T04</p> <h4>Laboratórios</h4> <p>Laboratório de Bioengenharia, Laboratório de Engenharia de Alimentos, Laboratório de Operações Unitárias, Laboratório de Modelagem</p> <h4>Outros Ambientes</h4> <p>Coordenação de Engenharia de Produção</p> </div> </li> <li id=option2> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível"> <h4>Salas</h4> <p>101, 102, 103, 104, 105, 106, 107</p> <h4>Laboratórios</h4> <p>Laboratório de Fenômenos dos Transportes, Laboratório de Modelagem e Laboratório de Petróleo</p> <h4>Outros Ambientes</h4> <p>Ambientes dos Professores 108, 111 e 112</p>   </div> </li> <li id=option3> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível">  <h4>Salas</h4> <p>201, 202, 203, 205 e 207</p> <h4>Outros Ambientes</h4> <p>Departamento de Engenharia Elétrica, Departamento de Materiais, Coordenação de Engenharia de Materiais, Coordenação de Engenharia Ambiental, Coordenação de Engenharia Química e Ambiente dos Professores 210, 211, 212, 213, 214, 215, 216, 217, 219, 220 e 221.</p></div> </li> </ul> </div>';
 var CCSABloco2_pop = '<div class="poppy"> <ul class="tabs"> <h2>CCSA - Bloco 2</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>T01, T02, T03, T04</p> <h4>Laboratórios</h4> <p>Laboratório de Bioengenharia, Laboratório de Engenharia de Alimentos, Laboratório de Operações Unitárias, Laboratório de Modelagem</p> <h4>Outros Ambientes</h4> <p>Coordenação de Engenharia de Produção</p> </div> </li> <li id=option2> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível"> <h4>Salas</h4> <p>101, 102, 103, 104, 105, 106, 107</p> <h4>Laboratórios</h4> <p>Laboratório de Fenômenos dos Transportes, Laboratório de Modelagem e Laboratório de Petróleo</p> <h4>Outros Ambientes</h4> <p>Ambientes dos Professores 108, 111 e 112</p>   </div> </li> <li id=option3> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível">  <h4>Salas</h4> <p>201, 202, 203, 205 e 207</p> <h4>Outros Ambientes</h4> <p>Departamento de Engenharia Elétrica, Departamento de Materiais, Coordenação de Engenharia de Materiais, Coordenação de Engenharia Ambiental, Coordenação de Engenharia Química e Ambiente dos Professores 210, 211, 212, 213, 214, 215, 216, 217, 219, 220 e 221.</p></div> </li> </ul> </div>';
 var DEMID_pop = '<div class="poppy"> <ul class="tabs"> <h2>DEMID - Departamento de Mídias Digitais</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>T01, T02</p> <h4>Laboratórios</h4> <p>Laboratório de PCS</p> <h4>Outros Ambientes</h4> <p>Auditório</p> </div> </li> <li id=option2> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível"> <h4>Laboratórios</h4> <p>Laboratório de PCS, Laboratório de MACS I e II</p> <h4>Outros Ambientes</h4> <p>Estúdio de Vídeo, Estúdio de Áudio, Coordenação, Administração, Copa, Empresa Júnior, Almoxarifado.</p>   </div> </li> </ul> </div>';
@@ -24,6 +34,7 @@ var BlocoP_pop = '<div class="poppy"> <ul class="tabs"> <h2>Bloco P</h2> <li id=
 var BlocoQ_pop = '<div class="poppy"> <ul class="tabs"> <h2>Bloco Q</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>T01, T02, T03, T04</p> <h4>Laboratórios</h4> <p>Laboratório de Bioengenharia, Laboratório de Engenharia de Alimentos, Laboratório de Operações Unitárias, Laboratório de Modelagem</p> <h4>Outros Ambientes</h4> <p>Coordenação de Engenharia de Produção</p> </div> </li> <li id=option2> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível"> <h4>Salas</h4> <p>101, 102, 103, 104, 105, 106, 107</p> <h4>Laboratórios</h4> <p>Laboratório de Fenômenos dos Transportes, Laboratório de Modelagem e Laboratório de Petróleo</p> <h4>Outros Ambientes</h4> <p>Ambientes dos Professores 108, 111 e 112</p>   </div> </li> <li id=option3> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível">  <h4>Salas</h4> <p>201, 202, 203, 205 e 207</p> <h4>Outros Ambientes</h4> <p>Departamento de Engenharia Elétrica, Departamento de Materiais, Coordenação de Engenharia de Materiais, Coordenação de Engenharia Ambiental, Coordenação de Engenharia Química e Ambiente dos Professores 210, 211, 212, 213, 214, 215, 216, 217, 219, 220 e 221.</p></div> </li> </ul> </div>';
 var BlocoR_pop = '<div class="poppy"> <ul class="tabs"> <h2>Bloco R</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>T01, T02, T03, T04</p> <h4>Laboratórios</h4> <p>Laboratório de Bioengenharia, Laboratório de Engenharia de Alimentos, Laboratório de Operações Unitárias, Laboratório de Modelagem</p> <h4>Outros Ambientes</h4> <p>Coordenação de Engenharia de Produção</p> </div> </li> <li id=option2> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível"> <h4>Salas</h4> <p>101, 102, 103, 104, 105, 106, 107</p> <h4>Laboratórios</h4> <p>Laboratório de Fenômenos dos Transportes, Laboratório de Modelagem e Laboratório de Petróleo</p> <h4>Outros Ambientes</h4> <p>Ambientes dos Professores 108, 111 e 112</p>   </div> </li> <li id=option3> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível">  <h4>Salas</h4> <p>201, 202, 203, 205 e 207</p> <h4>Outros Ambientes</h4> <p>Departamento de Engenharia Elétrica, Departamento de Materiais, Coordenação de Engenharia de Materiais, Coordenação de Engenharia Ambiental, Coordenação de Engenharia Química e Ambiente dos Professores 210, 211, 212, 213, 214, 215, 216, 217, 219, 220 e 221.</p></div> </li> </ul> </div>';
 var CentroAdministrativo_pop = '<div class="poppy"> <ul class="tabs"> <h2>CT - Centro Administrativo</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>Sala do DECA, Sala de Multimídia, Sala de Reunião 1</p> <h4>Outros Ambientes</h4> <p>Portaria/Protocolo, Coordenação de Engenharia Mecânica, Coordenação de Engenharia Civil, Coordenação de Engenharia de Produção Mecânica, Coordenação de Engenharia de Alimentos, Coordenação de Química Industrial, Coordenação de Arquitetura e Urbanismo, Auditório, PPGAU, Departamento de Engenharia Mecânica, Departamento de Arquitetura e Urbanismo, Departamento de Engenharia Civil e Ambiental (DECA), Departamento de Engenharia de Alimentos, Departamento de Engenharia Química, Coordenação PPGECAM, Coordenação CPGCTA, Secretaria PPGCTA, Secretaria e Diretoria - CT, Acessorias (administrativa e planejamento), Setor de Gestão de Pessoas.</p> </div> </li> </ul> </div>';
+var CentroMultimidia_pop = '<div class="poppy"> <ul class="tabs"> <h2>CT - Centro de Multimidia</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Outros Ambientes</h4> <p>Auditório</p> </div> </li> <li id="option2"> <a href="#option2" onclick="menuInterno();">1º Andar</a> <div> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Outros Ambientes</h4> <p>Auditório</p> </div> </li> <li id="option3"> <a href="#option3" onclick="menuInterno();">2º Andar</a> <div> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>Sala 5 - PPGAU, Sala 8 - PPGEP, Sala 14 - PPGEM, Sala 15 - PPGEM</p> <h4>Outros Ambientes</h4> <p>PROJEQ (Empresa Júnior - Engenharia Química), Departamento de Engenharia de Materiais.</p> </div> </li> </ul> </div>';
 
 var notFound_pop = '<div class="poppy"> <ul class="tabs"> <h2>Local não encontrado</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">.</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Bloco não encontrado</h4> <p>Tente utilizar outra palavra-chave na busca.</p> </div> </li> </ul> </div>';
 
@@ -37,6 +48,64 @@ function menuInterno() {
             $(".tabs li a").removeClass('onFocus');
             $(focus).addClass('onFocus');
 		}
+
+function InserirPopUp(andares, titulo, wc0, wc1, wc2, ac0, ac1, ac2, salas0, salas1, salas2, labs0, labs1, labs2, amb0, amb1, amb2) {
+
+
+	function DefinirAcessibilidade(x){
+		if (x==0) {
+		return 'inacessivel';
+		}
+		else { 
+		return 'acessivel';
+		};
+	};
+
+	var wc0r = DefinirAcessibilidade(wc0);
+	var wc1r = DefinirAcessibilidade(wc1);
+	var wc2r = DefinirAcessibilidade(wc2);
+	var ac0r = DefinirAcessibilidade(ac0);
+	var ac1r = DefinirAcessibilidade(ac1);
+	var ac2r = DefinirAcessibilidade(ac2);
+
+
+		if (andares == 1) {
+
+			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
+			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
+			wc0r + '.png" title="Banheiro' + wc0r + '"><img id="icone-acessibilidade" src="images/' + ac0r + '.png" title="' + ac0r + '"> <h4>Salas</h4> <p>' + salas0 +
+			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li></ul> </div>';
+
+		}
+
+		if (andares == 2) {
+
+			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
+			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
+			wc0r + '.png" title="Banheiro' + wc0r + '"><img id="icone-acessibilidade" src="images/' + ac0r + '.png" title="' + ac0r + '"> <h4>Salas</h4> <p>' + salas0 + 
+			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li>' +
+			'<li id="option2"> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +
+			wc1r + '.png" title="Banheiro' + wc1r + '"><img id="icone-acessibilidade" src="images/' + ac1r + '.png" title="' + ac1r + '"> <h4>Salas</h4> <p>' + salas1 + 
+			'</p> <h4>Laboratórios</h4> <p>'+ labs1 + '</p> <h4>Outros Ambientes</h4> <p>' + amb1 + '</p> </div> </li></ul> </div>';
+
+		}
+
+		if (andares == 3) {
+			
+			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
+			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
+			wc0r + '.png" title="Banheiro' + wc0r + '"><img id="icone-acessibilidade" src="images/' + ac0r + '.png" title="' + ac0r + '"> <h4>Salas</h4> <p>' + salas0 + 
+			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li>' +
+			'<li id="option2"> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +
+			wc1r + '.png" title="Banheiro' + wc1r + '"><img id="icone-acessibilidade" src="images/' + ac1r + '.png" title="' + ac1r + '"> <h4>Salas</h4> <p>' + salas1 + 
+			'</p> <h4>Laboratórios</h4> <p>'+ labs1 + '</p> <h4>Outros Ambientes</h4> <p>' + amb1 + '</p> </div> </li>'+
+			'<li id="option3"> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +
+			wc2r + '.png" title="Banheiro' + wc2r + '"><img id="icone-acessibilidade" src="images/' + ac2r + '.png" title="' + ac2r + '"> <h4>Salas</h4> <p>' + salas2 + 
+			'</p> <h4>Laboratórios</h4> <p>'+ labs2 + '</p> <h4>Outros Ambientes</h4> <p>' + amb2 + '</p> </div> </li></ul> </div>';
+
+		}
+
+};
 
 
 //MODELO
