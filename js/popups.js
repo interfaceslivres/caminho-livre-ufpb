@@ -35,6 +35,30 @@ var BlocoQ_pop = '<div class="poppy"> <ul class="tabs"> <h2>Bloco Q</h2> <li id=
 var BlocoR_pop = '<div class="poppy"> <ul class="tabs"> <h2>Bloco R</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>T01, T02, T03, T04</p> <h4>Laboratórios</h4> <p>Laboratório de Bioengenharia, Laboratório de Engenharia de Alimentos, Laboratório de Operações Unitárias, Laboratório de Modelagem</p> <h4>Outros Ambientes</h4> <p>Coordenação de Engenharia de Produção</p> </div> </li> <li id=option2> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/inacessivel.png" title="Inacessível"> <h4>Salas</h4> <p>101, 102, 103, 104, 105, 106, 107</p> <h4>Laboratórios</h4> <p>Laboratório de Fenômenos dos Transportes, Laboratório de Modelagem e Laboratório de Petróleo</p> <h4>Outros Ambientes</h4> <p>Ambientes dos Professores 108, 111 e 112</p>   </div> </li> <li id=option3> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>  <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível">  <h4>Salas</h4> <p>201, 202, 203, 205 e 207</p> <h4>Outros Ambientes</h4> <p>Departamento de Engenharia Elétrica, Departamento de Materiais, Coordenação de Engenharia de Materiais, Coordenação de Engenharia Ambiental, Coordenação de Engenharia Química e Ambiente dos Professores 210, 211, 212, 213, 214, 215, 216, 217, 219, 220 e 221.</p></div> </li> </ul> </div>';
 var CentroAdministrativo_pop = '<div class="poppy"> <ul class="tabs"> <h2>CT - Centro Administrativo</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>Sala do DECA, Sala de Multimídia, Sala de Reunião 1</p> <h4>Outros Ambientes</h4> <p>Portaria/Protocolo, Coordenação de Engenharia Mecânica, Coordenação de Engenharia Civil, Coordenação de Engenharia de Produção Mecânica, Coordenação de Engenharia de Alimentos, Coordenação de Química Industrial, Coordenação de Arquitetura e Urbanismo, Auditório, PPGAU, Departamento de Engenharia Mecânica, Departamento de Arquitetura e Urbanismo, Departamento de Engenharia Civil e Ambiental (DECA), Departamento de Engenharia de Alimentos, Departamento de Engenharia Química, Coordenação PPGECAM, Coordenação CPGCTA, Secretaria PPGCTA, Secretaria e Diretoria - CT, Acessorias (administrativa e planejamento), Setor de Gestão de Pessoas.</p> </div> </li> </ul> </div>';
 var CentroMultimidia_pop = '<div class="poppy"> <ul class="tabs"> <h2>CT - Centro de Multimidia</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Outros Ambientes</h4> <p>Auditório</p> </div> </li> <li id="option2"> <a href="#option2" onclick="menuInterno();">1º Andar</a> <div> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Outros Ambientes</h4> <p>Auditório</p> </div> </li> <li id="option3"> <a href="#option3" onclick="menuInterno();">2º Andar</a> <div> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>Sala 5 - PPGAU, Sala 8 - PPGEP, Sala 14 - PPGEM, Sala 15 - PPGEM</p> <h4>Outros Ambientes</h4> <p>PROJEQ (Empresa Júnior - Engenharia Química), Departamento de Engenharia de Materiais.</p> </div> </li> </ul> </div>';
+var BlocoH_pop = InserirPopUp(
+	//Andar (0,1,2)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
 
 var notFound_pop = '<div class="poppy"> <ul class="tabs"> <h2>Local não encontrado</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">.</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Bloco não encontrado</h4> <p>Tente utilizar outra palavra-chave na busca.</p> </div> </li> </ul> </div>';
 
@@ -49,15 +73,15 @@ function menuInterno() {
             $(focus).addClass('onFocus');
 		}
 
-function InserirPopUp(andares, titulo, wc0, wc1, wc2, ac0, ac1, ac2, salas0, salas1, salas2, labs0, labs1, labs2, amb0, amb1, amb2) {
+function InserirPopUp(andares, titulo, wc0, ac0, salas0, labs0, amb0, wc1, ac1, salas1, labs1, amb1, wc2, ac2, salas2, labs2, amb2) {
 
 
 	function DefinirAcessibilidade(x){
 		if (x==0) {
-		return 'inacessivel';
+		return 'in';
 		}
 		else { 
-		return 'acessivel';
+		return '';
 		};
 	};
 
@@ -73,7 +97,7 @@ function InserirPopUp(andares, titulo, wc0, wc1, wc2, ac0, ac1, ac2, salas0, sal
 
 			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
 			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
-			wc0r + '.png" title="Banheiro' + wc0r + '"><img id="icone-acessibilidade" src="images/' + ac0r + '.png" title="' + ac0r + '"> <h4>Salas</h4> <p>' + salas0 +
+			wc0r + 'acessivel.png" title="Banheiro ' + wc0r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac0r + 'acessivel.png" title="' + ac0r + 'acessível"> <h4>Salas</h4> <p>' + salas0 +
 			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li></ul> </div>';
 
 		}
@@ -82,10 +106,10 @@ function InserirPopUp(andares, titulo, wc0, wc1, wc2, ac0, ac1, ac2, salas0, sal
 
 			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
 			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
-			wc0r + '.png" title="Banheiro' + wc0r + '"><img id="icone-acessibilidade" src="images/' + ac0r + '.png" title="' + ac0r + '"> <h4>Salas</h4> <p>' + salas0 + 
+			wc0r + 'acessivel.png" title="Banheiro ' + wc0r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac0r + 'acessivel.png" title="' + ac0r + 'acessível"> <h4>Salas</h4> <p>' + salas0 + 
 			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li>' +
 			'<li id="option2"> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +
-			wc1r + '.png" title="Banheiro' + wc1r + '"><img id="icone-acessibilidade" src="images/' + ac1r + '.png" title="' + ac1r + '"> <h4>Salas</h4> <p>' + salas1 + 
+			wc1r + 'acessivel.png" title="Banheiro ' + wc1r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac1r + 'acessivel.png" title="' + ac1r + 'acessível"> <h4>Salas</h4> <p>' + salas1 + 
 			'</p> <h4>Laboratórios</h4> <p>'+ labs1 + '</p> <h4>Outros Ambientes</h4> <p>' + amb1 + '</p> </div> </li></ul> </div>';
 
 		}
@@ -94,13 +118,13 @@ function InserirPopUp(andares, titulo, wc0, wc1, wc2, ac0, ac1, ac2, salas0, sal
 			
 			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
 			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
-			wc0r + '.png" title="Banheiro' + wc0r + '"><img id="icone-acessibilidade" src="images/' + ac0r + '.png" title="' + ac0r + '"> <h4>Salas</h4> <p>' + salas0 + 
+			wc0r + 'acessivel.png" title="Banheiro ' + wc0r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac0r + 'acessivel.png" title="' + ac0r + 'acessível"> <h4>Salas</h4> <p>' + salas0 + 
 			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li>' +
 			'<li id="option2"> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +
-			wc1r + '.png" title="Banheiro' + wc1r + '"><img id="icone-acessibilidade" src="images/' + ac1r + '.png" title="' + ac1r + '"> <h4>Salas</h4> <p>' + salas1 + 
+			wc1r + 'acessivel.png" title="Banheiro ' + wc1r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac1r + 'acessivel.png" title="' + ac1r + 'acessível"> <h4>Salas</h4> <p>' + salas1 + 
 			'</p> <h4>Laboratórios</h4> <p>'+ labs1 + '</p> <h4>Outros Ambientes</h4> <p>' + amb1 + '</p> </div> </li>'+
 			'<li id="option3"> <a href=#option3 onclick="menuInterno();">2º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +
-			wc2r + '.png" title="Banheiro' + wc2r + '"><img id="icone-acessibilidade" src="images/' + ac2r + '.png" title="' + ac2r + '"> <h4>Salas</h4> <p>' + salas2 + 
+			wc2r + 'acessivel.png" title="Banheiro ' + wc2r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac2r + 'acesivel.png" title="' + ac2r + 'acessível"> <h4>Salas</h4> <p>' + salas2 + 
 			'</p> <h4>Laboratórios</h4> <p>'+ labs2 + '</p> <h4>Outros Ambientes</h4> <p>' + amb2 + '</p> </div> </li></ul> </div>';
 
 		}

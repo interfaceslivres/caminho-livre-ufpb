@@ -1,6 +1,5 @@
   $(document).ready(function () {
 
-
           // A ordem dos itens aqui deve ser a mesma do array predios.
           var buscas = [
               [
