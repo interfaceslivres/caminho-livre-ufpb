@@ -990,3 +990,14 @@ var CentroMultimidia = {
       }
    }]
 };
+
+var BlocoH = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoH
+      }
+   }]
+};

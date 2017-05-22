@@ -1,3 +1,32 @@
+/* Modelo para criação da PopUp:
+
+var BlocoX_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+*/
+
 var Ambiente2_pop = '<div class="poppy"> <ul class="tabs">'
 	+'<h2>Ambiente dos Professores II</h2>'
 	+'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected">'
@@ -36,28 +65,28 @@ var BlocoR_pop = '<div class="poppy"> <ul class="tabs"> <h2>Bloco R</h2> <li id=
 var CentroAdministrativo_pop = '<div class="poppy"> <ul class="tabs"> <h2>CT - Centro Administrativo</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>Sala do DECA, Sala de Multimídia, Sala de Reunião 1</p> <h4>Outros Ambientes</h4> <p>Portaria/Protocolo, Coordenação de Engenharia Mecânica, Coordenação de Engenharia Civil, Coordenação de Engenharia de Produção Mecânica, Coordenação de Engenharia de Alimentos, Coordenação de Química Industrial, Coordenação de Arquitetura e Urbanismo, Auditório, PPGAU, Departamento de Engenharia Mecânica, Departamento de Arquitetura e Urbanismo, Departamento de Engenharia Civil e Ambiental (DECA), Departamento de Engenharia de Alimentos, Departamento de Engenharia Química, Coordenação PPGECAM, Coordenação CPGCTA, Secretaria PPGCTA, Secretaria e Diretoria - CT, Acessorias (administrativa e planejamento), Setor de Gestão de Pessoas.</p> </div> </li> </ul> </div>';
 var CentroMultimidia_pop = '<div class="poppy"> <ul class="tabs"> <h2>CT - Centro de Multimidia</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Outros Ambientes</h4> <p>Auditório</p> </div> </li> <li id="option2"> <a href="#option2" onclick="menuInterno();">1º Andar</a> <div> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Outros Ambientes</h4> <p>Auditório</p> </div> </li> <li id="option3"> <a href="#option3" onclick="menuInterno();">2º Andar</a> <div> <img id="icone-acessibilidade" src="images/wc-acessivel.png" title="Banheiro acessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Salas</h4> <p>Sala 5 - PPGAU, Sala 8 - PPGEP, Sala 14 - PPGEM, Sala 15 - PPGEM</p> <h4>Outros Ambientes</h4> <p>PROJEQ (Empresa Júnior - Engenharia Química), Departamento de Engenharia de Materiais.</p> </div> </li> </ul> </div>';
 var BlocoH_pop = InserirPopUp(
-	//Andar (0,1,2)
+	//Número de Andares (1,2,3)
 	2,
 	//Nome do prédio
-	"Nome",
+	"Bloco H",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
 	0, 1,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"CTH 101, CTH 102, CTH 103, CTH 104.",
+	"Laboratório de Modelos + Prototipagem (LM+P)",
+	"Centro Acadêmico do Curso de Arquitetura e Urbanismo (CACAU), Sala de Ferramentas LM+P",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
+	"AT1, AT2, AT3, AT4, AT5, AT6.",
 	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"Trama - Escritório Modelo de Arquitetura e Urbanismo",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var notFound_pop = '<div class="poppy"> <ul class="tabs"> <h2>Local não encontrado</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">.</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Bloco não encontrado</h4> <p>Tente utilizar outra palavra-chave na busca.</p> </div> </li> </ul> </div>';
@@ -96,7 +125,7 @@ function InserirPopUp(andares, titulo, wc0, ac0, salas0, labs0, amb0, wc1, ac1, 
 		if (andares == 1) {
 
 			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
-			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
+			'</h2><li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
 			wc0r + 'acessivel.png" title="Banheiro ' + wc0r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac0r + 'acessivel.png" title="' + ac0r + 'acessível"> <h4>Salas</h4> <p>' + salas0 +
 			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li></ul> </div>';
 
@@ -105,7 +134,7 @@ function InserirPopUp(andares, titulo, wc0, ac0, salas0, labs0, amb0, wc1, ac1, 
 		if (andares == 2) {
 
 			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
-			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
+			'</h2><li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
 			wc0r + 'acessivel.png" title="Banheiro ' + wc0r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac0r + 'acessivel.png" title="' + ac0r + 'acessível"> <h4>Salas</h4> <p>' + salas0 + 
 			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li>' +
 			'<li id="option2"> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +
@@ -117,7 +146,7 @@ function InserirPopUp(andares, titulo, wc0, ac0, salas0, labs0, amb0, wc1, ac1, 
 		if (andares == 3) {
 			
 			return '<div class="poppy"> <ul class="tabs"><h2>' + titulo +
-			'<li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
+			'</h2><li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">Térreo</a> <div class="selected"><img id="icone-acessibilidade" src="images/wc-' +
 			wc0r + 'acessivel.png" title="Banheiro ' + wc0r + 'acessível"><img id="icone-acessibilidade" src="images/' + ac0r + 'acessivel.png" title="' + ac0r + 'acessível"> <h4>Salas</h4> <p>' + salas0 + 
 			'</p> <h4>Laboratórios</h4> <p>'+ labs0 + '</p> <h4>Outros Ambientes</h4> <p>' + amb0 + '</p> </div> </li>' +
 			'<li id="option2"> <a href=#option2 onclick="menuInterno();">1º Andar</a> <div>' + '<img id="icone-acessibilidade" src="images/wc-' +

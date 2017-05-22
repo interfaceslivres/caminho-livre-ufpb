@@ -122,6 +122,49 @@ var xyCentroMultimidia =
           ]
         ];
 
+var xyBlocoH = 
+
+[
+          [
+          [
+            -34.84995782375336,
+            -7.144179483529257
+          ],
+          [
+            -34.84975665807724,
+            -7.144128917206782
+          ],
+          [
+            -34.8497673869133,
+            -7.144078350878697
+          ],
+          [
+            -34.84968960285187,
+            -7.144057059791514
+          ],
+          [
+            -34.84967082738876,
+            -7.144102303350593
+          ],
+          [
+            -34.84947234392166,
+            -7.144049075633559
+          ],
+          [
+            -34.84944015741348,
+            -7.144158192446794
+          ],
+          [
+            -34.84993904829025,
+            -7.144288600311361
+          ],
+          [
+            -34.84995782375336,
+            -7.144179483529257
+          ]
+          ]
+        ];
+
 
 
 // --- CCHLA - Coordenadas dos predios ---
@@ -1169,8 +1212,8 @@ var data = {
       type: "Feature",
       name: "CT Centro Administrativo",
       properties: {
-    wallColor: "rgba(255,255,255,1.5)",
-    roofColor: "rgba(255,255,255,1.5)",
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
     height: 9
     },
       geometry: {
@@ -1183,13 +1226,27 @@ var data = {
       type: "Feature",
       name: "CT Centro de Multimidia",
       properties: {
-    wallColor: "rgba(255,255,255,1.5)",
-    roofColor: "rgba(255,255,255,1.5)",
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
     height: 9
     },
       geometry: {
         type: "Polygon",
         coordinates: xyCentroMultimidia
+      }
+    },
+
+         {
+      type: "Feature",
+      name: "CT Bloco H",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoH
       }
     }
  

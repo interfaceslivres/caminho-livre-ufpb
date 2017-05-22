@@ -55,6 +55,9 @@
               ],
               [
                 'CT - Centro de Multimídia', 'Centro de Multimídia', 'Biscoitão', 'Bolo de Noiva'
+              ],
+              [
+                'CT - Bloco H', 'Bloco H'
               ]
 
           ];
