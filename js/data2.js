@@ -1001,3 +1001,47 @@ var BlocoH = {
       }
    }]
 };
+
+var BlocoE = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoE
+      }
+   }]
+};
+
+var BlocoD = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoD
+      }
+   }]
+};
+
+var BlocoFG = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoFG
+      }
+   }]
+};
+
+var BlocoN = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoN
+      }
+   }]
+};

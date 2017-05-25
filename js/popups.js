@@ -89,6 +89,106 @@ var BlocoH_pop = InserirPopUp(
 	"-"
 	);
 
+var BlocoE_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"Bloco E",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CTE 101, CTE 103, CTE 104, CTE 105.",
+	"Laboratório de Topografia",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
+
+var BlocoD_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"Bloco D",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CTD 101, CTD 103, CTD 105, CTD 107",
+	"-",
+	"Otimize Consultoria (Empresa Júnior de Engenharia de Produção)",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
+
+var BlocoFG_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Bloco F/G",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CTF 101, CTF 102, CTF 103 (Sala de aula - PPGCTA), Sala Acácia, Sala de estudo, Sala Eucaliptos, Sala Bouganville, Sala 14 (GESP). AMBIENTE DOS PROFESSORES: Sala 01 (Profª Christine Werba), Sala 02 (Profª Ivanize Cláudia dos Santos), Sala 03 (Profª Dra. Lenita Lessa), Sala 04 (Profª Msc. Luzia Goes Camboim), Sala 05 (Profª Juliana Gonçalves; Profª Dra. Márcia Souto), Sala 06 (Profª Dra. Aurélia Idrogo; Prof. Msc. Jonas Paiva; Prof. Dr. Miguel Otávio), Sala 07 (Profª Maria Bernadete; Prof. Antônio Coutinho), Sala 08 (Prof. Dr. Ivson F. dos Anjos; Prof. Msc. Múcio Souto), Sala 09 (Prof. PhD Francisco Másculo; Prof. Dr. Luciano Costa Santos), Sala 10 (Prof. Jailson Ribeiro; Profª Dra. Sandra Marioka), Sala 11 (Profª Maria de Lourdes; Prof. Ricardo Moreira - Grupo de Pesquisa: Produção, Estratégia, Tecnologia e Trabalho), Sala 13 (Profª Maria Silene - Grupo de Pesquisa: Complexidade & Organização).",
+	"Laboratório de Informática - INFOLAB, LADEPI/GPROPI",
+	"Coordenação PPGEM, Copa dos professores, Secretaria do Departamento de Engenharia de Produção, Secretaria do PPGEP, Auditório Dr. Antônio Souto Coutinho.",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala Xique-xique, Sala Mandacaru.",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
+
+var BlocoN_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"Bloco N",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CTN 101, CTN 102, CTN 103.",
+	"LECCUR (Laboratório de Estudos sobre Cidades, Culturas Contemporâneas e Urbanidades), LACESSE (Laboratório de Acessibilidade), LAMFIC (Laboratório de Modelos Físicos Qualitativos e Computacionais), LAMAB (Laboratório de Materiais e Biossistemas).",
+	"Copa dos funcionários da limpeza.",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
+
 var notFound_pop = '<div class="poppy"> <ul class="tabs"> <h2>Local não encontrado</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">.</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Bloco não encontrado</h4> <p>Tente utilizar outra palavra-chave na busca.</p> </div> </li> </ul> </div>';
 
 // mudar a classe dos itens do menu interno do popup

@@ -58,6 +58,18 @@
               ],
               [
                 'CT - Bloco H', 'Bloco H'
+              ],
+              [
+                'CT - Bloco E', 'Bloco E'
+              ],
+              [
+                'CT - Bloco D', 'Bloco D'
+              ],
+              [
+                'CT - Bloco F/G', 'Bloco F', 'Bloco G'
+              ],
+              [
+                'CT - Bloco N', 'Bloco N'
               ]
 
           ];
