@@ -24,13 +24,42 @@
     <!-- JS contendo as informações relacionadas à caixa de pesquisa -->
     <script src='https://code.jquery.com/ui/jquery-ui-git.js'></script>
     <!-- JS Padrão do JQuery UI -->
+
+<style>
+#blocao01 {
+    width:500px;
+    background: #ddd;
+    margin: 20px;
+    padding: 10px 20px;
+    float: left;
+}
+
+#blocao02 {
+    width:500px;
+    background: #ddd;
+    margin: 20px;
+    padding: 10px 20px;
+    float: left;
+}
+
+.todo {
+    width:1200px;
+    margin: 0 auto;
+    background: #0f0;
+}
+
+</style>
+
 </head>
 
 <body>
     
 
+<center>
 <b><h2>Laço facilitador de vidas</h2></b>
-<br>
+</center><br>
+<div class="todo">
+<div id="blocao01"><h3>Data1</h3>
 
 <p id="resultado"></p>
 
@@ -39,10 +68,29 @@ var matriz = ["Predio1", "Predio2", "Predio3", "Predio4", "EAssimVai"];
 
 var text = "";
 for (i = 0; i < matriz.length; i++) {
-    text += '{<br>type: "Feature",<br>name: "'+matriz[i]+'",<br>properties: {<br>wallColor: "rgba(87, 86, 62,1.5)",<br>roofColor: "rgba(202, 199, 157,1.5)",<br>height: 9<br>},<br>geometry: {<br>type: "Polygon",<br>coordinates: xy'+ matriz[i] +'<br>}<br>},'+"<br><br>";
+    text += '{<br>&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;name: "<b>'+matriz[i]+'</b>",<br>&nbsp;&nbsp;properties: {<br>wallColor: "rgba(87, 86, 62,1.5)",<br>roofColor: "rgba(202, 199, 157,1.5)",<br>height: 9<br>},<br>&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy'+ matriz[i] +'</b><br>&nbsp;&nbsp;}<br>},'+"<br><br>";
 }
 document.getElementById("resultado").innerHTML = text;
 </script>
+
+</div>
+<div id="blocao02">
+<h3>Data2</h3>
+
+<p id="resultado2"></p>
+
+<script>
+
+var text2 = "";
+
+for (i = 0; i < matriz.length; i++) {
+    text2 += 'var <b>' + matriz[i] + '</b>= {<br>&nbsp;&nbsp;type: "FeatureCollection",<br>&nbsp;&nbsp;features: [{<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy' + matriz[i] +'</b><br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;}]<br>};'+"<br><br>";
+}
+document.getElementById("resultado2").innerHTML = text2;
+</script>
+
+</div>
+</div>
 
 </body>
 
