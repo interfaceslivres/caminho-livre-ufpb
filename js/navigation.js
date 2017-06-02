@@ -70,6 +70,30 @@
               ],
               [
                 'CT - Bloco N', 'Bloco N'
+              ],
+              [
+                'Laboratório de Informática', 'Ambiente dos Professores do CT'
+              ],
+              [
+                'Laboratório de Análise de Alimentos'
+              ],
+              [
+                'CA Engenharia Mecânica'
+              ],
+              [
+                'CA Engenharia Civil'
+              ],
+              [
+                'Oficina Mecânica'
+              ],
+              [
+                'Galpão'
+              ],
+              [
+                'CT - Bloco A', 'Bloco A'
+              ],
+              [
+                'CT - Bloco B', 'Bloco B'
               ]
 
           ];

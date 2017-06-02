@@ -189,6 +189,209 @@ var BlocoN_pop = InserirPopUp(
 	"-"
 	);
 
+var LabInformatica_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+var LabAnaliseAlimentos_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+var CAEngenhariaMecanica_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+var CAEngenhariaCivil_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+var OficinaMecanica_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+var Galpao_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+var CTBlocoA_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+var CTBlocoB_pop = InserirPopUp(
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Nome",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala 01, Sala 02",
+	"Labs 01, Labs 02",
+	"Amb 01, Amb02",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala 11, Sala 12",
+	"Labs 11, Labs 12",
+	"Amb 11, Amb12",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala 21, Sala 22",
+	"Labs 21, Labs 22",
+	"Amb 21, Amb22"
+	);
+
+
+
+
 var notFound_pop = '<div class="poppy"> <ul class="tabs"> <h2>Local não encontrado</h2> <li id="option1"> <a href="#option1" id="button1" class="onFocus" onclick="menuInterno();">.</a> <div class="selected"> <img id="icone-acessibilidade" src="images/wc-inacessivel.png" title="Banheiro inacessível"><img id="icone-acessibilidade" src="images/acessivel.png" title="Acessível"> <h4>Bloco não encontrado</h4> <p>Tente utilizar outra palavra-chave na busca.</p> </div> </li> </ul> </div>';
 
 // mudar a classe dos itens do menu interno do popup

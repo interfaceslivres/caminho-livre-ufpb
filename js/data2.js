@@ -1045,3 +1045,91 @@ var BlocoN = {
       }
    }]
 };
+
+var LabInformatica = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyLabInformatica
+      }
+   }]
+};
+
+var LabAnaliseAlimentos = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyLabAnaliseAlimentos
+      }
+   }]
+};
+
+var CAEngenhariaMecanica = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCAEngenhariaMecanica
+      }
+   }]
+};
+
+var CAEngenhariaCivil = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCAEngenhariaCivil
+      }
+   }]
+};
+
+var OficinaMecanica = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyOficinaMecanica
+      }
+   }]
+};
+
+var Galpao = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyGalpao
+      }
+   }]
+};
+
+var CTBlocoA = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCTBlocoA
+      }
+   }]
+};
+
+var CTBlocoB = {
+  type: "FeatureCollection",
+  features: [{
+      type: "Feature",
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCTBlocoB
+      }
+   }]
+};

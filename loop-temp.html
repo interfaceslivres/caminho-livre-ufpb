@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Caminho Livre UFPB/CCHLA</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <!-- CSS Padrão do Leaflet [Necessário] | O leaflet permite utilização de funções no mapa - http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css -->
+    <link href='css/mapbox.css' rel='stylesheet' />
+    <!-- CSS Padrão do Mapbox [Necessário] | O mapbox permite utilização de funções no mapa e define o estilo dele - https://api.tiles.mapbox.com/mapbox.js/v2.2.4/mapbox.css -->
+    <link href='css/leaflet.label.css' rel='stylesheet' />
+    <!-- CSS Padrão do Leaflet Label | Permite a criação de labels por hover em cima dos edifícios - https://api.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.css -->
+    <link href='css/jquery-ui.min.css' rel='stylesheet' />
+    <!-- CSS Padrão do jquery-ui | Utilizamos o jquery-ui para a função de autocomplete -->
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <!-- Estilo do JQuery UI -->
+    <link href='css/style.css' rel='stylesheet' />
+    <!-- Nossa folha de estilos personalizada -->
+    <!-- JS -->
+    <script src='js/jquery-2.2.1.min.js'></script>
+    <!-- JS contendo as informações relacionadas à caixa de pesquisa -->
+    <script src='https://code.jquery.com/ui/jquery-ui-git.js'></script>
+    <!-- JS Padrão do JQuery UI -->
+</head>
+
+<body>
+    
+
+<b><h2>Laço facilitador de vidas</h2></b>
+<br>
+
+<p id="resultado"></p>
+
+<script>
+var matriz = ["Predio1", "Predio2", "Predio3", "Predio4", "EAssimVai"];
+
+var text = "";
+for (i = 0; i < matriz.length; i++) {
+    text += '{<br>type: "Feature",<br>name: "'+matriz[i]+'",<br>properties: {<br>wallColor: "rgba(87, 86, 62,1.5)",<br>roofColor: "rgba(202, 199, 157,1.5)",<br>height: 9<br>},<br>geometry: {<br>type: "Polygon",<br>coordinates: xy'+ matriz[i] +'<br>}<br>},'+"<br><br>";
+}
+document.getElementById("resultado").innerHTML = text;
+</script>
+
+</body>
+
+</html>
