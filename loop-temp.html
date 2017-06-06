@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Caminho Livre UFPB/CCHLA</title>
+    <title>INSERIR PRÉDIOS</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -26,26 +26,26 @@
     <!-- JS Padrão do JQuery UI -->
 
 <style>
-#blocao01 {
-    width:500px;
+.blocao {
+    width:300px;
     background: #ddd;
-    margin: 20px;
+    margin: 10px;
     padding: 10px 20px;
     float: left;
-}
-
-#blocao02 {
-    width:500px;
-    background: #ddd;
-    margin: 20px;
-    padding: 10px 20px;
-    float: left;
+    font-size: 14px;
+    border-radius: 5px;
 }
 
 .todo {
-    width:1200px;
+    width:1800px;
     margin: 0 auto;
     background: #0f0;
+}
+
+h3 {
+    text-align: center;
+    border-bottom: 2px #fff solid;
+    padding-bottom: 10px;
 }
 
 </style>
@@ -55,41 +55,116 @@
 <body>
     
 
+<!-- ADICIONE OS PRÉDIOS AQUI! -->
+
+        <script>
+        var matriz = ["Predio1","Predio2"];
+        </script>
+
+
+<!-- NÃO MEXA NO RESTO -->
+
+<script type="text/javascript">
+    function selectText(containerid) {
+        if (document.selection) {
+            var range = document.body.createTextRange();
+            range.moveToElementText(document.getElementById(containerid));
+            range.select();
+        } else if (window.getSelection) {
+            var range = document.createRange();
+            range.selectNode(document.getElementById(containerid));
+            window.getSelection().removeAllRanges();
+            window.getSelection().addRange(range);
+        }
+    }
+</script>
+
 <center>
-<b><h2>Laço facilitador de vidas</h2></b>
+<b><h2>LOOP PARA ADICIONAR PRÉDIOS</h2></b>
 </center><br>
+
+
+
 <div class="todo">
-<div id="blocao01"><h3>Data1</h3>
 
-<p id="resultado"></p>
+    <div class="blocao"><h3>Data1.js</h3>
 
-<script>
-var matriz = ["Predio1", "Predio2", "Predio3", "Predio4", "EAssimVai"];
+        <p id="resultado" onclick="selectText('resultado')"></p>
 
-var text = "";
-for (i = 0; i < matriz.length; i++) {
-    text += '{<br>&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;name: "<b>'+matriz[i]+'</b>",<br>&nbsp;&nbsp;properties: {<br>wallColor: "rgba(87, 86, 62,1.5)",<br>roofColor: "rgba(202, 199, 157,1.5)",<br>height: 9<br>},<br>&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy'+ matriz[i] +'</b><br>&nbsp;&nbsp;}<br>},'+"<br><br>";
-}
-document.getElementById("resultado").innerHTML = text;
-</script>
+        <script>
+        var text = "";
+        for (i = 0; i < matriz.length; i++) {
+            text += '{<br>&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;name: "<b>'+matriz[i]+'</b>",<br>&nbsp;&nbsp;properties: {<br>wallColor: "rgba(87, 86, 62,1.5)",<br>roofColor: "rgba(202, 199, 157,1.5)",<br>height: 9<br>},<br>&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy'+ matriz[i] +'</b><br>&nbsp;&nbsp;}<br>},'+"<br><br>";
+        }
+        document.getElementById("resultado").innerHTML = text;
+        </script>
 
-</div>
-<div id="blocao02">
-<h3>Data2</h3>
+    </div>
 
-<p id="resultado2"></p>
+    <div class="blocao">
+        <h3>Data2.js</h3>
 
-<script>
+        <p id="resultado2" onclick="selectText('resultado2')"></p>
 
-var text2 = "";
+        <script>
 
-for (i = 0; i < matriz.length; i++) {
-    text2 += 'var <b>' + matriz[i] + '</b>= {<br>&nbsp;&nbsp;type: "FeatureCollection",<br>&nbsp;&nbsp;features: [{<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy' + matriz[i] +'</b><br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;}]<br>};'+"<br><br>";
-}
-document.getElementById("resultado2").innerHTML = text2;
-</script>
+        var text2 = "";
 
-</div>
+        for (i = 0; i < matriz.length; i++) {
+            text2 += 'var <b>' + matriz[i] + '</b>= {<br>&nbsp;&nbsp;type: "FeatureCollection",<br>&nbsp;&nbsp;features: [{<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy' + matriz[i] +'</b><br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;}]<br>};'+"<br><br>";
+        }
+        document.getElementById("resultado2").innerHTML = text2;
+        </script>
+    </div>
+
+     <div class="blocao">
+        <h3>Popups.js</h3>
+
+        <p id="resultado3" onclick="selectText('resultado3')"></p>
+
+        <script>
+
+        var text3 = "";
+
+        for (i = 0; i < matriz.length; i++) {
+            text3 += 'var <b>'+matriz[i]+'_pop</b> = InserirPopUp(<br>//Número de Andares (1,2,3)<br>2,<br>//Nome do prédio<br>"<b>'+matriz[i]+'</b>",<br>//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)<br>0, 1,<br>//Salas do Térreo,<br> Laboratórios do Térreo, Ambientes do Térreo<br>"Sala 01, Sala 02",<br>"Labs 01, Labs 02",<br>"Amb 01, Amb02",<br>//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)<br>0, 0,<br>//Salas do 1º, Laboratórios do 1º, Ambientes do 1º<br>"Sala 11, Sala 12",<br>"Labs 11, Labs 12",<br>"Amb 11, Amb12",<br>//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)<br>0, 0,<br>//Salas do 2º, Laboratórios do 2º, Ambientes do 2º<br>"Sala 21, Sala 22",<br>"Labs 21, Labs 22",<br>"Amb 21, Amb22"<br>);<br><br>';
+        }
+        document.getElementById("resultado3").innerHTML = text3;
+        </script>
+    </div>
+
+     <div class="blocao">
+        <h3>Navigation.js</h3>
+
+        <p id="resultado4" onclick="selectText('resultado4')"></p>
+
+        <script>
+
+        var text4 = "";
+
+        for (i = 0; i < matriz.length; i++) {
+            text4 += "[<br>'<b>"+matriz[i]+"</b>'<br>],<br>";
+        }
+        document.getElementById("resultado4").innerHTML = text4;
+        </script>
+    </div>
+
+        <div class="blocao">
+        <h3>Index</h3>
+
+        <p id="resultado5" onclick="selectText('resultado5')"></p>
+
+        <script>
+
+        var text5 = "";
+
+        for (i = 0; i < matriz.length; i++) {
+            text5 += "[<br>'<b>"+matriz[i]+"</b>',<br>'<b>"+matriz[i]+"</b>'<br>],<br>";
+        }
+        document.getElementById("resultado5").innerHTML = text5;
+        </script>
+    </div>
+
 </div>
 
 </body>
