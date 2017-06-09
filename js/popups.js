@@ -194,751 +194,751 @@ var LabInformatica_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
 	2,
 	//Nome do prédio
-	"Nome",
+	"Laboratório de Informática / Ambiente dos Professores",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
-	0, 1,
+	1, 1,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"Sala: Profª Dra. Helenice Duarte de Holanda e Profª Dra. Stela de Lourdes Ribeiro de Medonça; Sala: Prof. Jovanka Baracuhy Scocuglia; Sala: Profª Dra. Esmeralda Paranhas dos Santos e Prof. Dr. Ricardo Targino Moreira; Sala: Profª Dra. Edilma Pinto Coutinho e Prof. Dr. Yuri Montenegro Ishihara.",
+	"Labgraf 2, Labgraf 3, Labgraf 4, Laboratório de Planejamento de Transportes.",
+	"Pracinha do CT, Lanchonete Dona Nena, Xerox, Planej (Empresa Júnior de Arquitetura e Engenharia Civil), Coordenação do Laboratório de Informática, Suporte do Laboratório de Informática.",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"Sala de Estudos PPGCTA; Sala: Prof. Claudino Lins, Prof. Fábio Lopes e Prof. Paulo Cabral; CT Empreendedor (Prof. Antônio Gualberto e Prof. Orlando Vilar)/Sala 19 (Prof. Anand Subramanian, Prof. Fábio Morais Borges, Prof. Marcel de Gois Pinto); Sala 40: Prof. Dr. Heinz Johann Holschuh e Prof. Dr. Marcelo Barbosa Muniz; Sala 41: Prof. Antônio Luiz de Albuquerque Gomes e Prof. Geraldo Dantas Silvestre Filho; Sala 43: Profª Berthilde Moura, Prof. Marco Coutinho, Profª Patrícia Alonso e Profª Wylnna Vidal; Sala: Profª Dra. Cláudia Torres, Prof. Dr. Antônio Francisco e Prof. Msc. Alexandre Azedo; Amb. 48: Prof. Dr. José Soares, Prof. Dr. Raul Rosenhaim e Prof. Dr. Rennio Felix de Senna; Sala: Frederico A. Melo do Vale e Romualdo Campos da Fonseca;  Sala: Prof. Dr. Paulo Henrique M. Montenegro.",
+	"LPPM 1, LARHENA",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var LabAnaliseAlimentos_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
-	2,
+	1,
 	//Nome do prédio
-	"Nome",
+	"Laboratório de Análise de Alimentos",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
 	0, 1,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"-",
+	"Laboratório de Microbiologia de Alimentos, Laboratório de Bioquímica de Alimentos, Laboratório de Pescado, Laboratório de Apoio, Laboratório de Flavor, Laboratório de Química de Alimentos, Laboratório de Tecnologia de Panificação e Massas Alimentícias, Laboratório de Processos Microbianos do Alimento.",
+	"Almoxarifado, Copa",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"-",
+	"-",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var CAEngenhariaMecanica_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
-	2,
+	1,
 	//Nome do prédio
-	"Nome",
+	"CA de Engenharia Mecânica",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
-	0, 1,
+	0, 0,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"-",
+	"-",
+	"COPIAX (Xerox e encadernação), CA Engenharia Mecânica",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"-",
+	"-",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var CAEngenhariaCivil_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
-	2,
+	1,
 	//Nome do prédio
-	"Nome",
+	"CA de Engenharia Civil",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
-	0, 1,
+	0, 0,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"-",
+	"-",
+	"Xerox, CA Engenharia Civil, Lanchonete.",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"-",
+	"-",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var OficinaMecanica_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
 	2,
 	//Nome do prédio
-	"Nome",
+	"Oficina Mecânica",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
-	0, 1,
+	0, 0,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"-",
+	"Laboratório de Inovação",
+	"Oficina mecânica",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"-",
+	"-",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var Galpao_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
 	2,
 	//Nome do prédio
-	"Nome",
+	"Galpão",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
-	0, 1,
+	0, 0,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"Sala de Acústica",
+	"-",
+	"Projeto Motorius",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"Sala do Prof. Virgílio",
+	"-",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var CTBlocoA_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
-	2,
+	1,
 	//Nome do prédio
-	"Nome",
+	"CT - Bloco A",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
-	0, 1,
+	1, 1,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"CTA 101, CTA 103, CTA 105, CTA 107",
+	"Laboratório de Hidropneumática",
+	"-",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"-",
+	"-",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var CTBlocoB_pop = InserirPopUp(
 	//Número de Andares (1,2,3)
-	2,
+	1,
 	//Nome do prédio
-	"Nome",
+	"CT - Bloco B",
 	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1) 
-	0, 1,
+	1, 1,
 	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-	"Sala 01, Sala 02",
-	"Labs 01, Labs 02",
-	"Amb 01, Amb02",
+	"CTB 101, CTB 102, CTB 103, CTB 105, CTB 107",
+	"Laboratório de Cromatografia e Quimiometria de Alimentos, Laboratório de Produto Fermento Destilado",
+	"Centro Acadêmico  - Engenharia de Alimentos, AEOROJAMPA - AERO DESIGN, Empresa Junior Acessoria - Engenharia de Alimentos, Departamento de Tecnologia Química e Alimentos",
 	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-	"Sala 11, Sala 12",
-	"Labs 11, Labs 12",
-	"Amb 11, Amb12",
+	"-",
+	"-",
+	"-",
 	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1) 
 	0, 0,
 	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-	"Sala 21, Sala 22",
-	"Labs 21, Labs 22",
-	"Amb 21, Amb22"
+	"-",
+	"-",
+	"-"
 	);
 
 var CTBlocoC_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CTBlocoC",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CT - Bloco C",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"Laboratório de Tecnologia de Alimentos - Controle de Qualidade, Laboratório de Tecnologia de Alimentos - Processamento, Laboratório de Análise e Pesquisas de Bebidas Alcoólicas, Laboratório de Engenharia de Alimentos, Laboratório de Análise Sensorial",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var BlocoEletrica_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"BlocoEletrica",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Bloco Elétrica",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"Laboratório de Carvão Aditivado: produção; Laboratório de Carvão Aditivado: análises; Laboratório de Automação e Controle; Laboratório de Conformação Mecânica; Laboratório de Tratamento Térmico; Laboratório de Dinâmica; Laboratório de Ensaios Mecânicos",
+	"Coordenação do Laboratório de Tratamento Térmico",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala de Multimídia",
+	"Laboratório de Representações Gráficas; Laboratório de Motores de Combustão Interna; Laboratório de Termoenergética; Laboratório de Instrumentação e Controle (LINC); Laboratório de Transferência de Calor e Massa/Laboratório de Refrigeração e Ar Condicionado (LABREFRIG); Laboratório de Metrologia Dimensional (METROMEC); LabGraf B - Representações Gráficas; Laboratório de Máquinas e Acionamentos Elétricos (LABMAC)",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var LabPPHL_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"LabPPHL",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"Laboratório PPHL",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"Laboratório Piloto de Química, Laboratório de Microbiologia, Laboratório de Tecnologia Química",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var LabEEHS_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"LabEEHS",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"Lab de Ef. Energética e Hidráulica em Saneamento",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"Laboratório de Eficiência Energética e Hidráulica em Saneamento",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var BibliotecaCentralCT_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"BibliotecaCentralCT",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Biblioteca Setorial do CT",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"-",
+	"Biblioteca Setorial CT - Profº. Orlando Villar",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	1, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala de Professores - Engenharia Química",
+	"Laboratório de Pesquisa Projeto e Memória 2, Laboratório de Microengenharia, Laboratório de Métodos Quantitativos Aplicados, Laboratório - Engenharia de Alimentos, Laboratório de Pesquisa em Sistemas Ambientais Urbano",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CTBlocoM_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CTBlocoM",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	3,
+	//Nome do prédio
+	"CT - Bloco M",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"Laboratório de Materiais Cerâmicos, Laboratório de Materiais Metálicos, Laboratório de Ciderurgia, Laboratório de Materiais Polímeros ",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	1, 1,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"Laboratório de Eletrônica Analógica e Digital, Laboratório de Automação e Controle, Laboratório de Eletrotécnica, Laboratório de Materiais e Instrumentação, Laboratório de Máquinas e Acionamentos",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	1, 1,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"CTM 201, CTM 202, CTM 203, CTM 204, CTM 205",
+	"-",
+	"-"
+	);
 
 var CTBlocoK_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CTBlocoK",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	3,
+	//Nome do prédio
+	"CT - Bloco K",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"Laboratório de Engenharia de Precisão",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	1, 1,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"Laboratório de  Processamento de Sinais, Laboratório de Otimização de Sistema de Energia",
+	"Grupo de Pesquisa em Inteligência Computacional Aplicada, Ambiente de Professores - Profº. Antônio Augusto, Profº. Antônio Sérgio, Profº. Clinaldo Araújo",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	1, 1,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"CTK 201, CTK 202",
+	"Laboratório de Simulação de Processos Discretos, Laboratório de Análise de Trabalho",
+	"Ambiente de Professores - Profº. Helon David de Macedo Braz, Profº. Rafael de Sousa Marinho, Profº. Romero Leandro Andersen"
+	);
 
 var LabEME_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"LabEME",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Laboratório de Ensaio de Materiais e Estruturas / Núcleo de Estudos e Pesquisas em Materiais",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	1, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala do Programa de Pós-graduação em Engenharia Civil e Ambiental, Sala de Aula do Laboratório de Materiais e Produtos Cerâmicos",
+	"Laboratório de Saneamento, Laboratório de Geotecnia e Pavimentação, Laboratório de Materiais e Produtos Cerâmicos, Laboratório de Análise Estrutural e Avaliação de Desempenho, Laboratório de Ensaio de Materiais e Estruturas",
+	"Coordenação do Laboratório de Saneamento, Laboratório de Geotecnia e Pavimentação, Copa, Almoxarifado",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Sala Multimídia, Sala de Estudos, Sala dos Técnicos, Sala do Profº. Tadeu Antônio de Azevedo Melo, Salas de Professores",
+	"Laboratório de Solidificação Rápida, Laboratório de Ensaios Mecânicos, Laboratório de Processamento de Materiais, Laboratório de Caracterização Microestrutural, Laboratório de Metalografia, Laboratório de Química, Laboratório de Análise Térmica",
+	"Coordenação do Laboratório de Solidificação Rápida ",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CTBlocoL_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CTBlocoL",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CT - Bloco L",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"-",
+	"WC Masculino, WC Feminino",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CTBlocoJ_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CTBlocoJ",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	3,
+	//Nome do prédio
+	"CT - Bloco J",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CTJ T01, CTJ T102, CTJ T03, CTJ T07, Coordenação de Engenharia de Produção",
+	"Laboratório de Termodinâmica, Laboratório de Reatores Químicas, Laboratório de Operações Unitárias, Laboratório de Bioengenharia, Laboratório de Modelagem em Materiais, Laboratório de Tecnologia de Carnes e Derivados, Laboratório de Leite e Derivados",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	1, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"CTJ 101, CTJ 102, CTJ 103, CTJ 104, CTJ 105, CTJ 106, CTJ 107, CTJ 111 - Ambiente de Professores: Profº. Genari Clericuzi, Profª.Karla Silvana Sousa, Profª. Veruscka Silva",
+	"Laboratório de Modelagem Computacional e Controle de Processos, Laboratório de Fenômenos de Transportes, Laboratório de Petróleo ",
+	"Ambiente de Professores - Engenharia Química: Profº. Alfredo Ismael Curbelo Garnica, Profª. Fabíola Dias da Silva Curbelo; Ambiente de Professores - Engenharia Química: Profº. Flávio Luiz Honorato, Profª. Josilene Assis Cavalcante, Profº. Nagel Alves Costa, Profª. Sharline Florentino de Melo Santos, Profª. Vivian Stumpf Madeira",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	1, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"CTJ 201, CTJ 202, CTJ 203; CTJ 204 - Departamento/ Coordenação de Engenharia Elétrica; CTJ 205 - Sala dos Professores - Centro de Energias Alternativas e Renováveis: Profº. Alexandre Castro, Profº. Darlan Alexandria, Profº. Rogério Gaspar; CTJ 206 - Departamento de Engenharia de Materiais; CTJ 207 - Sala dos Professores: Profª. Lucineide Balbino da Silva, Profª. Renata Maria Ramos Wellen, Profº. Tibério Andrade Passos; CTJ 208 - Coordenação do Curso de Engenharia Ambiental; CTJ 209 - Coordenação de Engenharia Química; CTJ 210 - Ambiente de Professores - Engenharia de Materiais; CTJ 211 - Sala dos Professores - Centro de Energias Alternativas e Renováveis: Profº. Carlos Alberto, Profº. Juan Maurício, Profª. Nady Costa; CTJ 212 - Sala dos Professores - Engenharia Ambiental e Engenharia Civil; CTJ 214 - Sala dos Professores: Profº. Fabiano Salvatori, Profº. Lucas Hartmann; CTJ 215 - Sala dos Professores - Centro de Energias Alternativas e Renováveis: Profº.  Euder Macedo, Profº. Fabrício Braga; CTJ 216 - Sala dos Professores: Profº. Gilson Barbosa Athayde Júnior, Profº. Joácio de Araújo Morais Júnio, Profº. Leonardo Vieira Soares; CTJ 217 - Sala dos Professores: Profº. Danniel Ferreira de Oliveira, Profº. Heber Sivini Ferreira, Profº. Ramon Alves Torquato; CTJ 218 - Coordenação de Engenharia de Materiais; CTJ 220 - Sala dos Professores: Profª. Alessandra Berenguer de Morais, Profº. Claúdio Ruy Portela de Vasconcelos, Profº. Jonas Alves Paiva; CTJ 221 - Sala dos Professores: Amélia Severino Ferreira Santos, Profª. Daniele Gueres de Lima Cavalcante, Profª. Itamara Farias Leite",
+	"Laboratório de Engenharia de Sustentabilidade e Consumo",
+	"-"
+	);
 
 var CABlocoA_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoA",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco A",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CAA 101, CAA 102, CAA 103, CAA 104, CAA 105, CAA 106",
+	"-",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoB_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoB",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco B",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CAB 101, CAB 102, CAB 103, CAB 104, CAB 105, CAB 106, CAB 107.",
+	"-",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoC_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoC",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco C",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala de administração, CAC 107, CAC 108",
+	"Laboratório de Inclusão Digital (LID)",
+	"Auditório I, auditório II, PNAIC",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoD_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoD",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco D",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CAD 101, CAD 102, CAD 103, CAD 104, CAD 105, CAD 106, CAD 107, CAD 108, CAD 109, CAD 110, CAD 111.",
+	"-",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoE_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoE",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco E",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CAE 101, CAE 102, CAE 103, CAE 104, CAE 105, CAE 106, CAE 107, CAE 108, CAE 109, CAE 110, CAE 111.",
+	"-",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoF_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoF",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco F",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CAF 101, CAF 102, CAF 103, CAF 104, CAF 105, CAF 106, CAF 107, CAF 108, CAF 109, CAF 110, CAF 111.",
+	"-",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoG_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoG",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco G",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CAG 101, CAG 102, CAG 103, CAG 104, CAG 105, CAG 106",
+	"-",
+	"Núcleo de documentação e informação histórica regional - NDIHR",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoH_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoH",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco H",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CAH 101, CAH 102, CAH 103, CAH 104, CAH 105, CAH 106, CAH 107, CAH 108.",
+	"-",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CABlocoI_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CABlocoI",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	1,
+	//Nome do prédio
+	"CA - Bloco I",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 0,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"CE 313, CE 314, CCSA 212, CCHLA 412, CCHLA 413, CCHLA 414, CCHLA 415, CCHLA 416.",
+	"-",
+	"-",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"-",
+	"-",
+	"-",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var CCJ_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"CCJ",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"CCJ",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	1, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala de aula 10, sala de reuniões e professores, pesquisa científica 1, pesquisa científica 2, extensão universitária, assessorias acadêmicas, assessoria de informática e manutenção, coordenação de graduação, departamento de direito público - DDPu, departamento de direito provado - DDPr, departamento de direito processual e prática jurídica, coordenação de monografia, secretaria de direção de centro.",
+	"Linjur - Lab. de informática jurídica, Lab. de pesquisas online e periódicos",
+	"Portaria, auditório, recepção do auditório, biblioteca, ambiente dos professores DDPPJ, ambiente dos professores DDPr, ambiente dos professores DDPu, ambiente do pessoal de apoio, copa, almoxarifado.",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	1, 1,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Salas de aula 1-9, sala de multimídia, arquivo, Programa de pós-graduação em ciências jurídicas (mestrado e doutorado)",
+	"-",
+	"Reprografia (xerox)",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var ElefanteBrancoBlocoI_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"ElefanteBrancoBlocoI",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+		//Número de Andares (1,2,3)
+	2,
+	//Nome do prédio
+	"Elefante Branco - Bloco I",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"Sala de Triagem, Sala Maria Adeilda do Nascimento Carneiro, Salas de aula: 101 a 107 ",
+	"Laboratório de Técnicas de Enfermagem - Profª Anaísa Lins Batista, Laboratório Didático de Dentística Laboratorial, Laboratório Didático de Prótese Fixa, Laboratório Didático de Prótese Total, Laboratório Didático de Oclusão, Laboratório de Informática do CCS, Laboratório de Estudo do Equilíbrio, dinamometria e eletromiografia (LEEDE), Laboratório de Ergoespirometria, Laboratório de Análise do Desenvolvimento Humano (LAHM), Laboratório de Pesquisa Básica em Fisioterapia  ",
+	"Clínica de Estomatologia, Setor de Radiologia Odontológica, Xerox, Setor RH do CCS, Núcleo de Pesquisa em Ciências do Movimento Humano",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 1,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Salas 133, 134, 135, 136, 139, 144, 145, 146, 147, 173, Sala de Expedição de Resultados, Sala Material Liac, Salas de aula do D.C.F 01 e 02",
+	"Laboratório de Análises Clínicas, Laboratório de Parasitologia, Laboratório de Farmacognosia, Laboratório de Micologia, Laboratório de Imunologia Clínica, Laboratório de Farmacotécnica, Laboratório de Clínica Farmacêutica, Laboratório de Hematologia, Laboratório 132, Laboratório de Bioquímica, Laboratório de Pesquisa: Atividade Antibacteriana e Antifungica de Produtos Naturais e/ou Sintéticos Bioativos",
+	"Almoxarifado",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"-",
+	"-",
+	"-"
+	);
 
 var ElefanteBrancoBlocoII_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
-//Nome do prédio
-"ElefanteBrancoBlocoII",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
+	3,
+	//Nome do prédio
+	"Elefante Branco - Bloco II",
+	//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+	0, 1,
+	//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+	"-",
+	"-",
+	"Departamento de Odontologia Restauradora CCS; Coordenação de Pós-graduação Odontologia; Núcleo de Pesquisa em Bioética - NEPB",
+	//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+	0, 0,
+	//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+	"Salas próximas ao Departamento de Fisioterapia: Sala 1, sala 2, sala 3 – Disciplina de Saúde Coletiva, sala 4, sala 5, sala 6, sala 7, sala 8, sala 9 – Sala de Reunião, Salas próximas ao departamento de Ciências Farmacêuticas: Sala de aula 1 e 2, Sala Profª Silvana Teresa L. Jales e Profº José Damião C. Borba, Sala Dr. Lauro Santos Filho e Dra. Isabele Beserra S. Gomes, Sala Profº Dr. João Vianney M. S. S. Maior e Profª Dra. Luciana Aranha. ",
+	"Laboratório de Biologia Bucal, Laboratório de Biomateriais I, Laboratório de Biomateriais II",
+	"Departamento de Fisioterapia, Núcleo de Estudos e Pesquisas Interdisciplinares em Biomateriais – NEPIBIO, Banco de Dentes Humanos BDH/CCS, Comitê de Ética em Pesquisa do CCS, Ambiente Docente – Professor Fábio Correia Sampaio, Ambiente Docente (sem identificação), Copa, 2 Auditórios (sem identificação), Grupo de Pesquisa em Biomateriais – GEPIBIO, Coordenação do Estágio Supervisionado em Análises Clínicas, Departamento de Ciências Farmacêuticas, Chefia do Departamento de Ciências Farmacêuticas",
+	//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+	0, 0,
+	//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+	"Sala Mestrado em Ciências da Nutrição.Próximo ao departamento de nutrição: Sala dos professores. Próximo ao departamento de enfermagem em saúde coletiva: Ambiente docente, sala 1 e 2 - Enfermagem Saúde Pública, sala 1 e 2 - Enfermagem Clínica Pediátrica, sala Enfermagem Obstétrica, sala Enfermagem Psiquiátrica, Sala de reunião. Próximo ao Núcleo de Estudos em Saúde Coletiva: Sala Epidemiologia, sala de Planejamento e gestão, sala Saúde Mental, sala Pós-graduação, especialização e residência, sala Educação em Saúde, sala Saúde e Trabalho ",
+	"-",
+	"Departamento de Nutrição, Sala de audio-visual, Cantina, Chefia do Departamento de Nutrição, Departamento de Enfermagem em Saúde Coletiva, Copa, Auditório, Núcleo de Estudos em Saúde Coletiva - NESC, Coordenação do NESC, Secretaria do Estágio Rural Integrado - ERI , Coordenação do ERI, Auditório do ERI"
+	);
 
 
 

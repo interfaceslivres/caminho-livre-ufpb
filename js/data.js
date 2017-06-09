@@ -2633,7 +2633,7 @@ var data = {
  
 {
   type: "Feature",
-  name: "CTBlocoC",
+  name: "CT Bloco C",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2647,7 +2647,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "BlocoEletrica",
+  name: "Bloco Elétrica",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2661,7 +2661,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "LabPPHL",
+  name: "Laboratório PPHL",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2675,7 +2675,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "LabEEHS",
+  name: "Laboratório EEHS",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2689,7 +2689,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "BibliotecaCentralCT",
+  name: "Biblioteca Central CT",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2703,7 +2703,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CTBlocoM",
+  name: "CT Bloco M",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2717,7 +2717,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CTBlocoK",
+  name: "CT Bloco K",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2731,7 +2731,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "LabEME",
+  name: "Laboratório EME",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2745,7 +2745,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CTBlocoL",
+  name: "CT Bloco L",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2759,7 +2759,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CTBlocoJ",
+  name: "CT Bloco J",
   properties: {
 wallColor: "rgba(87, 86, 62,1.5)",
 roofColor: "rgba(202, 199, 157,1.5)",
@@ -2773,7 +2773,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoA",
+  name: "CA Bloco A",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2787,7 +2787,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoB",
+  name: "CA Bloco B",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2801,7 +2801,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoC",
+  name: "CA Bloco C",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2815,7 +2815,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoD",
+  name: "CA Bloco D",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2829,7 +2829,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoE",
+  name: "CA Bloco E",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2843,7 +2843,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoF",
+  name: "CA Bloco F",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2857,7 +2857,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoG",
+  name: "CA Bloco G",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2871,7 +2871,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoH",
+  name: "CA Bloco H",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2885,7 +2885,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "CABlocoI",
+  name: "CA Bloco I",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2913,7 +2913,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "ElefanteBrancoBlocoI",
+  name: "Elefante Branco Bloco I",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",
@@ -2927,7 +2927,7 @@ height: 9
 
 {
   type: "Feature",
-  name: "ElefanteBrancoBlocoII",
+  name: "Elefante Branco Bloco II",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
 roofColor: "rgba(255, 255, 255,1.5)",

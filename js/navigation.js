@@ -57,19 +57,19 @@
                 'CT - Centro de Multimídia', 'Centro de Multimídia', 'Biscoitão', 'Bolo de Noiva'
               ],
               [
-                'CT - Bloco H', 'Bloco H'
+                'CT - Bloco H'
               ],
               [
-                'CT - Bloco E', 'Bloco E'
+                'CT - Bloco E'
               ],
               [
-                'CT - Bloco D', 'Bloco D'
+                'CT - Bloco D'
               ],
               [
                 'CT - Bloco F/G', 'Bloco F', 'Bloco G'
               ],
               [
-                'CT - Bloco N', 'Bloco N'
+                'CT - Bloco N'
               ],
               [
                 'Laboratório de Informática', 'Ambiente dos Professores do CT'
@@ -90,76 +90,76 @@
                 'Galpão'
               ],
               [
-                'CT - Bloco A', 'Bloco A'
+                'CT - Bloco A'
               ],
               [
-                'CT - Bloco B', 'Bloco B'
+                'CT - Bloco B'
               ],
               [
-              'CTBlocoC'
+              'CT - Bloco C'
               ],
               [
-              'BlocoEletrica'
+              'Bloco Elétrica'
               ],
               [
-              'LabPPHL'
+              'Laboratório PPHL'
               ],
               [
-              'LabEEHS'
+              'Laboratório de Eficiência Energética e Hidráulica em Saneamento'
               ],
               [
-              'BibliotecaCentralCT'
+              'Biblioteca Setorial do CT'
               ],
               [
-              'CTBlocoM'
+              'CT - Bloco M'
               ],
               [
-              'CTBlocoK'
+              'CT - Bloco K'
               ],
               [
-              'LabEME'
+              'Laboratório de Ensaio de Materiais e Estruturas', 'Núcleo de Estudos e Pesquisa em Materiais'
               ],
               [
-              'CTBlocoL'
+              'CT - Bloco L'
               ],
               [
-              'CTBlocoJ'
+              'CT - Bloco J'
               ],
               [
-              'CABlocoA'
+              'CA - Bloco A'
               ],
               [
-              'CABlocoB'
+              'CA - Bloco B'
               ],
               [
-              'CABlocoC'
+              'CA - Bloco C'
               ],
               [
-              'CABlocoD'
+              'CA - Bloco D'
               ],
               [
-              'CABlocoE'
+              'CA - Bloco E'
               ],
               [
-              'CABlocoF'
+              'CA - Bloco F'
               ],
               [
-              'CABlocoG'
+              'CA - Bloco G'
               ],
               [
-              'CABlocoH'
+              'CA - Bloco H'
               ],
               [
-              'CABlocoI'
+              'CA - Bloco I'
               ],
               [
               'CCJ'
               ],
               [
-              'ElefanteBrancoBlocoI'
+              'Elefante Branco - Bloco I'
               ],
               [
-              'ElefanteBrancoBlocoII'
+              'Elefante Branco - Bloco II'
               ]
 
           ];
