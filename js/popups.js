@@ -390,6 +390,555 @@ var CTBlocoB_pop = InserirPopUp(
 	"Amb 21, Amb22"
 	);
 
+var CTBlocoC_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CTBlocoC",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var BlocoEletrica_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"BlocoEletrica",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var LabPPHL_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"LabPPHL",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var LabEEHS_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"LabEEHS",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var BibliotecaCentralCT_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"BibliotecaCentralCT",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CTBlocoM_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CTBlocoM",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CTBlocoK_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CTBlocoK",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var LabEME_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"LabEME",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CTBlocoL_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CTBlocoL",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CTBlocoJ_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CTBlocoJ",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoA_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoA",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoB_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoB",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoC_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoC",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoD_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoD",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoE_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoE",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoF_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoF",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoG_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoG",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoH_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoH",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CABlocoI_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CABlocoI",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CCJ_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CCJ",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var ElefanteBrancoBlocoI_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"ElefanteBrancoBlocoI",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var ElefanteBrancoBlocoII_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"ElefanteBrancoBlocoII",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
 
 
 

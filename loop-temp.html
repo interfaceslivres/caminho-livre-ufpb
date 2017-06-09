@@ -58,7 +58,7 @@ h3 {
 <!-- ADICIONE OS PRÉDIOS AQUI! -->
 
         <script>
-        var matriz = ["Predio1","Predio2"];
+        var matriz = ["CCJ","ElefanteBrancoBlocoI","ElefanteBrancoBlocoII"];
         </script>
 
 
@@ -94,7 +94,7 @@ h3 {
         <script>
         var text = "";
         for (i = 0; i < matriz.length; i++) {
-            text += '{<br>&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;name: "<b>'+matriz[i]+'</b>",<br>&nbsp;&nbsp;properties: {<br>wallColor: "rgba(87, 86, 62,1.5)",<br>roofColor: "rgba(202, 199, 157,1.5)",<br>height: 9<br>},<br>&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy'+ matriz[i] +'</b><br>&nbsp;&nbsp;}<br>},'+"<br><br>";
+            text += '{<br>&nbsp;&nbsp;type: "Feature",<br>&nbsp;&nbsp;name: "<b>'+matriz[i]+'</b>",<br>&nbsp;&nbsp;properties: {<br>wallColor: "rgba(194, 194, 194,1.5)",<br>roofColor: "rgba(255, 255, 255,1.5)",<br>height: 9<br>},<br>&nbsp;&nbsp;geometry: {<br>&nbsp;&nbsp;&nbsp;&nbsp;type: "Polygon",<br>&nbsp;&nbsp;&nbsp;&nbsp;coordinates: <b>xy'+ matriz[i] +'</b><br>&nbsp;&nbsp;}<br>},'+"<br><br>";
         }
         document.getElementById("resultado").innerHTML = text;
         </script>
@@ -127,7 +127,7 @@ h3 {
         var text3 = "";
 
         for (i = 0; i < matriz.length; i++) {
-            text3 += 'var <b>'+matriz[i]+'_pop</b> = InserirPopUp(<br>//Número de Andares (1,2,3)<br>2,<br>//Nome do prédio<br>"<b>'+matriz[i]+'</b>",<br>//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)<br>0, 1,<br>//Salas do Térreo,<br> Laboratórios do Térreo, Ambientes do Térreo<br>"Sala 01, Sala 02",<br>"Labs 01, Labs 02",<br>"Amb 01, Amb02",<br>//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)<br>0, 0,<br>//Salas do 1º, Laboratórios do 1º, Ambientes do 1º<br>"Sala 11, Sala 12",<br>"Labs 11, Labs 12",<br>"Amb 11, Amb12",<br>//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)<br>0, 0,<br>//Salas do 2º, Laboratórios do 2º, Ambientes do 2º<br>"Sala 21, Sala 22",<br>"Labs 21, Labs 22",<br>"Amb 21, Amb22"<br>);<br><br>';
+            text3 += 'var <b>'+matriz[i]+'_pop</b> = InserirPopUp(<br>//Número de Andares (1,2,3)<br>2,<br>//Nome do prédio<br>"<b>'+matriz[i]+'</b>",<br>//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)<br>0, 1,<br>//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo<br>"Sala 01, Sala 02",<br>"Labs 01, Labs 02",<br>"Amb 01, Amb02",<br>//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)<br>0, 0,<br>//Salas do 1º, Laboratórios do 1º, Ambientes do 1º<br>"Sala 11, Sala 12",<br>"Labs 11, Labs 12",<br>"Amb 11, Amb12",<br>//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)<br>0, 0,<br>//Salas do 2º, Laboratórios do 2º, Ambientes do 2º<br>"Sala 21, Sala 22",<br>"Labs 21, Labs 22",<br>"Amb 21, Amb22"<br>);<br><br>';
         }
         document.getElementById("resultado3").innerHTML = text3;
         </script>

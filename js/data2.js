@@ -1133,3 +1133,245 @@ var CTBlocoB = {
       }
    }]
 };
+
+var CTBlocoC= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCTBlocoC
+    }
+  }]
+};
+
+var BlocoEletrica= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoEletrica
+    }
+  }]
+};
+
+var LabPPHL= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyLabPPHL
+    }
+  }]
+};
+
+var LabEEHS= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyLabEEHS
+    }
+  }]
+};
+
+var BibliotecaCentralCT= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBibliotecaCentralCT
+    }
+  }]
+};
+
+var CTBlocoM= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCTBlocoM
+    }
+  }]
+};
+
+var CTBlocoK= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCTBlocoK
+    }
+  }]
+};
+
+var LabEME= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyLabEME
+    }
+  }]
+};
+
+var CTBlocoL= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCTBlocoL
+    }
+  }]
+};
+
+var CTBlocoJ= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCTBlocoJ
+    }
+  }]
+};
+
+var CABlocoA= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoA
+    }
+  }]
+};
+
+var CABlocoB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoB
+    }
+  }]
+};
+
+var CABlocoC= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoC
+    }
+  }]
+};
+
+var CABlocoD= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoD
+    }
+  }]
+};
+
+var CABlocoE= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoE
+    }
+  }]
+};
+
+var CABlocoF= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoF
+    }
+  }]
+};
+
+var CABlocoG= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoG
+    }
+  }]
+};
+
+var CABlocoH= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoH
+    }
+  }]
+};
+
+var CABlocoI= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCABlocoI
+    }
+  }]
+};
+
+var CCJ= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCJ
+    }
+  }]
+};
+
+var ElefanteBrancoBlocoI= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyElefanteBrancoBlocoI
+    }
+  }]
+};
+
+var ElefanteBrancoBlocoII= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyElefanteBrancoBlocoII
+    }
+  }]
+};

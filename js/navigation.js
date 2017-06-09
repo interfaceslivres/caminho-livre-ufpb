@@ -94,6 +94,72 @@
               ],
               [
                 'CT - Bloco B', 'Bloco B'
+              ],
+              [
+              'CTBlocoC'
+              ],
+              [
+              'BlocoEletrica'
+              ],
+              [
+              'LabPPHL'
+              ],
+              [
+              'LabEEHS'
+              ],
+              [
+              'BibliotecaCentralCT'
+              ],
+              [
+              'CTBlocoM'
+              ],
+              [
+              'CTBlocoK'
+              ],
+              [
+              'LabEME'
+              ],
+              [
+              'CTBlocoL'
+              ],
+              [
+              'CTBlocoJ'
+              ],
+              [
+              'CABlocoA'
+              ],
+              [
+              'CABlocoB'
+              ],
+              [
+              'CABlocoC'
+              ],
+              [
+              'CABlocoD'
+              ],
+              [
+              'CABlocoE'
+              ],
+              [
+              'CABlocoF'
+              ],
+              [
+              'CABlocoG'
+              ],
+              [
+              'CABlocoH'
+              ],
+              [
+              'CABlocoI'
+              ],
+              [
+              'CCJ'
+              ],
+              [
+              'ElefanteBrancoBlocoI'
+              ],
+              [
+              'ElefanteBrancoBlocoII'
               ]
 
           ];
