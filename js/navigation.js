@@ -1,5 +1,8 @@
   $(document).ready(function () {
 
+          var buscaCTBlocoM_1 = CTBlocoM_pop[9];
+          console.log(buscaCTBlocoM_1);
+
           // A ordem dos itens aqui deve ser a mesma do array predios.
           var buscas = [
               [
