@@ -2775,8 +2775,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco A",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2789,8 +2789,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco B",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2803,8 +2803,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco C",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2817,8 +2817,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco D",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2831,8 +2831,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco E",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2845,8 +2845,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco F",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2859,8 +2859,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco G",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2873,8 +2873,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco H",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2887,8 +2887,8 @@ height: 9
   type: "Feature",
   name: "CA Bloco I",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
 height: 9
 },
   geometry: {
@@ -2901,8 +2901,8 @@ height: 9
   type: "Feature",
   name: "CCJ",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(200, 100, 100,1.5)",
+roofColor: "rgba(255, 180, 180,1.5)",
 height: 9
 },
   geometry: {
