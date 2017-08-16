@@ -45,6 +45,7 @@
     <script src="js/L.Control.Locate.min.js" charset="utf-8"></script>
     <!-- JS da geolocalização -->
 
+
 <!-- MAPBOX -->
 
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.23.0/mapbox-gl.js'></script>
@@ -72,6 +73,15 @@
     <div class="wrapper">
         <div id="header">
             <img id="logo-cl" src="images/logo-cl.png" alt="Logo Caminho Livre">
+              <div class="dropdown">
+                <span>BUSCAR POR SETOR</span>
+                <div class="dropdown-content">
+                  <p><button class="menu-area" onclick="testandoo();">CCHLA</button></p>
+                  <p><button class="menu-area" onclick="testandoo2();">CT</button></p>
+                  <p><button class="menu-area" onclick="testandoo3();">CAs</button></p>
+                </div>
+
+              </div>
             <input id="searchBox" placeholder="Buscar local" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Buscar por setor, bloco ou sala'"><button id="searchMap" type="button" alt="Buscar"><img src="images/search.png"></button>
             <a href="collab.html"><div id="outros" class="leaflet-bar-part leaflet-bar-part-single">
 
@@ -408,6 +418,30 @@
             }
           }
         };
+
+        
+        //TESTEEE
+        function testandoo(){
+              
+              new OSMBuildings(map).set(datacchla);
+              map.setView([-7.1395, -34.8507], 18);
+
+        }; 
+
+                function testandoo2(){
+              
+              new OSMBuildings(map).set(datact);
+              map.setView([-7.1395, -34.8507], 18);
+
+        }; 
+
+                function testandoo3(){
+              
+              new OSMBuildings(map).set(datacas);
+              map.setView([-7.1395, -34.8507], 18);
+
+        }; 
+
 
 
         // Alterar parâmetros da URL ao clicar no banner:
