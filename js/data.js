@@ -1380,341 +1380,25 @@ var xyElefanteBrancoBlocoII =
         ];
 
 
-// --- CCHLA - Coordenadas dos predios ---
+var xyDEMID = 
 
-var data = {
-  type: "FeatureCollection",
-  features: [
-/*  {
-      type: "Feature",
-      name: "CCSA Bloco1",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-        [
-            [
-            -34.85061764717102,
-            -7.140243277805365
-          ],
+[
           [
-            -34.85051840543747,
-            -7.140219325131314
-          ],
-          [
-            -34.850400388240814,
-            -7.140645150260555
-          ],
-          [
-            -34.85049694776535,
-            -7.140666441506613
-          ],
-          [
-            -34.85061764717102,
-            -7.140243277805365
-          ]
-          ]
-        ]
-      }
-    },
 
-    {
-      type: "Feature",
-      name: "CCSA Bloco2",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 8
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-        [
-            [-34.84972983598709, -7.140756929291287],
-            [ -34.84970301389694, -7.140855401271906],
-            [-34.85055595636368, -7.141110896041692],
-            [-34.850641787052155, -7.1408341100346515],
-            [-34.85004097223282, -7.140658457289461],
-            [-34.85005706548691, -7.140583937922628],
-            [-34.85036551952362, -7.140669102912304],
-            [-34.850395023822784, -7.140575953704025],
-            [-34.84972447156906, -7.140379009601241],
-            [-34.849644005298615, -7.140650473072156],
-            [-34.850504994392395, -7.140908629360721],
-            [-34.85048621892929, -7.140972503059113],
-            [-34.84972983598709, -7.140756929291287]
-          ]
-        ]
-      }
-    }, */
-
-    {
-      type: "Feature",
-      name: "DEMID - Departamento de Mídias Digitais",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 9
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-        [
             [-34.84924435615539, -7.136307038206137],
             [-34.84921753406525,-7.13639220399197],
             [-34.848831295967095,-7.136280423894811],
             [-34.84884738922119,-7.136189935224708],
             [-34.84924435615539,-7.136307038206137]
-          ]
-        ]
-      }
-    },
 
-/*    {
-      type: "Feature",
-      name: "CE - Cento de Educação, Bloco 1",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-        [
-            [-34.84979420900345,-7.140206018089648],
-            [-34.84975129365921,-7.140323120043109],
-            [-34.850070476531975,-7.140413607895707],
-            [-34.85009729862213,-7.140283198925974],
-            [-34.84979420900345,-7.140206018089648]
           ]
-        ]
-      }
-    },
-
-    {
-      type: "Feature",
-      name: "CE - Cento de Educação, Bloco 2",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 9
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-        [
-            [-34.850148260593414,-7.140299167373243],
-            [-34.85010802745819,-7.140429576338422],
-            [-34.850416481494904,-7.140520064169964],
-            [-34.85045671463013,-7.140386993823278],
-            [-34.850148260593414,-7.140299167373243]
-          ]
-        ]
-      }
-    },
-
-    {
-      type: "Feature",
-      name: "CE - Cento de Educação, Bloco 3",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-        [
-            [-34.85054522752762,-7.140048994968621],
-            [-34.850515723228455,-7.140160774145048],
-            [-34.85021531581879,-7.14006496342407],
-            [-34.850191175937645,-7.140131498649091],
-            [-34.850494265556335,-7.140221986539614],
-            [-34.85045403242111,-7.140323120043109],
-            [-34.84979420900345,-7.14011553019597],
-            [-34.84988272190094,-7.139857373459759],
-            [-34.85054522752762,-7.140048994968621]
-          ]
-        ]
-      }
-    }, */
-
-/*    {
-      type: "Feature",
-      name: "Bloco R",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.851229190826416,
-            -7.14027255329416
-          ],
-          [
-            -34.85097438097,
-            -7.140264569070125
-          ],
-          [
-            -34.850971698760986,
-            -7.140323120043109
-          ],
-          [
-            -34.85123187303543,
-            -7.140333765673764
-          ],
-          [
-            -34.851229190826416,
-            -7.14027255329416
-          ]
-          ]
-        ]
-      }
-    },
+        ];
 
 
-    {
-      type: "Feature",
-      name: "Bloco Q",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.85113263130188,
-            -7.1401235144226005
-          ],
-          [
-            -34.85097706317901,
-            -7.140118191604868
-          ],
-          [
-            -34.85097974538803,
-            -7.140190049639109
-          ],
-          [
-            -34.8511379957199,
-            -7.140190049639109
-          ],
-          [
-            -34.85113263130188,
-            -7.1401235144226005
-          ]
-          ]
-        ]
-      }
-    },
 
+var xyCAs = 
 
-    {
-      type: "Feature",
-      name: "Bloco P",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.851333796978,
-            -7.140259246254021
-          ],
-          [
-            -34.851333796978,
-            -7.140229970764374
-          ],
-          [
-            -34.85125333070755,
-            -7.1402273093561375
-          ],
-          [
-            -34.85125333070755,
-            -7.140317797227692
-          ],
-          [
-            -34.851612746715546,
-            -7.140315135819964
-          ],
-          [
-            -34.85161006450653,
-            -7.140264569070125
-          ],
-          [
-            -34.851333796978,
-            -7.140259246254021
-          ]
-          ]
-        ]
-      }
-    },
-
-
-    {
-      type: "Feature",
-      name: "Bloco O",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.85154837369919,
-            -7.140107545969199
-          ],
-          [
-            -34.85138475894928,
-            -7.140099561742289
-          ],
-          [
-            -34.85137939453124,
-            -7.140206018089648
-          ],
-          [
-            -34.851540327072144,
-            -7.140221986539614
-          ],
-          [
-            -34.85154837369919,
-            -7.140107545969199
-          ]
-          ]
-        ]
-      }
-    }, */
-
-
-    {
-      type: "Feature",
-      name: "CAs",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+[
          [
          [
             -34.85094487667084,
@@ -1753,22 +1437,12 @@ var data = {
             -7.139074918132136
           ]
           ]
-        ]
-      }
-    },
+        ];
 
 
-    {
-      type: "Feature",
-      name: "Clínica de Psicologia",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+var xyClinicaDePsicologia = 
+
+[
          [
          [
               -34.85096096992493,
@@ -1831,22 +1505,12 @@ var data = {
               -7.139673736105113
             ]
           ]
-        ]
-      }
-    },
+        ];
 
 
-    {
-      type: "Feature",
-      name: "Biblioteca Setorial",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+var xyBibliotecaSetorial = 
+
+[
          [
          [
             -34.85136866569519,
@@ -1909,152 +1573,12 @@ var data = {
             -7.139788176784048
           ]
           ]
-        ]
-      }
-    },
+        ];
 
 
-/*    {
-      type: "Feature",
-      name: "Bloco K",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.85008925199509,
-            -7.141462201117063
-          ],
-          [
-            -34.849818348884575,
-            -7.1413850204797
-          ],
-          [
-            -34.849786162376404,
-            -7.141510106333708
-          ],
-          [
-            -34.85004901885986,
-            -7.1415872869499655
-          ],
-          [
-            -34.85008925199509,
-            -7.141462201117063
-          ]
-          ]
-        ]
-      }
-    },
+var xyBlocoA = 
 
-
-    {
-      type: "Feature",
-      name: "Bloco J",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.850038290023804,
-            -7.141355745062125
-          ],
-          [
-            -34.8498398065567,
-            -7.141299855623353
-          ],
-          [
-            -34.84982371330261,
-            -7.1413530836604275
-          ],
-          [
-            -34.850022196769714,
-            -7.141403650289915
-          ],
-          [
-            -34.850038290023804,
-            -7.141355745062125
-          ]
-          ]
-        ]
-      }
-    },
-
-
-    {
-      type: "Feature",
-      name: "Bloco I",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.85136866569519,
-            -7.141204045140993
-          ],
-          [
-            -34.850805401802056,
-            -7.141020408327054
-          ],
-          [
-            -34.8507034778595,
-            -7.1412918714172555
-          ],
-          [
-            -34.8512801527977,
-            -7.141478169523176
-          ],
-          [
-            -34.85130161046982,
-            -7.141403650289915
-          ],
-          [
-            -34.85081076622009,
-            -7.1412413047754155
-          ],
-          [
-            -34.85084295272827,
-            -7.141137510071998
-          ],
-          [
-            -34.85133111476898,
-            -7.1412971942213375
-          ],
-          [
-            -34.85136866569519,
-            -7.141204045140993
-          ]
-          ]
-        ]
-      }
-    }, */
-
-
-    {
-      type: "Feature",
-      name: "Bloco A",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 9
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+[
          [
          [
             -34.85083222389221,
@@ -2077,22 +1601,12 @@ var data = {
             -7.139923908714983
           ]
           ]
-        ]
-      }
-    },
+        ];
 
 
-    {
-      type: "Feature",
-      name: "Auditórios 411 e 412",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+var xyAuditorios411e412 = 
+
+[
          [
          [
             -34.85075980424881,
@@ -2115,22 +1629,11 @@ var data = {
             -7.1397589012642495
           ]
           ]
-        ]
-      }
-    }, 
+        ];
 
+var xyBlocoC = 
 
-    {
-      type: "Feature",
-      name: "Bloco C",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 9
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+[
          [
          [
               -34.850998520851135,
@@ -2153,21 +1656,11 @@ var data = {
               -7.139325091069513
             ]
           ]
-        ]
-      }
-    },
+        ];
 
-    {
-      type: "Feature",
-      name: "Bloco de Psicologia",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+var xyBlocoDePsicologia = 
+
+[
          [
          [
             -34.850904643535614,
@@ -2190,58 +1683,12 @@ var data = {
             -7.139253232899373
           ]
           ]
-        ]
-      }
-    },
+        ];
 
-   /* {
-      type: "Feature",
-      name: "Bloco D",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 12
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-         [
-         [
-            -34.85058814287186,
-            -7.139857373459759
-          ],
-          [
-            -34.84993904829025,
-            -7.139676397516569
-          ],
-          [
-            -34.849906861782074,
-            -7.139806806659311
-          ],
-          [
-            -34.85053986310959,
-            -7.139987782550901
-          ],
-          [
-            -34.85058814287186,
-            -7.139857373459759
-          ]
-          ]
-        ]
-      }
-    },
-  */
-    {
-      type: "Feature",
-      name: "Bloco IV",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+
+var xyBlocoIV = 
+
+[
          [
          [
             -34.85062301158905,
@@ -2280,22 +1727,11 @@ var data = {
             -7.139732287153718
           ]
           ]
-        ]
-      }
-    },
+        ];
 
+var xyAmbienteDosProfessores = 
 
-    {
-      type: "Feature",
-      name: "Ambiente dos Professores / Praça da Alegria",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 7
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+[
         [
           [
             -34.850730299949646,
@@ -2318,21 +1754,11 @@ var data = {
             -7.139338398136814
           ]
           ]
-        ]
-      }
-    },
+        ];
 
-    {
-      type: "Feature",
-      name: "Bloco V",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 5
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+var xyBlocoV = 
+
+[
         [
           [
             -34.85082685947418,
@@ -2371,21 +1797,11 @@ var data = {
             -7.139037658321243
           ]
           ]
-        ]
-      }
-    },
+        ];
 
-    {
-      type: "Feature",
-      name: "Ambiente dos Professores II",
-      properties: {
-    wallColor: "rgba(0,123,190,1.5)",
-    roofColor: "rgba(0,157,255,1.5)",
-    height: 9
-    },
-      geometry: {
-        type: "Polygon",
-        coordinates: [
+var xyAmbienteDosProfessoresII = 
+
+[
           [
           [
             -34.85106289386749,
@@ -2416,7 +1832,518 @@ var data = {
             -7.139162744817215
           ]
           ]
+        ];
+
+
+var xyCEBlocoC = 
+[
+          [
+          [
+            -34.85062301158905,
+            -7.139868019101242
+          ],
+          [
+            -34.85005438327789,
+            -7.139703011630345
+          ],
+          [
+            -34.850016832351685,
+            -7.1398334207655045
+          ],
+          [
+            -34.85058546066284,
+            -7.139993105370147
+          ],
+          [
+            -34.85062301158905,
+            -7.139868019101242
+          ]
+          ]
+        ];
+
+var xyCEBlocoAdministrativo = 
+[
+[
+          [
+            -34.8505425453186,
+            -7.140056979196409
+          ],
+          [
+            -34.84988272190094,
+            -7.139862696280533
+          ],
+          [
+            -34.84980225563049,
+            -7.140126175831448
+          ],
+          [
+            -34.85046207904816,
+            -7.140317797227692
+          ],
+          [
+            -34.85048085451126,
+            -7.1402352935808215
+          ],
+          [
+            -34.85019654035568,
+            -7.1401421442842
+          ],
+          [
+            -34.85020726919174,
+            -7.14006496342407
+          ],
+          [
+            -34.85052376985549,
+            -7.140155451327735
+          ],
+          [
+            -34.8505425453186,
+            -7.140056979196409
+          ]
         ]
+];
+
+var xyCEBlocoA = 
+[
+[
+          [
+            -34.85045671463013,
+            -7.140389655230586
+          ],
+          [
+            -34.850148260593414,
+            -7.140291183149678
+          ],
+          [
+            -34.850105345249176,
+            -7.140424253524251
+          ],
+          [
+            -34.85042184591293,
+            -7.140514741356837
+          ],
+          [
+            -34.85045671463013,
+            -7.140389655230586
+          ]
+        ]
+];
+
+var xyCEBlocoB = 
+[
+[
+          [
+            -34.85010802745819,
+            -7.140285860333893
+          ],
+          [
+            -34.849791526794434,
+            -7.140200695272857
+          ],
+          [
+            -34.84976202249527,
+            -7.140323120043109
+          ],
+          [
+            -34.850073158741,
+            -7.140416269302862
+          ],
+          [
+            -34.85010802745819,
+            -7.140285860333893
+          ]
+        ]
+];
+
+var xyBlocoDeFonoaudiologia = 
+[
+[
+          [
+            -34.841294288635254,
+            -7.1345345216909175
+          ],
+          [
+            -34.84096169471741,
+            -7.134438709791837
+          ],
+          [
+            -34.84092950820923,
+            -7.13452387592533
+          ],
+          [
+            -34.84127819538116,
+            -7.134603719161106
+          ],
+          [
+            -34.841294288635254,
+            -7.1345345216909175
+          ]
+        ]
+];
+
+var xyAnexoAResidencia = 
+[
+[
+          [
+            -34.84069883823395,
+            -7.133650922305828
+          ],
+          [
+            -34.840548634529114,
+            -7.133618984946726
+          ],
+          [
+            -34.84046816825867,
+            -7.133805286176778
+          ],
+          [
+            -34.84060764312744,
+            -7.133858515085719
+          ],
+          [
+            -34.84069883823395,
+            -7.133650922305828
+          ]
+        ]
+];
+
+var xyBlocoDeTerapiaOcupacional = 
+[
+[
+          [
+            -34.84139084815979,
+            -7.134268377477309
+          ],
+          [
+            -34.84117090702057,
+            -7.134199179956422
+          ],
+          [
+            -34.84114408493042,
+            -7.134268377477309
+          ],
+          [
+            -34.84136939048767,
+            -7.134326929217569
+          ],
+          [
+            -34.84139084815979,
+            -7.134268377477309
+          ]
+        ]
+];
+
+var xyBlocoAResidencia = 
+[
+[
+          [
+            -34.8412674665451,
+            -7.133709474125081
+          ],
+          [
+            -34.84069883823395,
+            -7.1335178499615255
+          ],
+          [
+            -34.84065592288971,
+            -7.133634953626557
+          ],
+          [
+            -34.84121918678284,
+            -7.133810609067943
+          ],
+           [
+            -34.8412674665451,
+            -7.133709474125081
+          ]
+        ]
+];
+
+var xyAuditorioDeTerapiaOcupacional = 
+[
+[
+          [
+            -34.841299653053284,
+            -7.134353543642493
+          ],
+          [
+            -34.84127819538116,
+            -7.134401449603451
+          ],
+          [
+            -34.84114944934845,
+            -7.1343588665272835
+          ],
+          [
+            -34.84117090702057,
+            -7.134305637676521
+          ],
+          [
+            -34.841299653053284,
+            -7.134353543642493
+          ]
+        ]
+];
+
+var xyBlocoBResidencia = 
+[
+[
+          [
+            -34.842023849487305,
+            -7.1339490042167215
+          ],
+          [
+            -34.84144449234009,
+            -7.133762703045167
+          ],
+          [
+            -34.84140694141388,
+            -7.133879806647568
+          ],
+          [
+            -34.84197556972504,
+            -7.134060784883276
+          ],
+           [
+            -34.842023849487305,
+            -7.1339490042167215
+          ]
+        ]
+];
+
+var xyCRAS = 
+[
+[
+          [
+            -34.84192192554474,
+            -7.1340980450993845
+          ],
+          [
+            -34.841782450675964,
+            -7.134055461995012
+          ],
+          [
+            -34.84176099300384,
+            -7.134151273974294
+          ],
+          [
+            -34.84188437461853,
+            -7.134199179956422
+          ],
+          [
+            -34.84192192554474,
+            -7.1340980450993845
+          ]
+        ]
+];
+
+var xyBlocoBAnexoResidencia = 
+[
+[
+          [
+            -34.84214723110199,
+            -7.133946342771947
+          ],
+          [
+            -34.84202116727829,
+            -7.133956988550957
+          ],
+          [
+            -34.84190046787262,
+            -7.134268377477309
+          ],
+          [
+            -34.84201043844223,
+            -7.13430297623382
+          ],
+          [
+            -34.84214723110199,
+            -7.133946342771947
+          ]
+        ]
+];
+
+
+// --- TODOS OS PRÉDIOS ---
+
+var data = {
+  type: "FeatureCollection",
+  features: [
+
+
+    {
+      type: "Feature",
+      name: "DEMID - Departamento de Mídias Digitais",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyDEMID
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "CAs",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCAs
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Clínica de Psicologia",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyClinicaDePsicologia
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Biblioteca Setorial",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBibliotecaSetorial
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Bloco A",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoA
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Auditórios 411 e 412",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyAuditorios411e412
+      }
+    }, 
+
+
+    {
+      type: "Feature",
+      name: "Bloco C",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoC
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Bloco de Psicologia",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoDePsicologia
+      }
+    },
+
+   
+    {
+      type: "Feature",
+      name: "Bloco IV",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoIV
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Ambiente dos Professores / Praça da Alegria",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 7
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyAmbienteDosProfessores
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Bloco V",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoV
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Ambiente dos Professores II",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyAmbienteDosProfessoresII
       }
     },
 
@@ -2937,12 +2864,966 @@ height: 9
     type: "Polygon",
     coordinates: xyElefanteBrancoBlocoII
   }
+},
+
+{
+  type: "Feature",
+  name: "CE - Bloco C",
+  properties: {
+wallColor: "rgba(128, 128, 0,1.5)",
+roofColor: "rgba(255, 255, 51,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCEBlocoC
+  }
+},
+
+{
+  type: "Feature",
+  name: "CE - Bloco Administrativo",
+  properties: {
+wallColor: "rgba(128, 128, 0,1.5)",
+roofColor: "rgba(255, 255, 51,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCEBlocoAdministrativo
+  }
+},
+
+{
+  type: "Feature",
+  name: "CE - Bloco A",
+  properties: {
+wallColor: "rgba(128, 128, 0,1.5)",
+roofColor: "rgba(255, 255, 51,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCEBlocoA
+  }
+},
+
+{
+  type: "Feature",
+  name: "CE - Bloco B",
+  properties: {
+wallColor: "rgba(128, 128, 0,1.5)",
+roofColor: "rgba(255, 255, 51,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCEBlocoB
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco de Fonoaudiologia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeFonoaudiologia
+  }
+},
+
+{
+  type: "Feature",
+  name: "Anexo A - Residência Universitária",
+  properties: {
+wallColor: "rgba(179, 107, 0,1.5)",
+roofColor: "rgba(255, 194, 102,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyAnexoAResidencia
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco de Terapia Ocupacional",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeTerapiaOcupacional
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco A - Residência Universitária",
+  properties: {
+wallColor: "rgba(179, 107, 0,1.5)",
+roofColor: "rgba(255, 194, 102,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoAResidencia
+  }
+},
+
+{
+  type: "Feature",
+  name: "Auditório de Terapia Ocupacional",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyAuditorioDeTerapiaOcupacional
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco B - Residência Universitária",
+  properties: {
+wallColor: "rgba(179, 107, 0,1.5)",
+roofColor: "rgba(255, 194, 102,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoBResidencia
+  }
+},
+
+{
+  type: "Feature",
+  name: "CRAs",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCRAS
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco B - Anexo Residência Universitária",
+  properties: {
+wallColor: "rgba(179, 107, 0,1.5)",
+roofColor: "rgba(255, 194, 102,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoBAnexoResidencia
+  }
 }
-
-
-
-
 
 
   ]
 }
+
+
+// --- PRÉDIOS DO CCHLA ---
+
+
+var datacchla = {
+  type: "FeatureCollection",
+  features: [
+
+
+    {
+      type: "Feature",
+      name: "DEMID - Departamento de Mídias Digitais",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyDEMID
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CAs",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCAs
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Clínica de Psicologia",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyClinicaDePsicologia
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Biblioteca Setorial",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBibliotecaSetorial
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Bloco A",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoA
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Auditórios 411 e 412",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyAuditorios411e412
+      }
+    }, 
+
+
+    {
+      type: "Feature",
+      name: "Bloco C",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoC
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Bloco de Psicologia",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoDePsicologia
+      }
+    },
+
+   
+    {
+      type: "Feature",
+      name: "Bloco IV",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoIV
+      }
+    },
+
+
+    {
+      type: "Feature",
+      name: "Ambiente dos Professores / Praça da Alegria",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 7
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyAmbienteDosProfessores
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Bloco V",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoV
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Ambiente dos Professores II",
+      properties: {
+    wallColor: "rgba(0,123,190,1.5)",
+    roofColor: "rgba(0,157,255,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyAmbienteDosProfessores
+      }
+    }
+
+    ]}
+
+
+
+// --- PRÉDIOS DO CT ---
+
+
+    var datact = {
+  type: "FeatureCollection",
+  features: [
+
+{
+      type: "Feature",
+      name: "CT Centro Administrativo",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCentroAdministrativo
+      }
+    },
+
+     {
+      type: "Feature",
+      name: "CT Centro de Multimidia",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCentroMultimidia
+      }
+    },
+
+   {
+      type: "Feature",
+      name: "CT Bloco H",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoH
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CT Bloco E",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoE
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CT Bloco D",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoD
+      }
+    },
+
+     {
+      type: "Feature",
+      name: "CT Bloco F/G",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoFG
+      }
+    },
+
+      {
+      type: "Feature",
+      name: "CT Bloco N",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyBlocoN
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Ambiente dos Professores / Laboratório de Informática",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyLabInformatica
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Laboratório de Análise de Alimentos",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyLabAnaliseAlimentos
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CA Engenharia Mecânica",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCAEngenhariaMecanica
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CA Engenharia Civil",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCAEngenhariaCivil
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Oficina Mecânica",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyOficinaMecanica
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "Galpão",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyGalpao
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CT Bloco A",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCTBlocoA
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CT Bloco B",
+      properties: {
+    wallColor: "rgba(87, 86, 62,1.5)",
+    roofColor: "rgba(202, 199, 157,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCTBlocoB
+      }
+    },
+ 
+{
+  type: "Feature",
+  name: "CT Bloco C",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCTBlocoC
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco Elétrica",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoEletrica
+  }
+},
+
+{
+  type: "Feature",
+  name: "Laboratório PPHL",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyLabPPHL
+  }
+},
+
+{
+  type: "Feature",
+  name: "Laboratório EEHS",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyLabEEHS
+  }
+},
+
+{
+  type: "Feature",
+  name: "Biblioteca Central CT",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBibliotecaCentralCT
+  }
+},
+
+{
+  type: "Feature",
+  name: "CT Bloco M",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCTBlocoM
+  }
+},
+
+{
+  type: "Feature",
+  name: "CT Bloco K",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCTBlocoK
+  }
+},
+
+{
+  type: "Feature",
+  name: "Laboratório EME",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyLabEME
+  }
+},
+
+{
+  type: "Feature",
+  name: "CT Bloco L",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCTBlocoL
+  }
+},
+
+{
+  type: "Feature",
+  name: "CT Bloco J",
+  properties: {
+wallColor: "rgba(87, 86, 62,1.5)",
+roofColor: "rgba(202, 199, 157,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCTBlocoJ
+  }
+}
+
+  ]}
+
+
+
+// --- PRÉDIOS DAS CAS ---
+
+
+      var datacas = {
+  type: "FeatureCollection",
+  features: [
+
+{
+  type: "Feature",
+  name: "CA Bloco A",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoA
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco B",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoB
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco C",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoC
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco D",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoD
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco E",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoE
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco F",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoF
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco G",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoG
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco H",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoH
+  }
+},
+
+{
+  type: "Feature",
+  name: "CA Bloco I",
+  properties: {
+wallColor: "rgba(120, 120, 120,1.5)",
+roofColor: "rgba(160, 160, 160,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCABlocoI
+  }
+}
+
+
+  ]}
+
+
+// --- PRÉDIOS DAS CCJ ---
+
+
+      var dataccj = {
+  type: "FeatureCollection",
+  features: [
+
+{
+  type: "Feature",
+  name: "CCJ",
+  properties: {
+wallColor: "rgba(200, 100, 100,1.5)",
+roofColor: "rgba(255, 180, 180,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCCJ
+  }
+}
+
+
+]}
+
+// --- PRÉDIOS DAS CCS ---
+
+
+      var dataccs = {
+  type: "FeatureCollection",
+  features: [
+
+{
+  type: "Feature",
+  name: "Elefante Branco Bloco I",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyElefanteBrancoBlocoI
+  }
+},
+
+{
+  type: "Feature",
+  name: "Elefante Branco Bloco II",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyElefanteBrancoBlocoII
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco de Fonoaudiologia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeFonoaudiologia
+  }
+},
+
+{
+  type: "Feature",
+  name: "Auditório de Terapia Ocupacional",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyAuditorioDeTerapiaOcupacional
+  }
+},
+
+{
+  type: "Feature",
+  name: "Bloco de Terapia Ocupacional",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeTerapiaOcupacional
+  }
+}
+
+
+]}

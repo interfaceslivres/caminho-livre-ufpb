@@ -324,41 +324,6 @@ var BlocoIV = {
    }]
 };
 
-/* var BlocoD = {
-  type: "FeatureCollection",
-  features: [{
-      type: "Feature",
-      geometry: {
-        type: "Polygon",
-        coordinates: [
-          [
-            [
-            -34.85058814287186,
-            -7.139857373459759
-          ],
-          [
-            -34.84993904829025,
-            -7.139676397516569
-          ],
-          [
-            -34.849906861782074,
-            -7.139806806659311
-          ],
-          [
-            -34.85053986310959,
-            -7.139987782550901
-          ],
-          [
-            -34.85058814287186,
-            -7.139857373459759
-          ]
-
-          ]
-        ]
-      }
-   }]
-}; */
-
 var BlocoPsico = {
   type: "FeatureCollection",
   features: [{
@@ -1372,6 +1337,138 @@ var ElefanteBrancoBlocoII= {
     geometry: {
       type: "Polygon",
       coordinates: xyElefanteBrancoBlocoII
+    }
+  }]
+};
+
+var CEBlocoC= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCEBlocoC
+    }
+  }]
+};
+
+var CEBlocoAdministrativo= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCEBlocoAdministrativo
+    }
+  }]
+};
+
+var CEBlocoA= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCEBlocoA
+    }
+  }]
+};
+
+var CEBlocoB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCEBlocoB
+    }
+  }]
+};
+
+var BlocoDeFonoaudiologia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDeFonoaudiologia
+    }
+  }]
+};
+
+var AnexoAResidencia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyAnexoAResidencia
+    }
+  }]
+};
+
+var BlocoDeTerapiaOcupacional= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDeTerapiaOcupacional
+    }
+  }]
+};
+
+var BlocoAResidencia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoAResidencia
+    }
+  }]
+};
+
+var AuditorioDeTerapiaOcupacional= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyAuditorioDeTerapiaOcupacional
+    }
+  }]
+};
+
+var BlocoBResidencia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoBResidencia
+    }
+  }]
+};
+
+var CRAS= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCRAS
+    }
+  }]
+};
+
+var BlocoBAnexoResidencia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoBAnexoResidencia
     }
   }]
 };
