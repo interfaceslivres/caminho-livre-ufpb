@@ -2164,6 +2164,632 @@ var xyBlocoBAnexoResidencia =
 ];
 
 
+var xyBlocoABResidenciaUniversitaria = 
+[
+[
+
+          [
+            -34.84133183956146,
+            -7.1339383584375335
+          ],
+          [
+            -34.84119236469269,
+            -7.133890452428116
+          ],
+          [
+            -34.84115481376648,
+            -7.133970295774372
+          ],
+          [
+            -34.841294288635254,
+            -7.134018201775431
+          ],
+          [
+            -34.84133183956146,
+            -7.1339383584375335
+          ]
+
+]
+];
+
+var xyGinasioDePraticasIntegrativas = 
+[
+[
+
+[
+            -34.84310209751129,
+            -7.134079414991713
+          ],
+          [
+            -34.842917025089264,
+            -7.134023524664128
+          ],
+          [
+            -34.842790961265564,
+            -7.134425402582047
+          ],
+          [
+            -34.84297335147858,
+            -7.134478631418891
+          ],
+
+          [
+            -34.84310209751129,
+            -7.134079414991713
+          ]
+
+]
+];
+
+var xyGinasioDesportivo = 
+[
+[
+
+[
+            -34.84332740306854,
+            -7.134143289643456
+          ],
+          [
+            -34.84317719936371,
+            -7.134090060767618
+          ],
+          [
+            -34.84304040670394,
+            -7.1344919386271295
+          ],
+          [
+            -34.84319597482681,
+            -7.134542506014924
+          ],
+          [
+            -34.84332740306854,
+            -7.134143289643456
+          ]
+
+]
+];
+
+var xyCrecheEscolaUFPB = 
+[
+[
+
+[
+            -34.84291970729827,
+            -7.133499219830227
+          ],
+          [
+            -34.84250396490097,
+            -7.133406069162405
+          ],
+          [
+            -34.84248787164688,
+            -7.133504542724955
+          ],
+          [
+            -34.84268099069595,
+            -7.133547125880585
+          ],
+          [
+            -34.842659533023834,
+            -7.133642937966263
+          ],
+          [
+            -34.84246104955673,
+            -7.133603016266336
+          ],
+          [
+            -34.8424369096756,
+            -7.133706812678907
+          ],
+          [
+            -34.84265685081482,
+            -7.1337467343697885
+          ],
+          [
+            -34.842638075351715,
+            -7.133842546413686
+          ],
+          [
+            -34.84284192323685,
+            -7.133877145202399
+          ],
+          [
+            -34.84287679195404,
+            -7.133682859662704
+          ],
+          [
+            -34.842774868011475,
+            -7.133658906645254
+          ],
+          [
+            -34.84279364347458,
+            -7.133568417456912
+          ],
+          [
+            -34.84289824962616,
+            -7.13359503192593
+          ],
+          [
+            -34.84291970729827,
+            -7.133499219830227
+          ]
+
+]
+];
+
+var xyEscolaTecnicaDeSaudeUFPB = 
+[
+[
+
+[
+            -34.84214454889297,
+            -7.1339490042167215
+          ],
+          [
+            -34.84224647283554,
+            -7.133980941552809
+          ],
+          [
+            -34.842225015163415,
+            -7.134015540331063
+          ],
+          [
+            -34.842423498630524,
+            -7.134090060767618
+          ],
+          [
+            -34.84237253665924,
+            -7.134239101604367
+          ],
+          [
+            -34.84218478202819,
+            -7.134180549852859
+          ],
+          [
+            -34.842166006565094,
+            -7.134247085933538
+          ],
+          [
+            -34.84204798936844,
+            -7.134209825729554
+          ],
+          [
+            -34.84214454889297,
+            -7.1339490042167215
+          ]
+
+]
+];
+
+var xyDepartamentoDeEducacaoFisicaII = 
+[
+[
+
+[
+            -34.84339714050293,
+            -7.133560433115909
+          ],
+          [
+            -34.84298139810562,
+            -7.1334486523271945
+          ],
+          [
+            -34.842959940433495,
+            -7.13354446443347
+          ],
+          [
+            -34.843362271785736,
+            -7.1336562451988
+          ],
+          [
+            -34.84339714050293,
+            -7.133560433115909
+          ]
+
+]
+];
+
+var xyPistaDeAtletismo = 
+[
+[
+
+[
+            -34.84469801187515,
+            -7.133121294146083
+          ],
+          [
+            -34.844612181186676,
+            -7.133100002548968
+          ],
+          [
+            -34.84457463026047,
+            -7.13304411210182
+          ],
+          [
+            -34.844539761543274,
+            -7.133001528899397
+          ],
+          [
+            -34.84449952840805,
+            -7.132964268594043
+          ],
+          [
+            -34.8444539308548,
+            -7.132927008285648
+          ],
+          [
+            -34.84441101551056,
+            -7.132903055228658
+          ],
+          [
+            -34.84435200691223,
+            -7.13288176362139
+          ],
+          [
+            -34.84429031610489,
+            -7.132865794915276
+          ],
+          [
+            -34.84422594308853,
+            -7.132857810562021
+          ],
+          [
+            -34.844166934490204,
+            -7.132860472013118
+          ],
+          [
+            -34.84411597251892,
+            -7.132879102170407
+          ],
+          [
+            -34.84405428171158,
+            -7.132903055228658
+          ],
+          [
+            -34.84400600194931,
+            -7.132927008285648
+          ],
+          [
+            -34.84396576881409,
+            -7.132953622791955
+          ],
+          [
+            -34.84392553567886,
+            -7.132988221647828
+          ],
+          [
+            -34.843882620334625,
+            -7.133030804851485
+          ],
+          [
+            -34.843861162662506,
+            -7.133073388051172
+          ],
+          [
+            -34.84383434057236,
+            -7.133100002548968
+          ],
+          [
+            -34.84363853931427,
+            -7.1339383584375335
+          ],
+          [
+            -34.843630492687225,
+            -7.134007555997846
+          ],
+          [
+            -34.843630492687225,
+            -7.134079414991713
+          ],
+          [
+            -34.8436439037323,
+            -7.134140628199813
+          ],
+          [
+            -34.84367072582245,
+            -7.1342018413997215
+          ],
+          [
+            -34.84370023012161,
+            -7.134247085933538
+          ],
+          [
+            -34.843740463256836,
+            -7.13429765334838
+          ],
+          [
+            -34.843778014183044,
+            -7.134345559315178
+          ],
+          [
+            -34.84382897615433,
+            -7.134380158065864
+          ],
+          [
+            -34.843877255916595,
+            -7.134406772487695
+          ],
+          [
+            -34.84393626451492,
+            -7.134425402582047
+          ],
+          [
+            -34.843997955322266,
+            -7.134438709791837
+          ],
+          [
+            -34.84406232833862,
+            -7.134444032675649
+          ],
+          [
+            -34.844129383563995,
+            -7.134433386907975
+          ],
+          [
+            -34.844188392162316,
+            -7.134420079698019
+          ],
+          [
+            -34.84424740076065,
+            -7.134396126719143
+          ],
+          [
+            -34.844309091567986,
+            -7.1343641894120235
+          ],
+          [
+            -34.84434396028519,
+            -7.134332252102679
+          ],
+          [
+            -34.84437882900238,
+            -7.13430297623382
+          ],
+          [
+            -34.844402968883514,
+            -7.134257731705538
+          ],
+          [
+            -34.84443247318268,
+            -7.134265716034391
+          ],
+          [
+            -34.84469801187515,
+            -7.133121294146083
+          ]
+
+]
+];
+
+var xyGinasioDeEsportes = 
+[
+[
+
+[
+            -34.842978715896606,
+            -7.132192447301091
+          ],
+          [
+            -34.843509793281555,
+            -7.132293582579068
+          ],
+          [
+            -34.84337568283081,
+            -7.132852487659762
+          ],
+          [
+            -34.84287142753601,
+            -7.132735383794596
+          ],
+          [
+            -34.842978715896606,
+            -7.132192447301091
+          ]
+
+]
+];
+
+var xyAcademiaUFPB = 
+[
+[
+
+[
+            -34.84547048807144,
+            -7.134627672129104
+          ],
+          [
+            -34.845153987407684,
+            -7.13453718313227
+          ],
+          [
+            -34.84513521194457,
+            -7.134595734838143
+          ],
+          [
+            -34.8454624414444,
+            -7.134686223823426
+          ],
+          [
+            -34.84547048807144,
+            -7.134627672129104
+          ]
+
+]
+];
+
+var xyEscolaTecnicaDeSaudeUFPBAnexo = 
+[
+[
+
+
+
+]
+];
+
+var xyDepartamentoDeEducacaoFisicaI = 
+[
+[
+
+
+
+]
+];
+
+var xyClinicaEscolaDeFisioterapia = 
+[
+[
+
+
+
+]
+];
+
+var xyCentroAcademicoDeEducacaoFisicaEFisioterapia = 
+[
+[
+
+
+
+]
+];
+
+var xyUFPBVirtual = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia = 
+[
+[
+
+
+
+]
+];
+
+var xyDepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB = 
+[
+[
+
+
+
+]
+];
+
+var xyNucleoDeMedicinaTropical = 
+[
+[
+
+
+
+]
+];
+
+var xyCentroAcademicoDeFarmacia = 
+[
+[
+
+
+
+]
+];
+
+var xyDepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB = 
+[
+[
+
+
+
+]
+];
+
+var xyLanchoneteGiga = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoDoralice = 
+[
+[
+
+
+
+]
+];
+
+var xyAmbulatorioDeTerapiaFloral = 
+[
+[
+
+
+
+]
+];
+
+var xyCentroAcademicoDeEnfermagemEDeOdontologia = 
+[
+[
+
+
+
+]
+];
+
+var xyProgramaDePosGraduacaoEmEnfermagem = 
+[
+[
+
+
+
+]
+];
+
+var xySalasDeAulaDeOdontologia = 
+[
+[
+
+
+
+]
+];
+
+var xyEspacoDeConvivencia = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoDeOdontologia = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoDeMorfologia = 
+[
+[
+
+
+
+]
+];
+
+
+
 // --- TODOS OS PRÉDIOS ---
 
 var data = {
@@ -3032,6 +3658,399 @@ height: 9
     type: "Polygon",
     coordinates: xyBlocoBAnexoResidencia
   }
+},
+
+
+{
+  type: "Feature",
+  name: "BlocoABResidenciaUniversitaria",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoABResidenciaUniversitaria
+  }
+},
+
+{
+  type: "Feature",
+  name: "GinasioDePraticasIntegrativas",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyGinasioDePraticasIntegrativas
+  }
+},
+
+{
+  type: "Feature",
+  name: "GinasioDesportivo",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyGinasioDesportivo
+  }
+},
+
+{
+  type: "Feature",
+  name: "CrecheEscolaUFPB",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCrecheEscolaUFPB
+  }
+},
+
+{
+  type: "Feature",
+  name: "EscolaTecnicaDeSaudeUFPB",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyEscolaTecnicaDeSaudeUFPB
+  }
+},
+
+{
+  type: "Feature",
+  name: "DepartamentoDeEducacaoFisicaII",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyDepartamentoDeEducacaoFisicaII
+  }
+},
+
+{
+  type: "Feature",
+  name: "PistaDeAtletismo",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 1
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyPistaDeAtletismo
+  }
+},
+
+{
+  type: "Feature",
+  name: "GinasioDeEsportes",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyGinasioDeEsportes
+  }
+},
+
+{
+  type: "Feature",
+  name: "AcademiaUFPB",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyAcademiaUFPB
+  }
+},
+
+{
+  type: "Feature",
+  name: "EscolaTecnicaDeSaudeUFPBAnexo",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyEscolaTecnicaDeSaudeUFPBAnexo
+  }
+},
+
+{
+  type: "Feature",
+  name: "DepartamentoDeEducacaoFisicaI",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyDepartamentoDeEducacaoFisicaI
+  }
+},
+
+{
+  type: "Feature",
+  name: "ClinicaEscolaDeFisioterapia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyClinicaEscolaDeFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "CentroAcademicoDeEducacaoFisicaEFisioterapia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCentroAcademicoDeEducacaoFisicaEFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "UFPBVirtual",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyUFPBVirtual
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyDepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB
+  }
+},
+
+{
+  type: "Feature",
+  name: "NucleoDeMedicinaTropical",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyNucleoDeMedicinaTropical
+  }
+},
+
+{
+  type: "Feature",
+  name: "CentroAcademicoDeFarmacia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCentroAcademicoDeFarmacia
+  }
+},
+
+{
+  type: "Feature",
+  name: "DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyDepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB
+  }
+},
+
+{
+  type: "Feature",
+  name: "LanchoneteGiga",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyLanchoneteGiga
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDoralice",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDoralice
+  }
+},
+
+{
+  type: "Feature",
+  name: "AmbulatorioDeTerapiaFloral",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyAmbulatorioDeTerapiaFloral
+  }
+},
+
+{
+  type: "Feature",
+  name: "CentroAcademicoDeEnfermagemEDeOdontologia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCentroAcademicoDeEnfermagemEDeOdontologia
+  }
+},
+
+{
+  type: "Feature",
+  name: "ProgramaDePosGraduacaoEmEnfermagem",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyProgramaDePosGraduacaoEmEnfermagem
+  }
+},
+
+{
+  type: "Feature",
+  name: "SalasDeAulaDeOdontologia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xySalasDeAulaDeOdontologia
+  }
+},
+
+{
+  type: "Feature",
+  name: "EspacoDeConvivencia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyEspacoDeConvivencia
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDeOdontologia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeOdontologia
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDeMorfologia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeMorfologia
+  }
 }
 
 
@@ -3826,4 +4845,8 @@ height: 9
 }
 
 
+
+
+
+//FIM DOS PREDIOS DO CSS
 ]}

@@ -1472,3 +1472,311 @@ var BlocoBAnexoResidencia= {
     }
   }]
 };
+
+var BlocoABResidenciaUniversitaria= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoABResidenciaUniversitaria
+    }
+  }]
+};
+
+var GinasioDePraticasIntegrativas= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyGinasioDePraticasIntegrativas
+    }
+  }]
+};
+
+var GinasioDesportivo= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyGinasioDesportivo
+    }
+  }]
+};
+
+var CrecheEscolaUFPB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCrecheEscolaUFPB
+    }
+  }]
+};
+
+var EscolaTecnicaDeSaudeUFPB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyEscolaTecnicaDeSaudeUFPB
+    }
+  }]
+};
+
+var DepartamentoDeEducacaoFisicaII= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyDepartamentoDeEducacaoFisicaII
+    }
+  }]
+};
+
+var PistaDeAtletismo= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyPistaDeAtletismo
+    }
+  }]
+};
+
+var GinasioDeEsportes= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyGinasioDeEsportes
+    }
+  }]
+};
+
+var AcademiaUFPB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyAcademiaUFPB
+    }
+  }]
+};
+
+var EscolaTecnicaDeSaudeUFPBAnexo= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyEscolaTecnicaDeSaudeUFPBAnexo
+    }
+  }]
+};
+
+var DepartamentoDeEducacaoFisicaI= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyDepartamentoDeEducacaoFisicaI
+    }
+  }]
+};
+
+var ClinicaEscolaDeFisioterapia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyClinicaEscolaDeFisioterapia
+    }
+  }]
+};
+
+var CentroAcademicoDeEducacaoFisicaEFisioterapia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCentroAcademicoDeEducacaoFisicaEFisioterapia
+    }
+  }]
+};
+
+var UFPBVirtual= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyUFPBVirtual
+    }
+  }]
+};
+
+var BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia
+    }
+  }]
+};
+
+var DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyDepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB
+    }
+  }]
+};
+
+var NucleoDeMedicinaTropical= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyNucleoDeMedicinaTropical
+    }
+  }]
+};
+
+var CentroAcademicoDeFarmacia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCentroAcademicoDeFarmacia
+    }
+  }]
+};
+
+var DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyDepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB
+    }
+  }]
+};
+
+var LanchoneteGiga= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyLanchoneteGiga
+    }
+  }]
+};
+
+var BlocoDoralice= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDoralice
+    }
+  }]
+};
+
+var AmbulatorioDeTerapiaFloral= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyAmbulatorioDeTerapiaFloral
+    }
+  }]
+};
+
+var CentroAcademicoDeEnfermagemEDeOdontologia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCentroAcademicoDeEnfermagemEDeOdontologia
+    }
+  }]
+};
+
+var ProgramaDePosGraduacaoEmEnfermagem= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyProgramaDePosGraduacaoEmEnfermagem
+    }
+  }]
+};
+
+var SalasDeAulaDeOdontologia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xySalasDeAulaDeOdontologia
+    }
+  }]
+};
+
+var EspacoDeConvivencia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyEspacoDeConvivencia
+    }
+  }]
+};
+
+var BlocoDeOdontologia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDeOdontologia
+    }
+  }]
+};
+
+var BlocoDeMorfologia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDeMorfologia
+    }
+  }]
+};
