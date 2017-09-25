@@ -164,125 +164,131 @@
               'Elefante Branco - Bloco II', 'Departamento de Odontologia Restauradora CCS', 'Coordenação de Pós-graduação Odontologia', 'Núcleo de Pesquisa em Bioética - NEPB', 'Salas próximas ao Departamento de Fisioterapia: 1-9', 'Salas próximas ao departamento de Ciências Farmacêuticas: Sala de aula 1 e 2', 'Sala Profª Silvana Teresa L. Jales e Profº José Damião C. Borba', 'Sala Dr. Lauro Santos Filho e Dra. Isabele Beserra S. Gomes', 'Sala Profº Dr. João Vianney M. S. S. Maior e Profª Dra. Luciana Aranha', 'Laboratório de Biologia Bucal', 'Laboratório de Biomateriais I', 'Laboratório de Biomateriais II', 'Departamento de Fisioterapia', 'Núcleo de Estudos e Pesquisas Interdisciplinares em Biomateriais – NEPIBIO', 'Banco de Dentes Humanos BDH/CCS', 'Comitê de Ética em Pesquisa do CCS', 'Ambiente Docente – Professor Fábio Correia Sampaio', 'Ambiente Docente (sem identificação)', 'Copa di EB2', 'Auditórios do EB2', 'Grupo de Pesquisa em Biomateriais – GEPIBIO', 'Coordenação do Estágio Supervisionado em Análises Clínicas', 'Departamento de Ciências Farmacêuticas', 'Chefia do Departamento de Ciências Farmacêuticas', 'Sala Mestrado em Ciências da Nutrição', 'Sala dos professores de nutrição', 'Ambiente docente, sala 1 e 2 - Enfermagem Saúde Pública', 'Sala 1 e 2 - Enfermagem Clínica Pediátrica', 'Sala Enfermagem Obstétrica', 'Sala Enfermagem Psiquiátrica', 'Sala de reunião do EB2', 'Sala Epidemiologia', 'Sala de Planejamento e gestão', 'Sala Saúde Mental', 'Sala Pós-graduação', 'Especialização e residência', 'Sala Educação em Saúde', 'Sala Saúde e Trabalho', 'Departamento de Nutrição', 'Sala de audio-visual', 'Cantina do EB2', 'Chefia do Departamento de Nutrição', 'Departamento de Enfermagem em Saúde Coletiva', 'Copa do EB2', 'Auditório do EB2', 'Núcleo de Estudos em Saúde Coletiva - NESC', 'Coordenação do NESC', 'Secretaria do Estágio Rural Integrado - ERI', 'Coordenação do ERI', 'Auditório do ERI'
               ],
               [
-              'CEBlocoC'
+              'CE - Bloco C'
               ],
               [
-              'CEBlocoAdministrativo'
+              'CE - Bloco Administrativo'
               ],
               [
-              'CEBlocoA'
+              'CE - BlocoA'
               ],
               [
-              'CEBlocoB'
+              'CE - BlocoB'
               ],
               [
-              'BlocoDeFonoaudiologia'
+              'Bloco de Fonoaudiologia'
               ],
               [
-              'AnexoAResidencia'
+              'Anexo A - Residência'
               ],
               [
-              'BlocoDeTerapiaOcupacional'
+              'Bloco de Terapia Ocupacional'
               ],
               [
-              'BlocoAResidencia'
+              'Bloco A - Residência'
               ],
               [
-              'AuditorioDeTerapiaOcupacional'
+              'Auditório de Terapia Ocupacional'
               ],
               [
-              'BlocoBResidencia'
+              'Bloco B - Residência'
               ],
               [
-              'CRAS'
+              'CRAs'
               ],
               [
-              'BlocoBAnexoResidencia'
+              'Bloco B - Anexo Residência'
               ],
               [
-              'BlocoABResidenciaUniversitaria'
+              'Bloco AB - Residência Universitária'
               ],
               [
-              'GinasioDePraticasIntegrativas'
+              'Ginásio de Práticas Integrativas'
               ],
               [
-              'GinasioDesportivo'
+              'Ginásio Desportivo'
               ],
               [
-              'CrecheEscolaUFPB'
+              'Creche Escola UFPB'
               ],
               [
-              'EscolaTecnicaDeSaudeUFPB'
+              'Escola Técnica de Saúde UFPB'
               ],
               [
-              'DepartamentoDeEducacaoFisicaII'
+              'Departamento de Educação Física II'
               ],
               [
-              'PistaDeAtletismo'
+              'Pista de Atletismo'
               ],
               [
-              'GinasioDeEsportes'
+              'Ginásio de Esportes'
               ],
               [
-              'AcademiaUFPB'
+              'Academia UFPB'
               ],
               [
-              'EscolaTecnicaDeSaudeUFPBAnexo'
+              'Escola Técnica de Saúde UFPB - Anexo'
               ],
               [
-              'DepartamentoDeEducacaoFisicaI'
+              'Departamento de Educação Física I'
               ],
               [
-              'ClinicaEscolaDeFisioterapia'
+              'Clínica Escola de Fisioterapia'
               ],
               [
-              'CentroAcademicoDeEducacaoFisicaEFisioterapia'
+              'Centro Acadêmico de Educação Física e Fisioterapia'
               ],
               [
-              'UFPBVirtual'
+              'UFPB Virtual'
               ],
               [
-              'BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia'
+              'Bloco de Pós-Graduação de Educação Física e Fisioterapia'
               ],
               [
-              'DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB'
+              'Departamento de Fisiologia e Patologia - Laboratórios da UFPB'
               ],
               [
-              'NucleoDeMedicinaTropical'
+              'Núcleo de Medicina Tropical'
               ],
               [
-              'CentroAcademicoDeFarmacia'
+              'Centro Acadêmico de Farmácia'
               ],
               [
-              'DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB'
+              'Departamento de Fisiologia e Patologia - Salas de Aula da UFPB'
               ],
               [
-              'LanchoneteGiga'
+              'Lanchonete Giga'
               ],
               [
-              'BlocoDoralice'
+              'Bloco Doralice'
               ],
               [
-              'AmbulatorioDeTerapiaFloral'
+              'Ambulatório de Terapia Floral'
               ],
               [
-              'CentroAcademicoDeEnfermagemEDeOdontologia'
+              'Centro Acadêmico de Enfermagem e de Odontologia'
               ],
               [
-              'ProgramaDePosGraduacaoEmEnfermagem'
+              'Programa de Pós-Graduação em Enfermagem'
               ],
               [
-              'SalasDeAulaDeOdontologia'
+              'Salas de Aula de Odontologia'
               ],
               [
-              'EspacoDeConvivencia'
+              'Espaço de Convivência'
               ],
               [
-              'BlocoDeOdontologia'
+              'Bloco de Odontologia'
               ],
               [
-              'BlocoDeMorfologia'
-              ]
+              'Bloco de Morfologia'
+              ],
+              [
+              'Prefeitura Universitária'
+              ],
+              [
+              'Centro Acadêmico de Terapia Ocupacional e Fonoaudiologia'
+              ],
 
           ];
 

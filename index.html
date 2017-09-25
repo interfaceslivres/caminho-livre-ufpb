@@ -77,6 +77,7 @@
                 <span>BUSCAR POR SETOR</span>
                 <div class="dropdown-content">
                   <p><button class="menu-area" onclick="sobeCCHLA();">CCHLA</button></p>
+                  <p><button class="menu-area" onclick="sobeCE();">CE</button></p>
                   <p><button class="menu-area" onclick="sobeCT();">CT</button></p>
                   <p><button class="menu-area" onclick="sobeCCJ();">CCJ</button></p>
                   <p><button class="menu-area" onclick="sobeCCS();">CCS</button></p>
@@ -439,116 +440,124 @@
             ],
             [
             'BlocoABResidenciaUniversitaria',
-            'BlocoABResidenciaUniversitaria'
+            'Bloco AB Residência Universitária'
             ],
             [
             'GinasioDePraticasIntegrativas',
-            'GinasioDePraticasIntegrativas'
+            'Ginásio de Práticas Integrativas'
             ],
             [
             'GinasioDesportivo',
-            'GinasioDesportivo'
+            'Ginásio Desportivo'
             ],
             [
             'CrecheEscolaUFPB',
-            'CrecheEscolaUFPB'
+            'Creche Escola UFPB'
             ],
             [
             'EscolaTecnicaDeSaudeUFPB',
-            'EscolaTecnicaDeSaudeUFPB'
+            'Escola Técnica de Saúde UFPB'
             ],
             [
             'DepartamentoDeEducacaoFisicaII',
-            'DepartamentoDeEducacaoFisicaII'
+            'Departamento de Educação Física II'
             ],
             [
             'PistaDeAtletismo',
-            'PistaDeAtletismo'
+            'Pista de Atletismo'
             ],
             [
             'GinasioDeEsportes',
-            'GinasioDeEsportes'
+            'Ginásio de Esportes'
             ],
             [
             'AcademiaUFPB',
-            'AcademiaUFPB'
+            'Academia UFPB'
             ],
             [
             'EscolaTecnicaDeSaudeUFPBAnexo',
-            'EscolaTecnicaDeSaudeUFPBAnexo'
+            'Escola Técnica de Saúde UFPB - Anexo'
             ],
             [
             'DepartamentoDeEducacaoFisicaI',
-            'DepartamentoDeEducacaoFisicaI'
+            'Departamento de Educação Física I'
             ],
             [
             'ClinicaEscolaDeFisioterapia',
-            'ClinicaEscolaDeFisioterapia'
+            'Clínica Escola de Fisioterapia'
             ],
             [
             'CentroAcademicoDeEducacaoFisicaEFisioterapia',
-            'CentroAcademicoDeEducacaoFisicaEFisioterapia'
+            'Centro Acadêmico de Educação Física e Fisioterapia'
             ],
             [
             'UFPBVirtual',
-            'UFPBVirtual'
+            'UFPB Virtual'
             ],
             [
             'BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia',
-            'BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia'
+            'Bloco De Pós-Graduação de Educação Física e Fisioterapia'
             ],
             [
             'DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB',
-            'DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB'
+            'Departamento de Fisiologia e Patologia Laboratórios da UFPB'
             ],
             [
             'NucleoDeMedicinaTropical',
-            'NucleoDeMedicinaTropical'
+            'Núcleo de Medicina Tropical'
             ],
             [
             'CentroAcademicoDeFarmacia',
-            'CentroAcademicoDeFarmacia'
+            'Centro Acadêmico de Farmácia'
             ],
             [
             'DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB',
-            'DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB'
+            'Departamento de Fisiologia e Patologia - Salas de Aula da UFPB'
             ],
             [
             'LanchoneteGiga',
-            'LanchoneteGiga'
+            'Lanchonete Giga'
             ],
             [
             'BlocoDoralice',
-            'BlocoDoralice'
+            'Bloco Doralice'
             ],
             [
             'AmbulatorioDeTerapiaFloral',
-            'AmbulatorioDeTerapiaFloral'
+            'Ambulatório de Terapia Floral'
             ],
             [
             'CentroAcademicoDeEnfermagemEDeOdontologia',
-            'CentroAcademicoDeEnfermagemEDeOdontologia'
+            'Centro Acadêmico de Enfermagem e de Odontologia'
             ],
             [
             'ProgramaDePosGraduacaoEmEnfermagem',
-            'ProgramaDePosGraduacaoEmEnfermagem'
+            'Programa de Pós-Graduação em Enfermagem'
             ],
             [
             'SalasDeAulaDeOdontologia',
-            'SalasDeAulaDeOdontologia'
+            'Salas de Aula de Odontologia'
             ],
             [
             'EspacoDeConvivencia',
-            'EspacoDeConvivencia'
+            'Espaço de Convivência'
             ],
             [
             'BlocoDeOdontologia',
-            'BlocoDeOdontologia'
+            'Bloco de Odontologia'
             ],
             [
             'BlocoDeMorfologia',
-            'BlocoDeMorfologia'
-            ]
+            'Bloco de Morfologia'
+            ],
+            [
+            'PrefeituraUniversitaria',
+            'Prefeitura Universitária'
+            ],
+            [
+            'CentroAcademicoDeTerapiaOcupacionalEFonoaudiologia',
+            'Centro Acadêmico de Terapia Ocupacional e Fonoaudiologia'
+            ],
         ];
 
 
@@ -587,6 +596,13 @@
         function sobeCCHLA(){
               
               new OSMBuildings(map).set(datacchla);
+              map.setView([-7.1395, -34.8507], 18);
+
+        }; 
+
+        function sobeCE(){
+              
+              new OSMBuildings(map).set(datace);
               map.setView([-7.1395, -34.8507], 18);
 
         }; 

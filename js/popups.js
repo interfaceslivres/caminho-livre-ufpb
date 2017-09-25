@@ -1244,7 +1244,7 @@ var BlocoABResidenciaUniversitaria_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"BlocoABResidenciaUniversitaria",
+"Bloco AB - Residência Universitária",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1269,7 +1269,7 @@ var GinasioDePraticasIntegrativas_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"GinasioDePraticasIntegrativas",
+"Ginásio de Práticas Integrativas",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1294,7 +1294,7 @@ var GinasioDesportivo_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"GinasioDesportivo",
+"Ginásio Desportivo",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1319,7 +1319,7 @@ var CrecheEscolaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"CrecheEscolaUFPB",
+"Creche Escola UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1344,7 +1344,7 @@ var EscolaTecnicaDeSaudeUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"EscolaTecnicaDeSaudeUFPB",
+"Escola Técnica de Saúde UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1369,7 +1369,7 @@ var DepartamentoDeEducacaoFisicaII_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"DepartamentoDeEducacaoFisicaII",
+"Departamento de Educação Física II",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1394,7 +1394,7 @@ var PistaDeAtletismo_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"PistaDeAtletismo",
+"Pista de Atletismo",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1419,7 +1419,7 @@ var GinasioDeEsportes_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"GinasioDeEsportes",
+"Ginásio de Esportes",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1444,7 +1444,7 @@ var AcademiaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"AcademiaUFPB",
+"Academia UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1469,7 +1469,7 @@ var EscolaTecnicaDeSaudeUFPBAnexo_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"EscolaTecnicaDeSaudeUFPBAnexo",
+"Escola Técnica de Saúde UFPB - Anexo",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1494,7 +1494,7 @@ var DepartamentoDeEducacaoFisicaI_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"DepartamentoDeEducacaoFisicaI",
+"Departamento de Educação FísicaI ",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1519,7 +1519,7 @@ var ClinicaEscolaDeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"ClinicaEscolaDeFisioterapia",
+"Clínica Escola de Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1544,7 +1544,7 @@ var CentroAcademicoDeEducacaoFisicaEFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"CentroAcademicoDeEducacaoFisicaEFisioterapia",
+"Centro Acadêmico de Educação Física e Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1569,7 +1569,7 @@ var UFPBVirtual_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"UFPBVirtual",
+"UFPB Virtual",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1594,7 +1594,7 @@ var BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia",
+"Bloco de Pós-Graduação de Educação Física e Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1619,7 +1619,7 @@ var DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB",
+"Departamento de Fisiologia e Patologia Laboratórios da UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1644,7 +1644,7 @@ var NucleoDeMedicinaTropical_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"NucleoDeMedicinaTropical",
+"Núcleo de Medicina Tropical",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1669,7 +1669,7 @@ var CentroAcademicoDeFarmacia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"CentroAcademicoDeFarmacia",
+"Centro Acadêmico de Farmácia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1694,7 +1694,7 @@ var DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB",
+"Departamento de Fisiologia e Patologia Salas de Aula da UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1719,7 +1719,7 @@ var LanchoneteGiga_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"LanchoneteGiga",
+"Lanchonete Giga",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1744,7 +1744,7 @@ var BlocoDoralice_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"BlocoDoralice",
+"Bloco Doralice",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1769,7 +1769,7 @@ var AmbulatorioDeTerapiaFloral_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"AmbulatorioDeTerapiaFloral",
+"Ambulatório de Terapia Floral",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1794,7 +1794,7 @@ var CentroAcademicoDeEnfermagemEDeOdontologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"CentroAcademicoDeEnfermagemEDeOdontologia",
+"Centro Acadêmico de Enfermagem e de Odontologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1819,7 +1819,7 @@ var ProgramaDePosGraduacaoEmEnfermagem_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"ProgramaDePosGraduacaoEmEnfermagem",
+"Programa de Pós-Graduacao em Enfermagem",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1844,7 +1844,7 @@ var SalasDeAulaDeOdontologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"SalasDeAulaDeOdontologia",
+"Salas de Aula de Odontologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1869,7 +1869,7 @@ var EspacoDeConvivencia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"EspacoDeConvivencia",
+"Espaco de Convivência",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1894,7 +1894,7 @@ var BlocoDeOdontologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"BlocoDeOdontologia",
+"Bloco de Odontologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1919,7 +1919,7 @@ var BlocoDeMorfologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"BlocoDeMorfologia",
+"Bloco de Morfologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -1939,6 +1939,57 @@ var BlocoDeMorfologia_pop = InserirPopUp(
 "Labs 21, Labs 22",
 "Amb 21, Amb22"
 );
+
+var PrefeituraUniversitaria_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"Prefeitura Universitária",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CentroAcademicoDeTerapiaOcupacionalEFonoaudiologia_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"Centro Acadêmico de Terapia Ocupacional e Fonoaudiologia",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
 
 
 

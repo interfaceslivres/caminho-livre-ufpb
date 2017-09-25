@@ -1780,3 +1780,25 @@ var BlocoDeMorfologia= {
     }
   }]
 };
+
+var PrefeituraUniversitaria= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyPrefeituraUniversitaria
+    }
+  }]
+};
+
+var CentroAcademicoDeTerapiaOcupacionalEFonoaudiologia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCentroAcademicoDeTerapiaOcupacionalEFonoaudiologia
+    }
+  }]
+};
