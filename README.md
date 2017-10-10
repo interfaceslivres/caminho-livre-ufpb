@@ -16,6 +16,10 @@ O projeto encontra-se online e pode ser acessado através do link: http://www.cc
 
 Para desenvolver 
 
+### Índice
+
+* [Inserir Prédio] (http://#inserir-prédio)
+
 ### Inserir Prédio
 
 Passo 1
@@ -32,11 +36,27 @@ Passo 1
 Código
 ```
 
+### Inserir foto panorâmica
+
+Passo 1
+
+```
+Exemplo
+```
+
+#### Passo
+
+Passo 1
+
+```
+Código
+```
+
 
 ## Feito com
 
 * [OSMBuildings](https://osmbuildings.org/) - Interactive 3D Maps.
-* [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+* [OpenStreetMap](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
 * [GeoJson](http://geojson.org) - GeoJSON is a format for encoding a variety of geographic data structures.
 * [LeafLet](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps.
 * [Pannellum](https://pannellum.org/) - Pannellum is a lightweight, free, and open source panorama viewer for the web.
