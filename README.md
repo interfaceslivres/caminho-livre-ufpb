@@ -19,16 +19,92 @@ Para desenvolver
 ### Índice
 
 * [Inserir Prédio](https://github.com/interfaceslivres/caminho-livre-ufpb#inserir-prédio)
+* [Busca por setor](https://github.com/interfaceslivres/caminho-livre-ufpb#busca-por-setor)
+* [Definições de mapa](https://github.com/interfaceslivres/caminho-livre-ufpb#definições-de-mapa)
+* [Inserir Foto Panorâmica](https://github.com/interfaceslivres/caminho-livre-ufpb#inserir-foto-panorâmica)
 
 ### Inserir Prédio
+
+Para inserir um prédio, é necessário seguir os seguintes passos:
+
+#### OpenStreetMap
+
+Certifique-se de que o prédio a ser inserido existe e está com os dados corretos no [OpenStreetMap](http://www.openstreetmap.org). Este passo não é obrigatório, mas é uma boa prática que facilita o desenvolvimento.
+
+#### GeoJson
+
+Acesse o site [GeoJson](http://www.geojson.io), desenhe o prédio desejado e copie as coordenadas que serão disponibilizadas ao lado.
+
+#### data.js
 
 Passo 1
 
 ```
-Exemplo
+Código
+```
+
+#### data2.js
+
+Passo 1
+
+```
+Código
+```
+
+#### popups.js
+
+Passo 1
+
+```
+Código
+```
+
+#### navigation.js
+
+Passo 1
+
+```
+Código
 ```
 
 #### index.html
+
+Passo 1
+
+```
+Código
+```
+
+### Definições de mapa
+
+Descricao
+
+#### Estilo
+
+Passo 1
+
+```
+Código
+```
+
+#### Escopo
+
+Passo 1
+
+```
+Código
+```
+
+#### Inicialização
+
+Passo 1
+
+```
+Código
+```
+
+
+### Busca por setor
 
 Passo 1
 
@@ -42,14 +118,6 @@ Passo 1
 
 ```
 Exemplo
-```
-
-#### Passo
-
-Passo 1
-
-```
-Código
 ```
 
 
