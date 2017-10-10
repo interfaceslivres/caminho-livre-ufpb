@@ -18,7 +18,7 @@ Para desenvolver
 
 ### Índice
 
-* [Inserir Prédio] (http://#inserir-prédio)
+* [Inserir Prédio](https://github.com/interfaceslivres/caminho-livre-ufpb#inserir-prédio)
 
 ### Inserir Prédio
 
