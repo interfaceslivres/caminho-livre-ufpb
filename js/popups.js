@@ -1990,6 +1990,180 @@ var CentroAcademicoDeTerapiaOcupacionalEFonoaudiologia_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
+var BlocoArnaldoTavaresCCS_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"BlocoArnaldoTavaresCCS",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var BlocoAdministrativoDoCCS_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"BlocoAdministrativoDoCCS",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CentroDeCienciasMedicas_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CentroDeCienciasMedicas",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var BlocoDeFisioterapia_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"BlocoDeFisioterapia",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var BlocoSalasDeAuladeFisioterapia_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"BlocoSalasDeAuladeFisioterapia",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var HospitalUniversitarioLauroWanderley_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"HospitalUniversitarioLauroWanderley",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala 01, Sala 02",
+"Labs 01, Labs 02",
+"Amb 01, Amb02",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
 
 
 

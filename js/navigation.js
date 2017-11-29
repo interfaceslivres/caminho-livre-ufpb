@@ -289,6 +289,27 @@
               [
               'Centro Acadêmico de Terapia Ocupacional e Fonoaudiologia'
               ],
+              [
+              'BlocoArnaldoTavaresCCS'
+              ],
+              [
+              'BlocoAdministrativoDoCCS'
+              ],
+              [
+              'CentroDeCienciasMedicas'
+              ],
+              [
+              'BlocoDeFisioterapia'
+              ],
+              [
+              'BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia'
+              ],
+              [
+              'BlocoSalasDeAuladeFisioterapia'
+              ],
+              [
+              'HospitalUniversitarioLauroWanderley'
+              ]
 
           ];
 

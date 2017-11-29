@@ -3242,6 +3242,70 @@ var xyCentroAcademicoDeTerapiaOcupacionalEFonoaudiologia =
 ];
 
 
+var xyBlocoArnaldoTavaresCCS = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoAdministrativoDoCCS = 
+[
+[
+
+
+
+]
+];
+
+
+var xyCentroDeCienciasMedicas = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoDeFisioterapia = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia = 
+[
+[
+
+
+
+]
+];
+
+var xyBlocoSalasDeAuladeFisioterapia = 
+[
+[
+
+
+
+]
+];
+
+var xyHospitalUniversitarioLauroWanderley = 
+[
+[
+
+
+
+]
+];
+
 // --- TODOS OS PRÉDIOS ---
 
 var data = {
@@ -4531,12 +4595,126 @@ height: 9
     type: "Polygon",
     coordinates: xyCentroAcademicoDeTerapiaOcupacionalEFonoaudiologia
   }
+},
+
+
+{
+  type: "Feature",
+  name: "BlocoArnaldoTavaresCCS",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoArnaldoTavaresCCS
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoAdministrativoDoCCS",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoAdministrativoDoCCS
+  }
+},
+
+{
+  type: "Feature",
+  name: "CentroDeCienciasMedicas",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCentroDeCienciasMedicas
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDeFisioterapia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoSalasDeAuladeFisioterapia",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoSalasDeAuladeFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "HospitalUniversitarioLauroWanderley",
+  properties: {
+wallColor: "rgba(194, 194, 194,1.5)",
+roofColor: "rgba(255, 255, 255,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyHospitalUniversitarioLauroWanderley
+  }
 }
 
 
 
   ]
 }
+
+
+
+// --- FIM DE TODOS OS PREDIOS ---
+
+
+
+
+
+
+
+
+
+
+
 
 
 // --- PRÉDIOS DO CCHLA ---

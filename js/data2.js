@@ -1802,3 +1802,80 @@ var CentroAcademicoDeTerapiaOcupacionalEFonoaudiologia= {
     }
   }]
 };
+
+var BlocoArnaldoTavaresCCS= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoArnaldoTavaresCCS
+    }
+  }]
+};
+
+var BlocoAdministrativoDoCCS= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoAdministrativoDoCCS
+    }
+  }]
+};
+
+var CentroDeCienciasMedicas= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCentroDeCienciasMedicas
+    }
+  }]
+};
+
+var BlocoDeFisioterapia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDeFisioterapia
+    }
+  }]
+};
+
+var BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia
+    }
+  }]
+};
+
+var BlocoSalasDeAuladeFisioterapia= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyBlocoSalasDeAuladeFisioterapia
+    }
+  }]
+};
+
+var HospitalUniversitarioLauroWanderley= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyHospitalUniversitarioLauroWanderley
+    }
+  }]
+};
