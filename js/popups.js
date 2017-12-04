@@ -946,48 +946,47 @@ var CEBlocoC_pop = InserirPopUp(
 //Nome do prédio
 "CE - Bloco C",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Sala 8; Sala de Reunião Prof. Vanildo; Sala de Estudo e Pesquisa Prof. Onelice de Medeiros Barros",
+"LAD - Laboratório de Aprendizagens Digitais",
+"Biblioteca Setorial; Ambiente 36; Programa de Pós Graduação em Ciências das Religiões",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Sala do Servidor/Assessoria de Informática; Sala de Manutenção",
+"-",
+"Ambiente 1; Ambiente 2 (Grupo de Estudos Transdisciplinares em Educação e Saúde - GERES); Ambiente (Grupo de Estudos e Pesquisas em Políticas Curriculares - GEPPC); Ambientes 3-11; Ambiente 12 (Coordenação do Curso de Graduação em Ciências Naturais - Licenciatura à Distância); Ambiente 13 (Coordenação Secretaria); Ambientes 14-15; Ambiente 16 (Ambiente de Professores do DME); Ambientes 17-33; Ambiente 35; Ambientes 37-42",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CEBlocoAdministrativo_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "CE - Bloco Administrativo",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+"Salas 301-310",
+"LABEC - Laboratório de Ensino de Ciências; LATED 2 - Laboratório de Tecnologia Educacional (Brinquedoteca)",
+"Coordenação da Graduação em Ciências das Religiões; Departamento em Ciências das Religiões; Recursos Humanos; Secretaria MPGOA; DME - Departamento de Metodologia; DFE - Departamento de Fundamentação da Educação; Ante-Sala (Direção/Vice-Direção/Secretaria); DHP - Departamento de Habilitações Pedagógicas; Núcleo de EJA; Coordenação de Pedagogia; CPD - Centro de Processamento de Dados; Almoxarifado Setorial e Patrimônio; Ilha Virtual - Internautas do CE. Cubículo 1 - Banheiros Masculino e Feminino com Acessibilidade. Cubículo 2 - DA Pedagogia ",
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CEBlocoA_pop = InserirPopUp(
@@ -996,23 +995,23 @@ var CEBlocoA_pop = InserirPopUp(
 //Nome do prédio
 "CE - Bloco A",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas CE 315-316; Salas PPGE 2, 4, 5; Salas Sem Nome 1-2",
+"-",
+"Cátedra Unesco de Educação de Jovens e Adultos; Grupo de Pesquisa - HISTED - BR - PB; Revistas Temas em Educação",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Salas CE 317-320",
+"-",
+"Coordenação do PPGE; Secretaria do PPGE; Laboratório do PPGE; Auditório do PPGE; Sala de Arquivos",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CEBlocoB_pop = InserirPopUp(
@@ -1021,98 +1020,98 @@ var CEBlocoB_pop = InserirPopUp(
 //Nome do prédio
 "CE - Bloco B",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas CE 321-322",
+"-",
+"Departamento de Educação do Campo/Coordenação de Pedagogia; Coordenação e Departamento/Secretaria de Psicopedagogia; Núcleo de Educação Especial (NEDESP)/Sala de Estudos; Setor Braille (Atendimento ao Aluno com Deficiência Visual); Polo Digital (Biblioteca Digital Paulo Freire); Coordenação do MPGOA (Mestrado Profissional em Gestão nas Organizações Aprendentes) ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Salas 323-324",
+"LLP/MPGOA - Laboratório das Linhas de Pesquisa/Mestrado Profissional em Gestão nas Organizações Aprendentes; Laboratório de Avaliação em Psicologia e Educação; Laboratório Virtual de Ciências Naturais; ",
+"Núcleo de Estudos em Saúde Mental, Educação e Psicometria; Gestão de Projetos - PPGOA; Núcleo de Estudos em Desenvolvimento Humano, Educacional e Social; Escola Zé Peão; NIPAM - Núcleo Interdisciplinar de Pesquisa e Ação Sobre Mulher e Relação de Sexo e Gênero",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoDeFonoaudiologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+3,
 //Nome do prédio
 "Bloco de Fonoaudiologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Clínica Escola de Fonoaudiologia, Salas de Atendimento Fonoaudiologia",
+"Laboratório de Linguagem",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Clínica Escola de Audiologia, Sala de Exames Fonoaudiologia",
+"Laboratório de Voz, Laboratório de Áudio Fonoaudiologia",
+"Ambiente dos Professores Fonoaudiologia",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
+1, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"Salas de Aula 01 a 05",
+"Laboratório de Saúde Coletiva de Fonoaudiologia",
+"Biblioteca dos Discentes de Fonoaudiologia, Departamento de Fonoaudiologia, Secretaria de Fonoaudiologia, Coordenação de Fonoaudiologia"
 );
 
 var AnexoAResidencia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+3,
 //Nome do prédio
 "Anexo A - Residência Universitária",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Quartos 131 ao 139",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"Quartos 231 ao 239",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"Quartos 301 ao 309"
 );
 
 var BlocoDeTerapiaOcupacional_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+3,
 //Nome do prédio
 "Bloco de Terapia Ocupacional",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Clinica escola de Terapia Ocupacional, salas de 1 a 10, sala de Biossegurança",
+"Laboratório de Tecnologia Assistiva ",
+"Recepção",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Sala dos professores de Terapia Ocupacional, sala de reunião e pesquisa de Terapia Ocupacional  ",
+"Laboratório 43 e 44",
+"Coordenação de Terapia Ocupacional, Departamento de Terapia Ocupacional",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
+1, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"Salas 1-6",
+"LASTE (Laboratório de Saúde, Trabalho e Ergonomia)",
+"-"
 );
 
 var BlocoAResidencia_pop = InserirPopUp(
@@ -1123,46 +1122,46 @@ var BlocoAResidencia_pop = InserirPopUp(
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Recepção Residência Universitária, Lavanderia, Sala de TV Residência Universitária, Quartos 101 ao 130",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Sala de Estudo",
+"-",
+"Quartos 202 a 230",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var AuditorioDeTerapiaOcupacional_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Auditório de Terapia Ocupacional",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Auditório",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoBResidencia_pop = InserirPopUp(
@@ -1173,46 +1172,46 @@ var BlocoBResidencia_pop = InserirPopUp(
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Recepção, Quartos 101 a 130",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"Quartos 201 a 230",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CRAS_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "CRAs",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Consultórios de 1 a 5, e sala do Dentista ",
+"-",
+"Recepção, Enfermaria",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoBAnexoResidencia_pop = InserirPopUp(
@@ -1223,109 +1222,109 @@ var BlocoBAnexoResidencia_pop = InserirPopUp(
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Quartos 133 a 144, Cozinha da Residência Universitária ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"Quartos 209 a 232",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoABResidenciaUniversitaria_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Bloco AB - Residência Universitária",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Sala de Computação, Sala de Estudo ",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var GinasioDePraticasIntegrativas_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Ginásio de Práticas Integrativas",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"01 e 02",
+"-",
+"Ginásio ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var GinasioDesportivo_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Ginásio Desportivo",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"01 e 02",
+"-",
+"Ginásio ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CrecheEscolaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Creche Escola UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas de 01 a 09 para alunos, sala de nutrição, sala dos professores, sala do serviço social, sala da coordenação, sala pedagógica.",
+"-",
+"Recepção, copa, refeitório e parque.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
@@ -1346,48 +1345,48 @@ var EscolaTecnicaDeSaudeUFPB_pop = InserirPopUp(
 //Nome do prédio
 "Escola Técnica de Saúde UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"LACEC, LABINIC, Laboratório Técnico de enfermagem, Laboratório de Prótese Dentária Escola Técnica de Saúde",
+"Biblioteca da Escola Técnica de Saúde, Secretaria Escola Técnica de Saúde, Direção Escola Técnica de saúde",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"Laboratório de Prótese Dentária Escola Técnica de Saúde",
+"Auditório Escola Técnica de Saúde, Coordenação Técnico de Enfermagem, Coordenação Prótese Dentária, Coordenação Cuidador de Idoso",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var DepartamentoDeEducacaoFisicaII_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Departamento de Educação Física II",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas 06 a 09",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var PistaDeAtletismo_pop = InserirPopUp(
@@ -1396,73 +1395,73 @@ var PistaDeAtletismo_pop = InserirPopUp(
 //Nome do prédio
 "Pista de Atletismo",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Banheiro",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
+1, 1,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var GinasioDeEsportes_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Ginásio de Esportes",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var AcademiaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Academia UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var EscolaTecnicaDeSaudeUFPBAnexo_pop = InserirPopUp(
@@ -1471,323 +1470,323 @@ var EscolaTecnicaDeSaudeUFPBAnexo_pop = InserirPopUp(
 //Nome do prédio
 "Escola Técnica de Saúde UFPB - Anexo",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas de Aula 1 a 3",
+"Laboratório de Processamento de Amostras Biológicas e Histotecnologia (LAPABH) 1 e 2, Laboratório de Matologia, Laboratório de  Clioprocessamento ",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
+1, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Salas de aula 4 a 6",
+"Laboratório de Biologia Molecular Microbiologia e Citologia Escola Técnica de Saúde , Laboratório de Cultivo e Análise Celular Hormônios e Imunologia Escola Técnica de Saúde, Laboratório de Prótese Dentária Escola Técnica de saúde",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var DepartamentoDeEducacaoFisicaI_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Departamento de Educação FísicaI ",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas de 01 a 05, e salas de 01 a 12",
+"LETFAS- Laboratório de estudos do treinamento físico aplicado a saúde de Educação Física ",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var ClinicaEscolaDeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Clínica Escola de Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Sala de estudo, sala de atendimento, sala de atendimento em grupo, sala de diatermia I e II, sala de eletroterapia/ultrassonografia, sala de cinesioterapia I e II",
+"-",
+"Consultório I, II e III; Hidroterapia, almoxarifado, recepção, ambiente dos professores/alunos ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CentroAcademicoDeEducacaoFisicaEFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Centro Acadêmico de Educação Física e Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Centro acadêmico de Educação Física e o de Fisioterapia",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var UFPBVirtual_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "UFPB Virtual",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"Laboratório 1",
+"Secretaria, Capacitação, auditório, assessoria, Reprografia, Almoxarifado I e II, Web Conferência, Suporte de Apoio ao Usuário, Coordenação Geral da UFPB  Virtual",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoDePosGraduacaoDeEducacaoFisicaEFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+3,
 //Nome do prédio
 "Bloco de Pós-Graduação de Educação Física e Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas de 1a 9",
+"Laboratório de Análise da Marcha, Laboratório e Dinamometria e Eletromiografia, Laboratório de Neurologia: NeuroLAB, Laboratório de Estudo do envelhecimento Humano ",
+"Coordenação de Pós-Graduação em Educação Física, Copa",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
+1, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Salas 11 a 21, Sala de análise",
+"Laboratório de Estudo do Lazer Cultura/ Esporte/ Turismo e Sociedade (LACESTUS), Laboratório de Estudo do Treinamento Físico Aplicado ao Desempenho e a Saúde (LETFADS), Laboratório de Estudo do Treinamento Físico Aplicado a Saúde (LETFAS), Laboratório de Estudo sobre o Corpo/Estética e Sociedade",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
+1, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"Sala de Estudo de Alunos, Salas 24 a 28",
+"Laboratório de Informática Bloco de Pós-Graduação de Educação Física e Fisioterapia, Laboratório Maternoinfantil, Laboratório de saúde Coletiva, Laboratório DCNT",
+"ALiga de Estudos em Fisioterapia Dermato-funcional, ambiente dos Professores, Ambiente dos Professores de Saúde Coletiva, Ambiente dos Professores DCNT, Ambiente dos Professores Pneumofuncional, Ambiente dos Professores Cardio, Secretaria  Bloco de Pós-Graduação de Educação Física e Fisioterapia, Copa  Bloco de Pós-Graduação de Educação Física e Fisioterapia / 3º Andar: Academia  Bloco de Pós-Graduação de Educação Física e Fisioterapia"
 );
 
 var DepartamentoDeFisiologiaEPatologiaLaboratoriosDaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
-"Departamento de Fisiologia e Patologia Laboratórios da UFPB",
+"Departamento de Fisiologia e Patologia - Laboratórios da UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"101 a 118 e salas de 1 a 10 ",
+"Laboratório de imunologia, Laboratório de Microbiologia, Laboratório de Farmacologia, Laboratório de Patologia Geral, Laboratório de Fisiologia Aplicada, Laboratório de Fisiologia Humana, Laboratório de Parasitologia",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var NucleoDeMedicinaTropical_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Núcleo de Medicina Tropical",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"Laboratório de Odontologia oral, Laboratório de Microbiologia, Laboratório de Endemias",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CentroAcademicoDeFarmacia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Centro Acadêmico de Farmácia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var DepartamentoDeFisiologiaEPatologiaSalasDeAulaDaUFPB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Departamento de Fisiologia e Patologia Salas de Aula da UFPB",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"202 a 217 e salas de 1 a 3",
+"Laboratório de Nutrição Experimental",
+"Núcleo de Estudos e Pesquisas Homeopáticas e Fitoterápicas, Almoxarifado, Secretaria do DFP",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var LanchoneteGiga_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Lanchonete Giga",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoDoralice_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Bloco Doralice",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas de aula de 502 a 509 e  601 a 610 ",
+"Laboratório de saúde da criança, Laboratório de saúde da mulher ",
+"Programa de Pós-graduação em Odontologia, Programa de Pós-graduação em ciência da Nutrição, Núcleo Interdisciplinar de estudos em Saúde e Nutrição (NIESN)",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var AmbulatorioDeTerapiaFloral_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Ambulatório de Terapia Floral",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CentroAcademicoDeEnfermagemEDeOdontologia_pop = InserirPopUp(
@@ -1796,173 +1795,173 @@ var CentroAcademicoDeEnfermagemEDeOdontologia_pop = InserirPopUp(
 //Nome do prédio
 "Centro Acadêmico de Enfermagem e de Odontologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var ProgramaDePosGraduacaoEmEnfermagem_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Programa de Pós-Graduacao em Enfermagem",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Sala de reunião",
+"Laboratório em cuidar Enfermagem, Laboratório de saúde, envelhecimento e sociedade, Laboratório de saúde mental e comunitário - LASMEC, Laboratório de saúde da criança e adolescente - LSCA, Laboratório de tecnologia e cuidado em saúde - TEC Saúde, Laboratório cuidado e interdisciplinaridade em saúde  - LIS ",
+"Recepção, Coordenação da Pós-Graduação de Enfermagem, Secretaria, Arquivo, estágio de  Pós-Graduação, apoio ao docente, Copa, Almoxarifado, Secretaria do Programa de  Pós-Graduação em Gerontologia ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var SalasDeAulaDeOdontologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Salas de Aula de Odontologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Odontologia Legal, Clinica integrada, Semiologia Odontológica, Traumatologia, Patologia Bucal 1 e 2, Escultura Dentária, Matérias Dentários ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var EspacoDeConvivencia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Espaco de Convivência",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoDeOdontologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Bloco de Odontologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Sala dos professores, salas de 301 a 303 ",
+"Laboratório didático de escultura dentária, Laboratório didático de  materiais dentários, Laboratório de biomateriais III, Laboratório didático de farmacologia aplicada, Laboratório de patologia bucal, Laboratório didático de patologia bucal",
+"PET Farmácia, Clínica de Periodontia, Nomenclatura e instrumental em Odontologia, Coordenação de Odontologia, Banco de dentes humanos, Núcleo de pesquisa e estudos interdisciplinares em biomateriais, ambulatório de cirurgia I e anestesiologia",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoDeMorfologia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "Bloco de Morfologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas 413, 418 e 419",
+"Laboratório de Histologia 1 e 2, Laboratório de embriologia e histologia, Laboratório de técnicas anatômicas e formolização, Laboratório Didático, Laboratório 413-A e B, 416",
+"Departamento de Morfologia, Secretaria, Ambiente dos professores, Coordenação dos laboratórios de anatomia, Formolização, Ossário, Dissecação ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var PrefeituraUniversitaria_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+3,
 //Nome do prédio
 "Prefeitura Universitária",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Seção de construção civil, copa, recepção, divisão de serviços gerais, seção de permissão de uso, compras e patrimônios, auditório",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
+1, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Sala de reunião I e II ",
+"-",
+"Secretaria administrativa, assessor da reitoria, seção de eletricidade, gabinete do prefeito, copa, contabilidade ",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
+1, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"Assessoria do gabinete, divisão de projetos, divisão de obras  "
 );
 
 var CentroAcademicoDeTerapiaOcupacionalEFonoaudiologia_pop = InserirPopUp(
@@ -1971,23 +1970,23 @@ var CentroAcademicoDeTerapiaOcupacionalEFonoaudiologia_pop = InserirPopUp(
 //Nome do prédio
 "Centro Acadêmico de Terapia Ocupacional e Fonoaudiologia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"-",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoArnaldoTavaresCCS_pop = InserirPopUp(
@@ -1998,15 +1997,15 @@ var BlocoArnaldoTavaresCCS_pop = InserirPopUp(
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas de aula 802, 805, 806",
+"Laboratório de farmacologia experimental e cultivo celular; Laboratório integrado de biomateriais; Laboratório de microscopia e imagem biológica",
+"Arquivo da Direção do Centro de Ciências da Saúde; Unidade de Diagnóstico e Procedimentos ",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Salas de aula 808, 810, 811, 812",
+"-",
+"Coordenação do curso de farmácia; Coordenação do curso de nutrição; Coordenação de enfermagem; Núcleo de estudos em linguagem e fala (NELF)",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
@@ -2017,127 +2016,129 @@ var BlocoArnaldoTavaresCCS_pop = InserirPopUp(
 
 var BlocoAdministrativoDoCCS_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "BlocoAdministrativoDoCCS",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"Laboratório técnico de mídias digitais do bloco administrativo do CCS",
+"Auditório do bloco administrativo do CCS; Conselho do centro no bloco administrativo do CCS; Programa de pós-graduação em desenvolvimento e inovação tecnológica em medicamentos; Secretaria do bloco administrativo do CCS; Sala de reunião do bloco administrativo do CCS; Diretoria do CCS; Assessoria administrativa do bloco administrativo do CCS; Assessoria para assuntos comunitários e extensão do bloco administrativo do CCS; Assessoria de comunicação e cultura do bloco administrativo do CCS; Assessoria de graduação do bloco administrativo do CCS; Assessoria Técnica do CCS; Assessoria de pesquisa e pós-graduação do bloco administrativo do CCS; Coordenação de patrimônio; Almoxarifado 1 do do bloco administrativo do CCS; Almoxarifado 2 do bloco administrativo do CCS; Assessoria de gestão de pessoas; Gabinete da direção do bloco administrativo do CCS; Assessoria especial do bloco administrativo do CCS.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var CentroDeCienciasMedicas_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+3,
 //Nome do prédio
 "CentroDeCienciasMedicas",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 1,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"-",
+"-",
+"Recepção do CCM; Cantinho do cochilo; Auditório CCM; Assessoria de extensão do CCM; almoxarifado do CCM; Sala de reunião do CCM; Setor de tecnologias da informação do CCM; Biblioteca CCM",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
+1, 1,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"Laboratório de habilidades clínicas do CCM; Laboratório de informática do CCM; Laboratório de bases da técnica cirúrgica CCM.",
+"Coordenação de Medicina; Copa dos funcionários; Comissão de residência médica- COREME; Assessorias de comunicação, administrativa, graduação e planejamento, recursos humanos PALTEX; Departamento de obstetrícia e ginecologia; Departamento de cirurgia; Mestrado profissional em saúde da família do CCM; Departamento de pediatria e genética do CCM; Departamento de promoção da saúde do CCM; Diretoria CCM; Departamento de medicina interna.",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
+1, 1,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"Sala de aula CCM P1, P2, P3, P4 A, P4 B, P5 A, P5 B, P6 A, P6 B, P7 A, P7 B, P8 A, P8 B; Sala de aula geral 1, 2, 3; Sala de aula 35, 37, 50 / 3º Andar: Sala 2 Almoxarifado; Sala 4 a 8 DPS; Sala 12 DC, Sala 13 DC, Sala 16 DC, Sala 17 DC; Sala 11 DPG, Sala 18 GESME - Grupo de estudos em semiologia médica; Sala 20 DMI; Sala 21",
+"-",
+"NECORE- (Núcleo de estudos do coração pediatria e evidências); NEPI (Núcleo de estudos e pesquisa em imaginologia- UFPB); Ambiente 22; Apoio 1, 2, 4; Comitê de ética e pesquisa com seres humanos-CEP; Arquivo setorial; Refeitório CCM; Telessaúde; Observatório de políticas e cuidado em saúde"
 );
 
 var BlocoDeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "BlocoDeFisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas CCS 705, 706",
+"LEPAFS- Laboratório de estudos e pesquisas em atividades físicas e saúde",
+"Auditório Professora Tereza Olivia Formiga; Sala de leitura- Antônio Carlos Rodrigues dos Santos",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"-",
+"-"
 );
 
 var BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
 "Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Laboratório ETF, Laboratório de Cinesio; Laboratório RTM; Laboratório LEPASC- Laboratório de estudos e práticas em saúde coletiva",
+"Departamento de Ed. Física (Secretaria); Coordenação de extensão de ed. física; Sala de multimeios; Coordenação de ed. física (licenciatura); Coordenação de bacharelado em ed. física; Grupo de exercício terapêutico",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"-",
+"-",
+"-"
 );
 
 var BlocoSalasDeAuladeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
-2,
+1,
 //Nome do prédio
 "BlocoSalasDeAuladeFisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Salas de Aula CCS 707 a 710; Sala de atividades em grupo",
+"-",
+"Serviço de fisioterapia infantil; Coordenação de fisioterapia",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"-",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"-",
+"-",
+"-"
 );
 
 var HospitalUniversitarioLauroWanderley_pop = InserirPopUp(
@@ -2148,21 +2149,21 @@ var HospitalUniversitarioLauroWanderley_pop = InserirPopUp(
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Sala 01, Sala 02",
-"Labs 01, Labs 02",
-"Amb 01, Amb02",
+"Sala de reunião da superintendência ",
+"Laboratório de anemias, Laboratório de analises clinicas ",
+"Sala de holter e mapa, Divisão administrativa financeira, orçamento e finanças, superintendência, Gerencia administrativa, Setor de contabilidade, Unidade de licitação, Unidade de monitoramento e avaliação, setor de apoio terapêutico, Unidade de contratos, Divisão medica, enfermagem e de gestão do cuidado, Secod-Serviço de capacitação e avaliação de desempenho, Divisão de gestão de pessoas, Recepção e protocolo, Setor de hotelaria hospitalar, Setor de infraestrutura física, Repouso dos recepcionistas, Setor jurídico, Assessoria de planejamento, Núcleo de comissões hospitalar unidade de apoio operacional, SGPTI, Ouvidoria, Revisão de logística e infraestrutura, Comissão de padronização de produtos para saúde, Gerencia de atenção a saúde, assessoria de comunicação, Auditório Professor Lindengh farias, Nutrição e Dietetíca, Farmácia, Central de abastecimento farmacêutico, Almoxarifado, Serviço de informação de medicamentos, Centro de informação toxicológico, CIPA, Sub-sede-Sintespb, Anatomia patológica, Citologia, Auditoria interna, Faturamento, SGPTI-Suporte informatica, Unidade de vigilância em saúde, Vigilância epidemiológica, Divisão de Educação física, Serviço de pediatria, regulação, Serviço de fisioterapia, Unidade de diagnostico por imagem, serviço de dermatologia, urologia, nefrologia, Colposcopia, ginecologia, mastologia, Serviço de odontologia, Central de marcações, Pré-natal, Alternativas alimentares, puericultura, sala de vacinas, teste do pezinho, Pneumologia, otorrinolaringologista, Ortopedia traumatológica, saúde ocupacional, DIP- doenças infecto-parasitária, Geriatria, comissão de pele, Coordenação de enfermagem laboratorial, Eletroencefalograma, serviço de cardiologia, serviço ecocardiograma, Gastroenterologia, hepatologia, Neurologia, Psiquiatria memoria neuromuscular, Hematologia e oncologia, Divisão de psicologia, PROAMA, CISA, Farmácia, Endocrinologia, Diabetes, Fissuras Lábio-palatinas, Administração, Imunologia, Alergia.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
+0, 1,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"Sala de estudos de enfermagem, ",
+"-",
+"Chefia/Secretária, Chefia de enfermagem, CTI-Centro de Tratamento Intensivo, recepção de pacientes, Copa, Centro de terapia Intensiva.  ",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
+0, 1,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
+"-",
+"LAP-Unidade de laboratório de Anatomia e Patologia",
+"Comitê de ética em pesquisa, telemedicina, Central de materiais e esterilização, Gerência de ensino e pesquisa, CIMICRON, departamento de ginecologia e obstetrícia, Divisão de obras, Grupo de trabalho e humanização, Unidade de vigilância Epidemiológica, reumatologia, Clínica Cirúrgica A e B."
 );
 
 

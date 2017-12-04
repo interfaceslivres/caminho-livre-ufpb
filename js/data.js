@@ -3227,7 +3227,42 @@ var xyPrefeituraUniversitaria =
 [
 [
 
-
+[
+            -34.843574166297905,
+            -7.136674315544374
+          ],
+          [
+            -34.843482971191406,
+            -7.136663669828568
+          ],
+          [
+            -34.84346687793732,
+            -7.136700929832788
+          ],
+          [
+            -34.84334349632263,
+            -7.136695606975235
+          ],
+          [
+            -34.843322038650506,
+            -7.136770126975443
+          ],
+          [
+            -34.84361171722412,
+            -7.136802064114667
+          ],
+          [
+            -34.84362781047821,
+            -7.136759481261864
+          ],
+          [
+            -34.84356880187988,
+            -7.136743512691049
+          ],
+          [
+            -34.843574166297905,
+            -7.136674315544374
+          ]
 
 ]
 ];
@@ -3236,7 +3271,26 @@ var xyCentroAcademicoDeTerapiaOcupacionalEFonoaudiologia =
 [
 [
 
-
+[
+            -34.84405696392059,
+            -7.1366264098213215
+          ],
+          [
+            -34.8437350988388,
+            -7.136541244079062
+          ],
+          [
+            -34.8436975479126,
+            -7.136658346970583
+          ],
+          [
+            -34.844035506248474,
+            -7.136754158404997
+          ],
+          [
+            -34.84405696392059,
+            -7.1366264098213215
+          ]
 
 ]
 ];
@@ -3246,7 +3300,26 @@ var xyBlocoArnaldoTavaresCCS =
 [
 [
 
-
+[
+            -34.84219014644623,
+            -7.134529198808149
+          ],
+          [
+            -34.8420774936676,
+            -7.134502584393442
+          ],
+          [
+            -34.84191656112671,
+            -7.1350508410240066
+          ],
+          [
+            -34.842034578323364,
+            -7.13506148677733
+          ],
+          [
+            -34.84219014644623,
+            -7.134529198808149
+          ]
 
 ]
 ];
@@ -3255,7 +3328,30 @@ var xyBlocoAdministrativoDoCCS =
 [
 [
 
-
+[
+            -34.84206140041351,
+            -7.135157298546034
+          ],
+          [
+            -34.842018485069275,
+            -7.135178590047465
+          ],
+          [
+            -34.84197556972504,
+            -7.135151975670517
+          ],
+          [
+            -34.84176099300384,
+            -7.135710877261442
+          ],
+          [
+            -34.84186291694641,
+            -7.1357747516855214
+          ],
+          [
+            -34.84206140041351,
+            -7.135157298546034
+          ]
 
 ]
 ];
@@ -3265,7 +3361,42 @@ var xyCentroDeCienciasMedicas =
 [
 [
 
-
+[
+            -34.840757846832275,
+            -7.136386881130817
+          ],
+          [
+            -34.84060227870941,
+            -7.136472046901803
+          ],
+          [
+            -34.84058618545532,
+            -7.136440109739552
+          ],
+          [
+            -34.84053254127502,
+            -7.136472046901803
+          ],
+          [
+            -34.840553998947144,
+            -7.136509306921632
+          ],
+          [
+            -34.8403662443161,
+            -7.13662108696289
+          ],
+          [
+            -34.84045743942261,
+            -7.136770126975443
+          ],
+          [
+            -34.840865135192864,
+            -7.136509306921632
+          ],
+          [
+            -34.840757846832275,
+            -7.136386881130817
+          ]
 
 ]
 ];
@@ -3274,7 +3405,27 @@ var xyBlocoDeFisioterapia =
 [
 [
 
+          [
+            -34.84444856643677,
+            -7.135338276276658
+          ],
+          [
+            -34.84433054924011,
+            -7.135311661908998
+          ],
+          [
+            -34.84416961669922,
+            -7.135785397421987
+          ],
+          [
+            -34.844282269477844,
+            -7.135833303233091
+          ],
+          [
+          -34.84444856643677,
+            -7.135338276276658
 
+          ]
 
 ]
 ];
@@ -3283,7 +3434,26 @@ var xyBlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia =
 [
 [
 
-
+          [
+            -34.84467923641205,
+            -7.135412796497889
+          ],
+          [
+            -34.84457194805145,
+            -7.1353808592617085
+          ],
+          [
+            -34.84440565109253,
+            -7.135929114840223
+          ],
+          [
+            -34.844507575035095,
+            -7.135955729171981
+          ],
+          [
+            -34.84467923641205,
+            -7.135412796497889
+          ]
 
 ]
 ];
@@ -3292,7 +3462,26 @@ var xyBlocoSalasDeAuladeFisioterapia =
 [
 [
 
-
+[
+            -34.844901859760284,
+            -7.135460702347973
+          ],
+          [
+            -34.84482407569885,
+            -7.135442072295757
+          ],
+          [
+            -34.84460145235061,
+            -7.136192596656443
+          ],
+          [
+            -34.844681918621056,
+            -7.136208565246481
+          ],
+          [
+            -34.844901859760284,
+            -7.135460702347973
+          ]
 
 ]
 ];
@@ -3301,7 +3490,42 @@ var xyHospitalUniversitarioLauroWanderley =
 [
 [
 
-
+[
+            -34.84095633029938,
+            -7.134827280147154
+          ],
+          [
+            -34.84018921852112,
+            -7.134821957267795
+          ],
+          [
+            -34.84018385410309,
+            -7.13501890376256
+          ],
+          [
+            -34.840012192726135,
+            -7.135040195270442
+          ],
+          [
+            -34.840017557144165,
+            -7.13641349543596
+          ],
+          [
+            -34.840167760849,
+            -7.136402849714086
+          ],
+          [
+            -34.840167760849,
+            -7.136328329654071
+          ],
+          [
+            -34.84096169471741,
+            -7.136333652515912
+          ],
+          [
+            -34.84095633029938,
+            -7.134827280147154
+          ]
 
 ]
 ];
@@ -4602,8 +4826,8 @@ height: 9
   type: "Feature",
   name: "BlocoArnaldoTavaresCCS",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
 height: 9
 },
   geometry: {
@@ -4616,8 +4840,8 @@ height: 9
   type: "Feature",
   name: "BlocoAdministrativoDoCCS",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
 height: 9
 },
   geometry: {
@@ -4630,8 +4854,8 @@ height: 9
   type: "Feature",
   name: "CentroDeCienciasMedicas",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
 height: 9
 },
   geometry: {
@@ -4644,9 +4868,8 @@ height: 9
   type: "Feature",
   name: "BlocoDeFisioterapia",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
-height: 9
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
 },
   geometry: {
     type: "Polygon",
@@ -4658,8 +4881,8 @@ height: 9
   type: "Feature",
   name: "BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
 height: 9
 },
   geometry: {
@@ -4672,8 +4895,8 @@ height: 9
   type: "Feature",
   name: "BlocoSalasDeAuladeFisioterapia",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
 height: 9
 },
   geometry: {
@@ -4686,8 +4909,8 @@ height: 9
   type: "Feature",
   name: "HospitalUniversitarioLauroWanderley",
   properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
 height: 9
 },
   geometry: {
@@ -6030,6 +6253,104 @@ height: 9
   geometry: {
     type: "Polygon",
     coordinates: xyBlocoDeMorfologia
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoArnaldoTavaresCCS",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoArnaldoTavaresCCS
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoAdministrativoDoCCS",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoAdministrativoDoCCS
+  }
+},
+
+{
+  type: "Feature",
+  name: "CentroDeCienciasMedicas",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCentroDeCienciasMedicas
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDeFisioterapia",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDeFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "BlocoSalasDeAuladeFisioterapia",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyBlocoSalasDeAuladeFisioterapia
+  }
+},
+
+{
+  type: "Feature",
+  name: "HospitalUniversitarioLauroWanderley",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyHospitalUniversitarioLauroWanderley
   }
 }
 
