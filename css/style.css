@@ -813,3 +813,9 @@ text-shadow: none;
   background: #009de1;
 
 }
+
+.linkInternoPopUp {
+  width: 200px !important;
+  margin: 0 auto !important;
+  float: none !important;
+}

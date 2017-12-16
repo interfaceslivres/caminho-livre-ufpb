@@ -37,7 +37,7 @@
 }
 
 .todo {
-    width:1800px;
+    width:2400px;
     margin: 0 auto;
     background: #0f0;
 }
@@ -59,7 +59,7 @@ h3 {
 
         <script>
         var matriz = [
-                        "BlocoArnaldoTavaresCCS", "BlocoAdministrativoDoCCS", "CentroDeCienciasMedicas", "BlocoDeFisioterapia", "BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia", "BlocoSalasDeAuladeFisioterapia", "HospitalUniversitarioLauroWanderley"
+                        "p002", "p003", "p004","p005", "p006", "p007","p008", "p009", "p010"
                     ];
         </script>
 
@@ -88,6 +88,20 @@ h3 {
 
 
 <div class="todo">
+
+    <div class="blocao"><h3>Data1.js / Coordenadas</h3>
+
+        <p id="resultado0" onclick="selectText('resultado0')"></p>
+
+        <script>
+        var text = "";
+        for (i = 0; i < matriz.length; i++) {
+            text += 'var <b>xy'+ matriz[i] +'</b> = <br>[[<br><br><br><br>]];<br><br>';
+        }
+        document.getElementById("resultado0").innerHTML = text;
+        </script>
+
+    </div>
 
     <div class="blocao"><h3>Data1.js</h3>
 
@@ -129,7 +143,7 @@ h3 {
         var text3 = "";
 
         for (i = 0; i < matriz.length; i++) {
-            text3 += 'var <b>'+matriz[i]+'_pop</b> = InserirPopUp(<br>//Número de Andares (1,2,3)<br>2,<br>//Nome do prédio<br>"<b>'+matriz[i]+'</b>",<br>//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)<br>0, 1,<br>//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo<br>"Sala 01, Sala 02",<br>"Labs 01, Labs 02",<br>"Amb 01, Amb02",<br>//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)<br>0, 0,<br>//Salas do 1º, Laboratórios do 1º, Ambientes do 1º<br>"Sala 11, Sala 12",<br>"Labs 11, Labs 12",<br>"Amb 11, Amb12",<br>//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)<br>0, 0,<br>//Salas do 2º, Laboratórios do 2º, Ambientes do 2º<br>"Sala 21, Sala 22",<br>"Labs 21, Labs 22",<br>"Amb 21, Amb22"<br>);<br><br>';
+            text3 += 'var <b>'+matriz[i]+'_pop</b> = InserirPopUp(<br>//Número de Andares (1,2,3)<br>1,<br>//Nome do prédio<br>"<b>'+matriz[i]+'</b>",<br>//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)<br>0, 0,<br>//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo<br>"Este prédio ainda não foi registrado. &lt;br&gt; Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? &lt;br&gt; &lt;br&gt; &lt;a class=&#39;linkInternoPopUp&#39; href=&#39;https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit&#39; target=&#39;_blank&#39; &gt;Informe-nos aqui&lt;/a&gt;",<br>"",<br>"",<br>//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)<br>0, 0,<br>//Salas do 1º, Laboratórios do 1º, Ambientes do 1º<br>"Sala 11, Sala 12",<br>"Labs 11, Labs 12",<br>"Amb 11, Amb12",<br>//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)<br>0, 0,<br>//Salas do 2º, Laboratórios do 2º, Ambientes do 2º<br>"Sala 21, Sala 22",<br>"Labs 21, Labs 22",<br>"Amb 21, Amb22"<br>);<br><br>';
         }
         document.getElementById("resultado3").innerHTML = text3;
         </script>

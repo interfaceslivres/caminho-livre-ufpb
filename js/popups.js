@@ -2166,6 +2166,256 @@ var HospitalUniversitarioLauroWanderley_pop = InserirPopUp(
 "Comitê de ética em pesquisa, telemedicina, Central de materiais e esterilização, Gerência de ensino e pesquisa, CIMICRON, departamento de ginecologia e obstetrícia, Divisão de obras, Grupo de trabalho e humanização, Unidade de vigilância Epidemiológica, reumatologia, Clínica Cirúrgica A e B."
 );
 
+var p001_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p001",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br>Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br><br><a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank'>Informe-nos aqui</a>.",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p002_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p002",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p003_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p003",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p004_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p004",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p005_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p005",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p006_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p006",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p007_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p007",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p008_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p008",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p009_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p009",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var p010_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"p010",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
+"",
+"",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Sala 11, Sala 12",
+"Labs 11, Labs 12",
+"Amb 11, Amb12",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
 
 
 
