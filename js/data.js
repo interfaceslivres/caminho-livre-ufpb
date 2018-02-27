@@ -7495,7 +7495,7 @@ height: 9
   properties: {
 wallColor: "rgba(119, 221, 119,1.5)",
 roofColor: "rgba(189, 291, 189,1.5)",
-height: 9
+height: 50
 },
   geometry: {
     type: "Polygon",
