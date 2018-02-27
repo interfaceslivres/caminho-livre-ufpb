@@ -1993,7 +1993,7 @@ var BlocoArnaldoTavaresCCS_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"BlocoArnaldoTavaresCCS",
+"Bloco Arnaldo Tavares CCS",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -2018,7 +2018,7 @@ var BlocoAdministrativoDoCCS_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"BlocoAdministrativoDoCCS",
+"Bloco Administrativo Do CCS",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -2043,7 +2043,7 @@ var CentroDeCienciasMedicas_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 3,
 //Nome do prédio
-"CentroDeCienciasMedicas",
+"Centro De Ciências Medicas",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -2068,7 +2068,7 @@ var BlocoDeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"BlocoDeFisioterapia",
+"Bloco De Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -2093,7 +2093,7 @@ var BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"BlocoDasCoordenacoesdeEducacaoFisicaeFisioterapia",
+"Bloco Das Coordenações de Educação Física e Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -2119,7 +2119,7 @@ var BlocoSalasDeAuladeFisioterapia_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"BlocoSalasDeAuladeFisioterapia",
+"Bloco Salas De Aula de Fisioterapia",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -2145,7 +2145,7 @@ var HospitalUniversitarioLauroWanderley_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
-"HospitalUniversitarioLauroWanderley",
+"Hospital Universitário Lauro Wanderley",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
