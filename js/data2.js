@@ -2431,61 +2431,6 @@ var p050= {
   }]
 };
 
-var p051= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp051
-    }
-  }]
-};
-
-var p052= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp052
-    }
-  }]
-};
-
-var p053= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp053
-    }
-  }]
-};
-
-var p054= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp054
-    }
-  }]
-};
-
-var p055= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp055
-    }
-  }]
-};
-
 var p056= {
   type: "FeatureCollection",
   features: [{
@@ -2504,17 +2449,6 @@ var p057= {
     geometry: {
       type: "Polygon",
       coordinates: xyp057
-    }
-  }]
-};
-
-var p058= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp058
     }
   }]
 };
@@ -2805,3 +2739,92 @@ var p084= {
   }]
 };
 
+// --- INÍCIO DO CCTA ---
+var pSaladeConcertosRadegundisFeitosa= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypSaladeConcertosRadegundisFeitosa
+    }
+  }]
+};
+
+var pDEMÚS-DepartamentodeMúsica= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypDEMÚS-DepartamentodeMúsica
+    }
+  }]
+};
+
+var pCCTA-BlocoD= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypCCTA-BlocoD
+    }
+  }]
+};
+
+var pDAC-DepartamentodeArtesCênicas= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypDAC-DepartamentodeArtesCênicas
+    }
+  }]
+};
+
+var pCCTA-BlocoB= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypCCTA-BlocoB
+    }
+  }]
+};
+
+var pCineAruanda= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypCineAruanda
+    }
+  }]
+};
+
+var pCCTA-BlocoA= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypCCTA-BlocoA
+    }
+  }]
+};
+
+var pCCTA-CentrosAcadêmicos= {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xypCCTA-Centros Acadêmicos
+    }
+  }]
+};
+// --- FIM DO CCTA ---

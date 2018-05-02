@@ -461,28 +461,10 @@
               'p050'
               ],
               [
-              'p051'
-              ],
-              [
-              'p052'
-              ],
-              [
-              'p053'
-              ],
-              [
-              'p054'
-              ],
-              [
-              'p055'
-              ],
-              [
               'p056'
               ],
               [
               'p057'
-              ],
-              [
-              'p058'
               ],
               [
               'p059'
@@ -563,6 +545,45 @@
               'p084'
               ]
 
+              // --- Início do CCTA ---
+              [,
+              'Sala de Concertos Radegundis Feitosa'
+              ],
+
+              [
+              'DEMÚS - Departamento de Música'
+              'Salas de 1 a 4', 'Salas de 6 a 19', 'Salas de A a I', 'Sala de Iniciação Musical', 'Auditório 1', 'Secretaria', 'Biblioteca Setorial'
+              ],
+
+              [
+              'CCTA - Bloco D'
+              'LAJE - Laboratório de Jornalismo e Editoração', 'Ambiente 13', 'Copa', 'Ambiente de Professores do DAV', 'Chefia', 'Coordenação do Programa de Mestrado Profissional em Artes em Rede Nacional Prof-Artes', 'DAC - Departamento de Artes Cênicas', 'DEJOR - Departamento de Jornalismo', 'DECOM - Departamento de Comunicação; DTH - Departamento de Turismo e Hotelaria', 'DEM - Departamento de Educação Musical', 'Coordenação do Curso de Licenciatura em Música', 'Sala dos Funcionários Terceirizados', 'LEME - Laboratório de Estudos dos Media', 'Ambientes 04, 06, 09, 14, 19, 20, 22, 23 e 24', 'Ambientes de Pesquisa do DAC 1 e 3', 'Coordenação do Curso de Relações Públicas', 'GCET', 'DAC - NEP Cênico', 'Ambientes de Professores do DEMÚS - 09, 10, 15 e 16', 'Estúdio da Rádio UFPB', 'Galeria Lavandeira', 'Ambiente de Professores do DAV'
+              ],
+
+              [
+              'DAC - Departamento de Artes Cênicas'
+              'Salas 4', 'Laboratório de Experimentos com Objetos de Cena', 'Laboratório de Corpo Sonoro e Outras Tecnologias', 'Laboratório de Artes Cênicas e Educação', 'Laboratório de Figurinos e Caracterização', 'Depósito', 'Estúdio de TV', 'Camarim', 'Salas 11, 12 e 14', 'Salas de Trabalho Corporal - DAC 13 e 15', 'Laboratório de Anatomia'
+              ],
+
+              [
+              'CCTA - Bloco B'
+              'Sala de Arquivos da SIAG', 'Sala de Reuniões', 'Sala 205', 'Laboratório de Web Design', 'Laboratório de Cerâmica', 'Laboratório de Pintura', 'Laboratório de Artes Gráficas', 'Galeria de Arte', 'SIAG - Secretaria Integrada de Atendimento à Graduação (Coordenações de Cursos)', 'Direção CCTA (Secretaria/Acessorias)', 'Salas de 216 a 220', 'Salas 222, 223, 225 e 226', 'Laboratório de Jornalismo Impresso', 'LENA - Laboratório de Estudos em Narrativas Audiovisuais)', 'Laboratório de Estudos do Turismo', 'Ilha de Edição', 'Salas de 236 a 241', 'Laboratório de Desenho Clássico', 'Laboratório de Rádio 1, 2 e 3', 'Laboratório de Desenho de Som', 'Laboratório de Jornalismo Impresso', 'Laboratório de Informática', 'Laboratório de Criação Visual e Multimídia', 'Laboratório de Fotografia', 'Redação de Rádio e TV', 'Redação Integrada'
+              ],
+
+              [
+              'Cine Aruanda'
+              ],
+
+              [
+              'CCTA - Bloco A',
+              'Salas de 101 a 112', 'Sala 114', 'LEMI - Laboratório de Educação Musical Infantil', 'Laboratório de Educação Musical', 'PPJ (Programa de Pós Graduação em Jornalismo) - Secretaria', 'PPGAV (Programa de Pós Graduação em Artes Visuais) - Secretaria'
+              ],
+
+              [
+              'CCTA - Centros Acadêmicos'
+              'CA de Artes Visuais', 'CA de Jornalismo', 'CA de Hotelaria', 'CA de Turismo'
+              ],
+              // --- Fim do CCTA ---
           ];
 
           // Função para transformar o array de buscas nos nomes possíveis da busca.

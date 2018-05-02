@@ -3416,131 +3416,6 @@ var p050_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var p051_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p051",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p052_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p052",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p053_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p053",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p054_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p054",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p055_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p055",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
 var p056_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
@@ -3571,31 +3446,6 @@ var p057_pop = InserirPopUp(
 1,
 //Nome do prédio
 "p057",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p058_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p058",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
@@ -4247,7 +4097,7 @@ var p084_pop = InserirPopUp(
 //Nome do prédio
 "p084",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
 "Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
 "",
@@ -4266,7 +4116,207 @@ var p084_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
+// --- INÍCIO DO CCTA ---
+var pSaladeConcertosRadegundisFeitosa_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"Sala de Concertos Radegundis Feitosa",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"-",
+"-",
+"-",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"",
+"",
+"A",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"",
+"",
+""
+);
 
+var pDEMÚS-DepartamentodeMúsica_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"DEMÚS - Departamento de Música",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Salas de 1 a 4; Salas de 6 a 19; Salas de A a I",
+"-",
+"Sala de Iniciação Musical; Auditório 1; Secretaria; Biblioteca Setorial",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"",
+"",
+"",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"",
+"",
+""
+);
+
+var pCCTA-BlocoD_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"CCTA - Bloco D",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"-",
+"LAJE - Laboratório de Jornalismo e Editoração",
+"Ambiente 13; Copa; Ambiente de Professores do DAV; Chefia; Coordenação do Programa de Mestrado Profissional em Artes em Rede Nacional Prof-Artes; DAC - Departamento de Artes Cênicas; DEJOR - Departamento de Jornalismo; DECOM - Departamento de Comunicação; DTH - Departamento de Turismo e Hotelaria; DEM - Departamento de Educação Musical; Coordenação do Curso de Licenciatura em Música; Sala dos Funcionários Terceirizados",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+1, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"-",
+"LEME - Laboratório de Estudos dos Media",
+"Ambientes 04, 06, 09, 14, 19, 20, 22, 23 e 24; Ambientes de Pesquisa do DAC 1 e 3; Coordenação do Curso de Relações Públicas; GCET; DAC - NEP Cênico; Ambientes de Professores do DEMÚS - 09, 10, 15 e 16; Estúdio da Rádio UFPB; Galeria Lavandeira; Ambiente de Professores do DAV",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"",
+"",
+""
+);
+
+var pDAC-DepartamentodeArtesCênicas_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"DAC - Departamento de Artes Cênicas",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Salas 4",
+"Laboratório de Experimentos com Objetos de Cena; Laboratório de Corpo Sonoro e Outras Tecnologias; Laboratório de Artes Cênicas e Educação; Laboratório de Figurinos e Caracterização",
+"Depósito; Estúdio de TV; Camarim",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+1, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Salas 11, 12 e 14; Salas de Trabalho Corporal - DAC 13 e 15",
+"Laboratório de Anatomia",
+"-",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"",
+"",
+""
+);
+
+var pCCTA-BlocoB_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+3,
+//Nome do prédio
+"CCTA - Bloco B",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Sala de Arquivos da SIAG; Sala de Reuniões; Sala 205",
+"Laboratório de Web Design; Laboratório de Cerâmica; Laboratório de Pintura; Laboratório de Artes Gráficas",
+"Galeria de Arte; SIAG - Secretaria Integrada de Atendimento à Graduação (Coordenações de Cursos); Direção CCTA (Secretaria/Acessorias)",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+1, 1,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Salas de 216 a 220; Salas 222, 223, 225 e 226",
+"Laboratório de Jornalismo Impresso; LENA - Laboratório de Estudos em Narrativas Audiovisuais); Laboratório de Estudos do Turismo",
+"Ilha de Edição",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+1, 1,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Salas de 236 a 241",
+"Laboratório de Desenho Clássico; Laboratório de Rádio 1, 2 e 3; Laboratório de Desenho de Som; Laboratório de Jornalismo Impresso; Laboratório de Informática; Laboratório de Criação Visual e Multimídia; Laboratório de Fotografia",
+"Redação de Rádio e TV; Redação Integrada",
+);
+
+var pCineAruanda_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"Cine Aruanda",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"-",
+"-",
+"-",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"",
+"",
+"",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"",
+"",
+""
+);
+
+var pCCTA-BlocoA_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"CCTA - Bloco A",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Salas de 101 a 112; Sala 114",
+"LEMI - Laboratório de Educação Musical Infantil; Laboratório de Educação Musical",
+"PPJ (Programa de Pós Graduação em Jornalismo) - Secretaria; PPGAV (Programa de Pós Graduação em Artes Visuais) - Secretaria",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"",
+"",
+"",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"",
+"",
+""
+);
+
+var pCCTA-CentrosAcadêmicos_pop = InserirPopUp(
+//Número de Andares (1,2,3)
+1,
+//Nome do prédio
+"CCTA - Centros Acadêmicos",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 0,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"-",
+"-",
+"CA de Artes Visuais; CA de Jornalismo; CA de Hotelaria; CA de Turismo",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"",
+"",
+"",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"",
+"",
+""
+);
+// --- FIM DO CCTA ---
 
 
 
