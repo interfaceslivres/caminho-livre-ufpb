@@ -2746,51 +2746,51 @@ var pSaladeConcertosRadegundisFeitosa= {
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypSaladeConcertosRadegundisFeitosa
+      coordinates: xySaladeConcertosRadegundisFeitosa
     }
   }]
 };
 
-var pDEMÚS-DepartamentodeMúsica= {
+var pDEMUSDepartamentodeMusica= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypDEMÚS-DepartamentodeMúsica
+      coordinates: xyDEMUSDepartamentodeMusica
     }
   }]
 };
 
-var pCCTA-BlocoD= {
+var pCCTABlocoD= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypCCTA-BlocoD
+      coordinates: xyCCTABlocoD
     }
   }]
 };
 
-var pDAC-DepartamentodeArtesCênicas= {
+var pDACDepartamentodeArtesCenicas= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypDAC-DepartamentodeArtesCênicas
+      coordinates: xyDACDepartamentodeArtesCenicas
     }
   }]
 };
 
-var pCCTA-BlocoB= {
+var pCCTABlocoB= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypCCTA-BlocoB
+      coordinates: xyCCTABlocoB
     }
   }]
 };
@@ -2801,29 +2801,29 @@ var pCineAruanda= {
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypCineAruanda
+      coordinates: xyCineAruanda
     }
   }]
 };
 
-var pCCTA-BlocoA= {
+var pCCTABlocoA= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypCCTA-BlocoA
+      coordinates: xyCCTABlocoA
     }
   }]
 };
 
-var pCCTA-CentrosAcadêmicos= {
+var pCCTACentrosAcademicos= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
     geometry: {
       type: "Polygon",
-      coordinates: xypCCTA-Centros Acadêmicos
+      coordinates: xyCCTACentrosAcademicos
     }
   }]
 };

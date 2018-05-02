@@ -5943,8 +5943,8 @@ var xyp084 =
 
 ]];
 
-// --- INÍCIO DO CCTA ---
-var xypSaladeConcertosRadegundisFeitosa =
+
+var xySaladeConcertosRadegundisFeitosa =
 [[
           [
             -34.85067665576935,
@@ -5972,7 +5972,7 @@ var xypSaladeConcertosRadegundisFeitosa =
           ]
 ]];
 
-var xypDEMÚS-DepartamentodeMúsica =
+var xyDEMUSDepartamentodeMusica =
 [[
           [
             -34.8505961894989,
@@ -6036,7 +6036,7 @@ var xypDEMÚS-DepartamentodeMúsica =
           ]
 ]];
 
-var xypCCTA-BlocoD =
+var xyCCTABlocoD =
 [[
           [
             -34.84979420900345,
@@ -6060,7 +6060,7 @@ var xypCCTA-BlocoD =
           ]
 ]];
 
-var xypDAC-DepartamentodeArtesCênicas =
+var xyDACDepartamentodeArtesCenicas =
 [[
           [
             -34.8498398065567,
@@ -6100,7 +6100,7 @@ var xypDAC-DepartamentodeArtesCênicas =
           ]
 ]];
 
-var xypCCTA-BlocoB = 
+var xyCCTABlocoB = 
 [[
           [
             -34.84983175992966,
@@ -6140,7 +6140,7 @@ var xypCCTA-BlocoB =
           ]
 ]];
 
-var xypCineAruanda =
+var xyCineAruanda =
 [[
           [
             -34.84993368387222,
@@ -6164,7 +6164,7 @@ var xypCineAruanda =
           ]
 ]];
 
-var xypCCTA-BlocoA =
+var xyCCTABlocoA =
 [[
           [
             -34.85005706548691,
@@ -6188,7 +6188,7 @@ var xypCCTA-BlocoA =
           ]
 ]];
 
-var xypCCTA-CentrosAcadêmicos =
+var xyCCTACentrosAcademicos =
 [[
           [
             -34.850099980831146,
@@ -10137,6 +10137,10 @@ height: 9
 ]}
 
 // --- INÍCIO DO CCTA ---
+      var dataccta = {
+  type: "FeatureCollection",
+  features: [
+
 {
   type: "Feature",
   name: "SaladeConcertosRadegundisFeitosa",
@@ -10149,11 +10153,11 @@ height: 9
     type: "Polygon",
     coordinates: xySaladeConcertosRadegundisFeitosa
   }
-}
+},
 
 {
   type: "Feature",
-  name: "DEMÚS-DepartamentodeMúsica",
+  name: "DEMUSDepartamentodeMusica",
   properties: {
 wallColor: "rgba(119, 221, 119,1.5)",
 roofColor: "rgba(189, 291, 189,1.5)",
@@ -10161,13 +10165,13 @@ height: 9
 },
   geometry: {
     type: "Polygon",
-    coordinates: xyDEMÚS-DepartamentodeMúsica
+    coordinates: xyDEMUSDepartamentodeMusica
   }
-}
+},
 
 {
   type: "Feature",
-  name: "CCTA-BlocoD",
+  name: "CCTABlocoD",
   properties: {
 wallColor: "rgba(119, 221, 119,1.5)",
 roofColor: "rgba(189, 291, 189,1.5)",
@@ -10175,13 +10179,13 @@ height: 9
 },
   geometry: {
     type: "Polygon",
-    coordinates: xyCCTA-BlocoD
+    coordinates: xyCCTABlocoD
   }
-}
+},
 
 {
   type: "Feature",
-  name: "DAC-DepartamentodeArtesCênicas",
+  name: "DACDepartamentodeArtesCenicas",
   properties: {
 wallColor: "rgba(119, 221, 119,1.5)",
 roofColor: "rgba(189, 291, 189,1.5)",
@@ -10189,13 +10193,13 @@ height: 9
 },
   geometry: {
     type: "Polygon",
-    coordinates: xyDAC-DepartamentodeArtesCênicas
+    coordinates: xyDACDepartamentodeArtesCenicas
   }
-}
+},
 
 {
   type: "Feature",
-  name: "CCTA-BlocoB",
+  name: "CCTABlocoB",
   properties: {
 wallColor: "rgba(119, 221, 119,1.5)",
 roofColor: "rgba(189, 291, 189,1.5)",
@@ -10203,9 +10207,9 @@ height: 9
 },
   geometry: {
     type: "Polygon",
-    coordinates: xyCCTA-BlocoB
+    coordinates: xyCCTABlocoB
   }
-}
+},
 
 {
   type: "Feature",
@@ -10219,11 +10223,11 @@ height: 9
     type: "Polygon",
     coordinates: xyCineAruanda
   }
-}
+},
 
 {
   type: "Feature",
-  name: "CCTA-BlocoA",
+  name: "CCTABlocoA",
   properties: {
 wallColor: "rgba(119, 221, 119,1.5)",
 roofColor: "rgba(189, 291, 189,1.5)",
@@ -10231,13 +10235,13 @@ height: 9
 },
   geometry: {
     type: "Polygon",
-    coordinates: xyCCTA-BlocoA
+    coordinates: xyCCTABlocoA
   }
-}
+},
 
 {
   type: "Feature",
-  name: "CCTA-CentrosAcadêmicos",
+  name: "CCTACentrosAcademicos",
   properties: {
 wallColor: "rgba(119, 221, 119,1.5)",
 roofColor: "rgba(189, 291, 189,1.5)",
@@ -10245,7 +10249,9 @@ height: 9
 },
   geometry: {
     type: "Polygon",
-    coordinates: xyCCTA-Centros Acadêmicos
+    coordinates: xyCCTACentrosAcademicos
   }
 }
+
+]}
 // --- FIM DO CCTA ---

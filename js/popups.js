@@ -4142,7 +4142,7 @@ var pSaladeConcertosRadegundisFeitosa_pop = InserirPopUp(
 ""
 );
 
-var pDEMÚS-DepartamentodeMúsica_pop = InserirPopUp(
+var pDEMUSDepartamentodeMusica_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -4167,7 +4167,7 @@ var pDEMÚS-DepartamentodeMúsica_pop = InserirPopUp(
 ""
 );
 
-var pCCTA-BlocoD_pop = InserirPopUp(
+var pCCTABlocoD_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
@@ -4192,7 +4192,7 @@ var pCCTA-BlocoD_pop = InserirPopUp(
 ""
 );
 
-var pDAC-DepartamentodeArtesCênicas_pop = InserirPopUp(
+var pDACDepartamentodeArtesCênicas_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
@@ -4217,7 +4217,7 @@ var pDAC-DepartamentodeArtesCênicas_pop = InserirPopUp(
 ""
 );
 
-var pCCTA-BlocoB_pop = InserirPopUp(
+var pCCTABlocoB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 3,
 //Nome do prédio
@@ -4267,7 +4267,7 @@ var pCineAruanda_pop = InserirPopUp(
 ""
 );
 
-var pCCTA-BlocoA_pop = InserirPopUp(
+var pCCTABlocoA_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -4292,7 +4292,7 @@ var pCCTA-BlocoA_pop = InserirPopUp(
 ""
 );
 
-var pCCTA-CentrosAcadêmicos_pop = InserirPopUp(
+var pCCTACentrosAcadêmicos_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
