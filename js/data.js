@@ -8693,6 +8693,118 @@ height: 9
     type: "Polygon",
     coordinates: xyp084
   }
+},
+
+{
+  type: "Feature",
+  name: "SaladeConcertosRadegundisFeitosa",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xySaladeConcertosRadegundisFeitosa
+  }
+},
+
+{
+  type: "Feature",
+  name: "DEMUSDepartamentodeMusica",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyDEMUSDepartamentodeMusica
+  }
+},
+
+{
+  type: "Feature",
+  name: "CCTABlocoD",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCCTABlocoD
+  }
+},
+
+{
+  type: "Feature",
+  name: "DACDepartamentodeArtesCenicas",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyDACDepartamentodeArtesCenicas
+  }
+},
+
+{
+  type: "Feature",
+  name: "CCTABlocoB",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCCTABlocoB
+  }
+},
+
+{
+  type: "Feature",
+  name: "CineAruanda",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCineAruanda
+  }
+},
+
+{
+  type: "Feature",
+  name: "CCTABlocoA",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCCTABlocoA
+  }
+},
+
+{
+  type: "Feature",
+  name: "CCTACentrosAcademicos",
+  properties: {
+wallColor: "rgba(119, 221, 119,1.5)",
+roofColor: "rgba(189, 291, 189,1.5)",
+height: 9
+},
+  geometry: {
+    type: "Polygon",
+    coordinates: xyCCTACentrosAcademicos
+  }
 }
 
 

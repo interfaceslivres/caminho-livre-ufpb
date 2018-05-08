@@ -2740,7 +2740,7 @@ var p084= {
 };
 
 // --- INÍCIO DO CCTA ---
-var pSaladeConcertosRadegundisFeitosa= {
+var SaladeConcertosRadegundisFeitosa= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
@@ -2751,7 +2751,7 @@ var pSaladeConcertosRadegundisFeitosa= {
   }]
 };
 
-var pDEMUSDepartamentodeMusica= {
+var DEMUSDepartamentodeMusica= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
@@ -2762,7 +2762,7 @@ var pDEMUSDepartamentodeMusica= {
   }]
 };
 
-var pCCTABlocoD= {
+var CCTABlocoD= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
@@ -2773,7 +2773,7 @@ var pCCTABlocoD= {
   }]
 };
 
-var pDACDepartamentodeArtesCenicas= {
+var DACDepartamentodeArtesCenicas= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
@@ -2784,7 +2784,7 @@ var pDACDepartamentodeArtesCenicas= {
   }]
 };
 
-var pCCTABlocoB= {
+var CCTABlocoB= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
@@ -2795,7 +2795,7 @@ var pCCTABlocoB= {
   }]
 };
 
-var pCineAruanda= {
+var CineAruanda= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
@@ -2806,7 +2806,7 @@ var pCineAruanda= {
   }]
 };
 
-var pCCTABlocoA= {
+var CCTABlocoA= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",
@@ -2817,7 +2817,7 @@ var pCCTABlocoA= {
   }]
 };
 
-var pCCTACentrosAcademicos= {
+var CCTACentrosAcademicos= {
   type: "FeatureCollection",
   features: [{
     type: "Feature",

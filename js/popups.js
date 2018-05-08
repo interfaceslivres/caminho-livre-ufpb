@@ -4117,7 +4117,7 @@ var p084_pop = InserirPopUp(
 );
 
 // --- INÍCIO DO CCTA ---
-var pSaladeConcertosRadegundisFeitosa_pop = InserirPopUp(
+var SaladeConcertosRadegundisFeitosa_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -4142,7 +4142,7 @@ var pSaladeConcertosRadegundisFeitosa_pop = InserirPopUp(
 ""
 );
 
-var pDEMUSDepartamentodeMusica_pop = InserirPopUp(
+var DEMUSDepartamentodeMusica_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -4167,7 +4167,7 @@ var pDEMUSDepartamentodeMusica_pop = InserirPopUp(
 ""
 );
 
-var pCCTABlocoD_pop = InserirPopUp(
+var CCTABlocoD_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
@@ -4192,7 +4192,7 @@ var pCCTABlocoD_pop = InserirPopUp(
 ""
 );
 
-var pDACDepartamentodeArtesCênicas_pop = InserirPopUp(
+var DACDepartamentodeArtesCenicas_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
@@ -4217,7 +4217,7 @@ var pDACDepartamentodeArtesCênicas_pop = InserirPopUp(
 ""
 );
 
-var pCCTABlocoB_pop = InserirPopUp(
+var CCTABlocoB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 3,
 //Nome do prédio
@@ -4242,7 +4242,7 @@ var pCCTABlocoB_pop = InserirPopUp(
 "Redação de Rádio e TV; Redação Integrada",
 );
 
-var pCineAruanda_pop = InserirPopUp(
+var CineAruanda_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -4267,7 +4267,7 @@ var pCineAruanda_pop = InserirPopUp(
 ""
 );
 
-var pCCTABlocoA_pop = InserirPopUp(
+var CCTABlocoA_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -4292,7 +4292,7 @@ var pCCTABlocoA_pop = InserirPopUp(
 ""
 );
 
-var pCCTACentrosAcadêmicos_pop = InserirPopUp(
+var CCTACentrosAcademicos_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio

@@ -82,6 +82,7 @@
                   <p><button class="menu-area" onclick="sobeCT();">CT</button></p>
                   <p><button class="menu-area" onclick="sobeCCJ();">CCJ</button></p>
                   <p><button class="menu-area" onclick="sobeCCS();">CCS</button></p>
+                  <p><button class="menu-area" onclick="sobeCCTA();">CCTA</button></p>
                   <p><button class="menu-area" onclick="sobeCAS();">CAs</button></p>
                   <p><button class="menu-area" onclick="sobeTUDO();">Tudo</button></p>
                 </div>
@@ -1006,6 +1007,14 @@
 
               new OSMBuildings(map).set(datacas);
               map.setView([-7.1405, -34.8487], 18);
+
+        };
+
+
+                function sobeCCTA(){
+
+              new OSMBuildings(map).set(dataccta);
+              map.setView([-7.138, -34.85], 18);
 
         };
 
