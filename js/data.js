@@ -6212,6 +6212,425 @@ var xyCCTACentrosAcademicos =
           ]
 ]];
 // --- FIM DO CCTA ---
+var xyCCSABlocoC = 
+
+[
+          [
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ],
+          [
+            -34.84972447156906,
+            -7.140381671008599
+          ],
+          [
+            -34.8496413230896,
+            -7.140653134477937
+          ],
+          [
+            -34.85050767660141,
+            -7.140908629360709
+          ],
+          [
+            -34.85048621892929,
+            -7.140975164463024
+          ],
+          [
+            -34.84972983598709,
+            -7.14075160648092
+          ],
+          [
+            -34.849697649478905,
+            -7.140855401271906
+          ],
+          [
+            -34.85055863857269,
+            -7.141110896041692
+          ],
+          [
+            -34.85064446926116,
+            -7.140836771439364
+          ],
+          [
+            -34.85003024339675,
+            -7.1406557958837045
+          ],
+          [
+            -34.85005706548691,
+            -7.1405892607349415
+          ],
+          [
+            -34.850357472896576,
+            -7.140677087129267
+          ],
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ]
+]];
+
+var xyCCSAAmbienteDosProfessoresI = 
+
+[
+          [
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ],
+          [
+            -34.84972447156906,
+            -7.140381671008599
+          ],
+          [
+            -34.8496413230896,
+            -7.140653134477937
+          ],
+          [
+            -34.85050767660141,
+            -7.140908629360709
+          ],
+          [
+            -34.85048621892929,
+            -7.140975164463024
+          ],
+          [
+            -34.84972983598709,
+            -7.14075160648092
+          ],
+          [
+            -34.849697649478905,
+            -7.140855401271906
+          ],
+          [
+            -34.85055863857269,
+            -7.141110896041692
+          ],
+          [
+            -34.85064446926116,
+            -7.140836771439364
+          ],
+          [
+            -34.85003024339675,
+            -7.1406557958837045
+          ],
+          [
+            -34.85005706548691,
+            -7.1405892607349415
+          ],
+          [
+            -34.850357472896576,
+            -7.140677087129267
+          ],
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ]
+]];
+
+var xyCCSAAmbienteDosProfessoresII = 
+
+[
+          [
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ],
+          [
+            -34.84972447156906,
+            -7.140381671008599
+          ],
+          [
+            -34.8496413230896,
+            -7.140653134477937
+          ],
+          [
+            -34.85050767660141,
+            -7.140908629360709
+          ],
+          [
+            -34.85048621892929,
+            -7.140975164463024
+          ],
+          [
+            -34.84972983598709,
+            -7.14075160648092
+          ],
+          [
+            -34.849697649478905,
+            -7.140855401271906
+          ],
+          [
+            -34.85055863857269,
+            -7.141110896041692
+          ],
+          [
+            -34.85064446926116,
+            -7.140836771439364
+          ],
+          [
+            -34.85003024339675,
+            -7.1406557958837045
+          ],
+          [
+            -34.85005706548691,
+            -7.1405892607349415
+          ],
+          [
+            -34.850357472896576,
+            -7.140677087129267
+          ],
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ]
+]];
+
+var xyCCSABlocoA = 
+
+[
+          [
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ],
+          [
+            -34.84972447156906,
+            -7.140381671008599
+          ],
+          [
+            -34.8496413230896,
+            -7.140653134477937
+          ],
+          [
+            -34.85050767660141,
+            -7.140908629360709
+          ],
+          [
+            -34.85048621892929,
+            -7.140975164463024
+          ],
+          [
+            -34.84972983598709,
+            -7.14075160648092
+          ],
+          [
+            -34.849697649478905,
+            -7.140855401271906
+          ],
+          [
+            -34.85055863857269,
+            -7.141110896041692
+          ],
+          [
+            -34.85064446926116,
+            -7.140836771439364
+          ],
+          [
+            -34.85003024339675,
+            -7.1406557958837045
+          ],
+          [
+            -34.85005706548691,
+            -7.1405892607349415
+          ],
+          [
+            -34.850357472896576,
+            -7.140677087129267
+          ],
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ]
+]];
+
+var xyCCSASalasDeAulaI = 
+
+[
+          [
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ],
+          [
+            -34.84972447156906,
+            -7.140381671008599
+          ],
+          [
+            -34.8496413230896,
+            -7.140653134477937
+          ],
+          [
+            -34.85050767660141,
+            -7.140908629360709
+          ],
+          [
+            -34.85048621892929,
+            -7.140975164463024
+          ],
+          [
+            -34.84972983598709,
+            -7.14075160648092
+          ],
+          [
+            -34.849697649478905,
+            -7.140855401271906
+          ],
+          [
+            -34.85055863857269,
+            -7.141110896041692
+          ],
+          [
+            -34.85064446926116,
+            -7.140836771439364
+          ],
+          [
+            -34.85003024339675,
+            -7.1406557958837045
+          ],
+          [
+            -34.85005706548691,
+            -7.1405892607349415
+          ],
+          [
+            -34.850357472896576,
+            -7.140677087129267
+          ],
+          [
+            -34.85039234161376,
+            -7.140575953704025
+          ]
+]];
+
+var xyCCSABlocoB = 
+
+[
+          [
+          [
+            -34.849576950073235,
+            -7.140897983743449
+          ],
+          [
+            -34.84949648380279,
+            -7.141174769711827
+          ],
+          [
+            -34.8504701256752,
+            -7.141451555512692
+          ],
+          [
+            -34.85055059194565,
+            -7.141174769711827
+          ],
+          [
+             -34.849576950073235,
+            -7.140897983743449
+          ]
+]];
+
+var xyCCSASalasDeAulaII = 
+
+[
+          [
+          [
+            -34.849576950073235,
+            -7.140897983743449
+          ],
+          [
+            -34.84949648380279,
+            -7.141174769711827
+          ],
+          [
+            -34.8504701256752,
+            -7.141451555512692
+          ],
+          [
+            -34.85055059194565,
+            -7.141174769711827
+          ],
+          [
+             -34.849576950073235,
+            -7.140897983743449
+          ]
+]];
+
+var xyCCSABlocoD = 
+
+[
+          [
+          [
+            -34.849576950073235,
+            -7.140897983743449
+          ],
+          [
+            -34.84949648380279,
+            -7.141174769711827
+          ],
+          [
+            -34.8504701256752,
+            -7.141451555512692
+          ],
+          [
+            -34.85055059194565,
+            -7.141174769711827
+          ],
+          [
+             -34.849576950073235,
+            -7.140897983743449
+          ]
+]];
+
+var xyCCSABlocoDeInclusaoDigital = 
+
+[
+          [
+          [
+            -34.8498398065567,
+            -7.1412918714172555
+          ],
+          [
+            -34.850038290023804,
+            -7.141355745062112
+          ],
+          [
+            -34.850022196769714,
+            -7.1414063116913065
+          ],
+          [
+            -34.84982371330261,
+            -7.141350422258717
+          ],
+          [
+            -34.8498398065567,
+            -7.1412918714172555
+          ]
+]];
+
+var xyCCSACentrosAcademicos = 
+
+[
+          [
+          [
+            -34.85008656978607,
+            -7.141462201117063
+          ],
+          [
+            -34.8498210310936,
+            -7.1413823590781815
+          ],
+          [
+            -34.849780797958374,
+            -7.14151276773449
+          ],
+          [
+            -34.85004901885986,
+            -7.141589948350301
+          ],
+          [
+            -34.85008656978607,
+            -7.141462201117063
+          ]
+]];
 
 
 // --- TODOS OS PRÉDIOS ---
@@ -8805,16 +9224,149 @@ height: 9
     type: "Polygon",
     coordinates: xyCCTACentrosAcademicos
   }
-}
+},
 
+{
+      type: "Feature",
+      name: "CCSABlocoC",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoC
+    }
+  },
 
+    {
+      type: "Feature",
+      name: "CCSAAmbienteDosProfessoresI",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSAAmbienteDosProfessoresI
+      }
+    },
 
+    {
+      type: "Feature",
+      name: "CCSAAmbienteDosProfessoresII",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSAAmbienteDosProfessoresII
+      }
+    },
 
+    {
+      type: "Feature",
+      name: "CCSABlocoA",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoA
+      }
+    },
 
+    {
+      type: "Feature",
+      name: "CCSASalasDeAulaI",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSASalasDeAulaI
+      }
+    },
 
-  ]
-}
+    {
+      type: "Feature",
+      name: "CCSABlocoB",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoB
+      }
+    },
 
+    {
+      type: "Feature",
+      name: "CCSASalasDeAulaII",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSASalasDeAulaII
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSABlocoD",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoD
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSABlocoDeInclusaoDigital",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoDeInclusaoDigital
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSACentrosAcademicos",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSACentrosAcademicos
+      }
+    },
+
+  ]}
 
 
 // --- FIM DE TODOS OS PREDIOS ---
@@ -10363,7 +10915,153 @@ height: 9
     type: "Polygon",
     coordinates: xyCCTACentrosAcademicos
   }
-}
+},
 
 ]}
 // --- FIM DO CCTA ---
+
+var dataccsa = {
+  type: "FeatureCollection",
+  features: [
+
+
+    {
+      type: "Feature",
+      name: "CCSABlocoC",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 9
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoC
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSAAmbienteDosProfessoresI",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSAAmbienteDosProfessoresI
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSAAmbienteDosProfessoresII",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSAAmbienteDosProfessoresII
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSABlocoA",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoA
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSASalasDeAulaI",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSASalasDeAulaI
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSABlocoB",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoB
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSASalasDeAulaII",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSASalasDeAulaII
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSABlocoD",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoD
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSABlocoDeInclusaoDigital",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSABlocoDeInclusaoDigital
+      }
+    },
+
+    {
+      type: "Feature",
+      name: "CCSACentrosAcademicos",
+      properties: {
+    wallColor: "rgba(205,205,205,1.5)",
+    roofColor: "rgba(0,0,0,1.5)",
+    height: 5
+    },
+      geometry: {
+        type: "Polygon",
+        coordinates: xyCCSACentrosAcademicos
+      }
+    },
+]}

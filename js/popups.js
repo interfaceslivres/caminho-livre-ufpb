@@ -2166,17 +2166,17 @@ var HospitalUniversitarioLauroWanderley_pop = InserirPopUp(
 "Comitê de ética em pesquisa, telemedicina, Central de materiais e esterilização, Gerência de ensino e pesquisa, CIMICRON, departamento de ginecologia e obstetrícia, Divisão de obras, Grupo de trabalho e humanização, Unidade de vigilância Epidemiológica, reumatologia, Clínica Cirúrgica A e B."
 );
 
-var p001_pop = InserirPopUp(
+var CCSABlocoC = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"p001",
+"Bloco C - CCSA",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br>Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br><br><a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank'>Informe-nos aqui</a>.",
-"",
-"",
+"-",
+"Laboratório de Objetos Digitais",
+"Coordenação do Curso de Ciências Contábeis; Departamento de Finanças e Contabilidade; Coordenação do Curso de Ciências Atuariais; Biblioteca Escola; Coordenação do Curso de Arquivologia; Secretaria do Curso de Biblioteconomia; Coordenação de Estágio do Curso de Biblioteconomia; Coordenação do Curso de Biblioteconomia; Coordenação e Secretaria do PPGCI - Programa de Pós-Graduação em Ciência da Informação; Coordenação do PPGCC - Programa de Pós-Graduação em Ciências Contábeis; Ambiente de estudos da Revista Informação & Sociedade; Departamento de Ciência da Informação *Banheiros restritos a funcionários.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
@@ -2191,17 +2191,17 @@ var p001_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var p002_pop = InserirPopUp(
+var CCSAAmbienteDosProfessoresI = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"p002",
+"Ambiente dos Professores I - CCSA",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
 0, 0,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
+"Salas 61, 62, 63, 64, 65 e 66",
+"-",
+"*Sem banheiros",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
@@ -2216,17 +2216,67 @@ var p002_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var p003_pop = InserirPopUp(
+var CCSAAmbienteDosProfessoresII = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"Ambiente dos Professores II - CCSA",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+0, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Ambientes de 01 a 21",
+"-",
+"*Banheiro Sem Acessibilidade",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"-",
+"-",
+"Ambientes de 22 a 60",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CCSABlocoA = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"Bloco A - CCSA",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"Salas 213, 218, 219",
+"LABCOR - Laboratório de Conservação e Restauro",
+"OPPA - Observatório de Pesquisa e Prática em Administração; Arquivo Setorial; Arquivo Escola",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Salas 221, 222, 223, 224, 225, 226, 227, 228, 220",
+"-",
+"*Sem banheiros",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22"
+);
+
+var CCSASalasDeAulaI = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"p003",
+"Salas de Aula I",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
+"Salas 201, 202, 203, 204,  205, 206, 207, 208, 209",
+"-",
+"LAPE - Laboratório de Práticas Econômicas",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
@@ -2241,17 +2291,42 @@ var p003_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var p004_pop = InserirPopUp(
+var CCSABlocoB = InserirPopUp(
+//Número de Andares (1,2,3)
+2,
+//Nome do prédio
+"Bloco B = CCSA",
+//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
+1, 1,
+//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
+"-",
+"Laboratório de Informática do Curso de Arquivologia; Laboratório de Práticas Arquivísticas",
+"Sala de Videoconferência do CCSA; Sala Multimídia I; Biblioteca Setorial.",
+//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
+0, 0,
+//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
+"Salas 229, 230, 231, 232, 233, 234",
+"-",
+"Ambiente 73 - Departamento de Relações Internacionais; Ambientes 74, 75, 76, 77, 78.",
+//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
+0, 0,
+//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
+"Sala 21, Sala 22",
+"Labs 21, Labs 22",
+"Amb 21, Amb22",
+);
+
+var CCSASalasDeAulaII = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"p004",
+"Salas de Aula II",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
+"Sala de Vídeo; Sala 113",
+"Laboratórios de Informática I e II; Laboratórios de Contábil I e II; ",
+"Coordenação e Departamento do Curso de Relações Internacionais; Auditório Azul; GAPPE; Secretaria do N.C.A; PGPCI - Programa de Pós-Graduação em Gestão Pública e Cooperação Internacional.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
@@ -2266,17 +2341,17 @@ var p004_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var p005_pop = InserirPopUp(
+var CCSABlocoD = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"p005",
+"Bloco D - CCSA",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
+0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
+"-",
+"-",
+"Setor de Recursos Humanos; Acessorias do CCSA; Diretoria, Vice Diretoria e Secretaria Geral do CCSA; Coordenação e Secretaria do PPGE; Secretaria e Departamento do CGE - Curso de Graduação em Economia; Sala de Reuniões; Secretaria Departamento de Administração; Secretaria do PPGA - Programa de Pós-Graduação em Administração; Coordenação do Curso de Administração *Banheiros de uso exclusivo de funcionários.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
@@ -2291,17 +2366,17 @@ var p005_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var p006_pop = InserirPopUp(
+var CCSABlocoDeInclusaoDigital = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
-"p006",
+"Bloco de Inclusão Digital - CCSA",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
+0, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
+"-",
+"-",
+"*Sem banheiros",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
@@ -2316,98 +2391,23 @@ var p006_pop = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var p007_pop = InserirPopUp(
+var CCSACentrosAcademicos = InserirPopUp(
 //Número de Andares (1,2,3)
-1,
+2,
 //Nome do prédio
-"p007",
+"Centros Acadêmicos - CCSA",
 //Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
+1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
+"-",
+"-",
+"CAGESP - Centro Acadêmico de Gestão Pública; CACIC - Centro Acadêmico de Ciências Contábeis; Centro Acadêmico de Biblioteconomia; Centro Acadêmico de Arquivologia.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
+0, 1,
 //Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p008_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p008",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p009_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p009",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
-//Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
-0, 0,
-//Salas do 2º, Laboratórios do 2º, Ambientes do 2º
-"Sala 21, Sala 22",
-"Labs 21, Labs 22",
-"Amb 21, Amb22"
-);
-
-var p010_pop = InserirPopUp(
-//Número de Andares (1,2,3)
-1,
-//Nome do prédio
-"p010",
-//Banheiro Térreo, Acessibilidade Térreo (0 ou 1)
-0, 0,
-//Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
-"Este prédio ainda não foi registrado. <br> Sabe quais salas existem aqui, ou se este prédio possui acessibilidade? <br> <br> <a class='linkInternoPopUp' href='https://docs.google.com/forms/d/1fz59YKHcQ-PEQKNf6ukA6BJDvlo_CjSM80KDGBdPViQ/edit' target='_blank' >Informe-nos aqui</a>",
-"",
-"",
-//Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
-0, 0,
-//Salas do 1º, Laboratórios do 1º, Ambientes do 1º
-"Sala 11, Sala 12",
-"Labs 11, Labs 12",
-"Amb 11, Amb12",
+"-",
+"-",
+"Centro Acadêmico de Ciências Atuariais; LÍDERI - Consultoria Nacional e Internacional; Centro Acadêmico de Administração; Centro Acadêmico de Economia; Centro Acadêmico de Relações Internacionais Celso Amorim; Consultoria da EJA - Empresa Júnior de Administração. *Sem banheiros",
 //Banheiro 2º Andar, Acessibilidade 2º Andar (0 ou 1)
 0, 0,
 //Salas do 2º, Laboratórios do 2º, Ambientes do 2º

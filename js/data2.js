@@ -2828,3 +2828,115 @@ var CCTACentrosAcademicos= {
   }]
 };
 // --- FIM DO CCTA ---
+
+// --- Início do CCSA ---
+
+var CCSABlocoC = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSABlocoC
+    }
+  }]
+};
+
+var CCSAAmbienteDosProfessoresI = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSAAmbienteDosProfessoresI
+    }
+  }]
+};
+
+var CCSAAmbienteDosProfessoresII = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSAAmbienteDosProfessoresII
+    }
+  }]
+};
+
+var CCSABlocoA = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSABlocoA
+    }
+  }]
+};
+
+var CCSASalasDeAulaI = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSASalasDeAulaI
+    }
+  }]
+};
+
+var CCSABlocoB = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSABlocoB
+    }
+  }]
+};
+
+var CCSASalasDeAulasII = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSASalasDeAulaII
+    }
+  }]
+};
+
+var CCSABlocoD = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSABlocoD
+    }
+  }]
+};
+
+var CCSABlocoDeInclusaoDigital = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSABlocoDeInclusaoDigital
+    }
+  }]
+};
+
+var CCSACentrosAcademicos = {
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Polygon",
+      coordinates: xyCCSACentrosAcademicos
+    }
+  }]
+};

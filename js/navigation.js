@@ -311,34 +311,34 @@
               'HospitalUniversitarioLauroWanderley'
               ],
               [
-              'p001'
+              'CCSABlocoC'
               ],
               [
-              'p002'
+              'CCSAAmbienteDosProfessoresI'
               ],
               [
-              'p003'
+              'CCSAAmbienteDosProfessoresII'
               ],
               [
-              'p004'
+              'CCSABlocoA'
               ],
               [
-              'p005'
+              'CCSASalasDeAulaI'
               ],
               [
-              'p006'
+              'CCSABlocoB'
               ],
               [
-              'p007'
+              'CCSASalasDeAulaII'
               ],
               [
-              'p008'
+              'CCSABlocoD'
               ],
               [
-              'p009'
+              'CCSABlocoDeInclusaoDigital'
               ],
               [
-              'p010'
+              'CCSACentrosAcademicos'
               ],
               [
               'p011'
