@@ -1880,29 +1880,6 @@ var HospitalUniversitarioLauroWanderley= {
   }]
 };
 
-
-var p001= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp001
-    }
-  }]
-};
-
-var p002= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp002
-    }
-  }]
-};
-
 var p003= {
   type: "FeatureCollection",
   features: [{
@@ -1914,17 +1891,6 @@ var p003= {
   }]
 };
 
-var p004= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp004
-    }
-  }]
-};
-
 var p005= {
   type: "FeatureCollection",
   features: [{
@@ -1932,17 +1898,6 @@ var p005= {
     geometry: {
       type: "Polygon",
       coordinates: xyp005
-    }
-  }]
-};
-
-var p006= {
-  type: "FeatureCollection",
-  features: [{
-    type: "Feature",
-    geometry: {
-      type: "Polygon",
-      coordinates: xyp006
     }
   }]
 };
@@ -2897,7 +2852,7 @@ var CCSABlocoB = {
   }]
 };
 
-var CCSASalasDeAulasII = {
+var CCSASalasDeAulaII = {
   type: "FeatureCollection",
   features: [{
     type: "Feature",

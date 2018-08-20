@@ -2166,7 +2166,7 @@ var HospitalUniversitarioLauroWanderley_pop = InserirPopUp(
 "Comitê de ética em pesquisa, telemedicina, Central de materiais e esterilização, Gerência de ensino e pesquisa, CIMICRON, departamento de ginecologia e obstetrícia, Divisão de obras, Grupo de trabalho e humanização, Unidade de vigilância Epidemiológica, reumatologia, Clínica Cirúrgica A e B."
 );
 
-var CCSABlocoC = InserirPopUp(
+var CCSABlocoC_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -2191,7 +2191,7 @@ var CCSABlocoC = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSAAmbienteDosProfessoresI = InserirPopUp(
+var CCSAAmbienteDosProfessoresI_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -2216,7 +2216,7 @@ var CCSAAmbienteDosProfessoresI = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSAAmbienteDosProfessoresII = InserirPopUp(
+var CCSAAmbienteDosProfessoresII_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
@@ -2241,7 +2241,7 @@ var CCSAAmbienteDosProfessoresII = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSABlocoA = InserirPopUp(
+var CCSABlocoA_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
@@ -2266,7 +2266,7 @@ var CCSABlocoA = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSASalasDeAulaI = InserirPopUp(
+var CCSASalasDeAulaI_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -2291,7 +2291,7 @@ var CCSASalasDeAulaI = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSABlocoB = InserirPopUp(
+var CCSABlocoB_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio
@@ -2316,7 +2316,7 @@ var CCSABlocoB = InserirPopUp(
 "Amb 21, Amb22",
 );
 
-var CCSASalasDeAulaII = InserirPopUp(
+var CCSASalasDeAulaII_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -2341,7 +2341,7 @@ var CCSASalasDeAulaII = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSABlocoD = InserirPopUp(
+var CCSABlocoD_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -2366,7 +2366,7 @@ var CCSABlocoD = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSABlocoDeInclusaoDigital = InserirPopUp(
+var CCSABlocoDeInclusaoDigital_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 1,
 //Nome do prédio
@@ -2391,7 +2391,7 @@ var CCSABlocoDeInclusaoDigital = InserirPopUp(
 "Amb 21, Amb22"
 );
 
-var CCSACentrosAcademicos = InserirPopUp(
+var CCSACentrosAcademicos_pop = InserirPopUp(
 //Número de Andares (1,2,3)
 2,
 //Nome do prédio

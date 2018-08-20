@@ -3527,117 +3527,6 @@ var xyHospitalUniversitarioLauroWanderley =
             -7.134827280147154
           ]
 
-]
-];
-
-var xyp001 = 
-[
-[
-
-[
-            -34.85038161277771,
-            -7.14057063089156
-          ],
-          [
-            -34.849732518196106,
-            -7.140389655230586
-          ],
-          [
-            -34.84965205192566,
-            -7.1406557958837045
-          ],
-          [
-            -34.850510358810425,
-            -7.140900645147793
-          ],
-          [
-            -34.850494265556335,
-            -7.140969841655189
-          ],
-          [
-            -34.849732518196106,
-            -7.14075160648092
-          ],
-          [
-            -34.84971106052399,
-            -7.140852739867308
-          ],
-          [
-            -34.85055863857269,
-            -7.14110823463857
-          ],
-          [
-            -34.85063910484314,
-            -7.14082080301086
-          ],
-          [
-            -34.850038290023804,
-            -7.140645150260555
-          ],
-          [
-            -34.85005438327789,
-            -7.14058127651644
-          ],
-          [
-            -34.85036015510559,
-            -7.140666441506613
-          ],
-          [
-            -34.85038161277771,
-            -7.14057063089156
-          ]
-
-]
-];
-
-var xyp002 = 
-[[
-
-[
-            -34.85055327415466,
-            -7.141166785503542
-          ],
-          [
-            -34.849576950073235,
-            -7.140895322339094
-          ],
-          [
-            -34.84949648380279,
-            -7.141166785503542
-          ],
-          [
-            -34.84986126422882,
-            -7.141273241602487
-          ],
-          [
-            -34.84988808631897,
-            -7.141092266219557
-          ],
-          [
-            -34.85038697719574,
-            -7.141235981970673
-          ],
-          [
-            -34.85037088394165,
-            -7.1412945328192965
-          ],
-          [
-            -34.84987199306488,
-            -7.141193399530604
-          ],
-          [
-            -34.84986126422882,
-            -7.141273241602487
-          ],
-          [
-            -34.85046207904816,
-            -7.141448894111554
-          ],
-          [
-            -34.85055327415466,
-            -7.141166785503542
-          ]
-
 ]];
 
 var xyp003 = 
@@ -3682,32 +3571,6 @@ var xyp003 =
 
 ]];
 
-var xyp004 = 
-[[
-
-[
-            -34.85004901885986,
-            -7.1413424380535115
-          ],
-          [
-            -34.84984517097473,
-            -7.1412945328192965
-          ],
-          [
-            -34.84983444213867,
-            -7.141347760856995
-          ],
-          [
-            -34.850027561187744,
-            -7.1414063116913065
-          ],
-          [
-            -34.85004901885986,
-            -7.1413424380535115
-          ]
-
-]];
-
 var xyp005 = 
 [[
 
@@ -3730,32 +3593,6 @@ var xyp005 =
           [
             -34.85069811344147,
             -7.141581964149255
-          ]
-
-]];
-
-var xyp006 = 
-[[
-
-[
-            -34.85008120536804,
-            -7.141454216913804
-          ],
-          [
-            -34.849829077720635,
-            -7.141395666085624
-          ],
-          [
-            -34.84979689121246,
-            -7.141518090536001
-          ],
-          [
-            -34.85004901885986,
-            -7.141576641348494
-          ],
-          [
-            -34.85008120536804,
-            -7.141454216913804
           ]
 
 ]];
@@ -8024,34 +7861,6 @@ height: 50
 
 {
   type: "Feature",
-  name: "p001",
-  properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
-height: 9
-},
-  geometry: {
-    type: "Polygon",
-    coordinates: xyp001
-  }
-},
-
-{
-  type: "Feature",
-  name: "p002",
-  properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
-height: 9
-},
-  geometry: {
-    type: "Polygon",
-    coordinates: xyp002
-  }
-},
-
-{
-  type: "Feature",
   name: "p003",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
@@ -8066,20 +7875,6 @@ height: 9
 
 {
   type: "Feature",
-  name: "p004",
-  properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
-height: 9
-},
-  geometry: {
-    type: "Polygon",
-    coordinates: xyp004
-  }
-},
-
-{
-  type: "Feature",
   name: "p005",
   properties: {
 wallColor: "rgba(194, 194, 194,1.5)",
@@ -8089,20 +7884,6 @@ height: 9
   geometry: {
     type: "Polygon",
     coordinates: xyp005
-  }
-},
-
-{
-  type: "Feature",
-  name: "p006",
-  properties: {
-wallColor: "rgba(194, 194, 194,1.5)",
-roofColor: "rgba(255, 255, 255,1.5)",
-height: 9
-},
-  geometry: {
-    type: "Polygon",
-    coordinates: xyp006
   }
 },
 
@@ -9230,8 +9011,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoC",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
     height: 9
     },
       geometry: {
@@ -9244,9 +9025,9 @@ height: 9
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresI",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 9
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 5
     },
       geometry: {
         type: "Polygon",
@@ -9258,9 +9039,9 @@ height: 9
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresII",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 9
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 5
     },
       geometry: {
         type: "Polygon",
@@ -9272,9 +9053,9 @@ height: 9
       type: "Feature",
       name: "CCSABlocoA",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 9
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 5
     },
       geometry: {
         type: "Polygon",
@@ -9286,9 +9067,9 @@ height: 9
       type: "Feature",
       name: "CCSASalasDeAulaI",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 9
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 5
     },
       geometry: {
         type: "Polygon",
@@ -9300,8 +9081,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoB",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
     height: 9
     },
       geometry: {
@@ -9314,9 +9095,9 @@ height: 9
       type: "Feature",
       name: "CCSASalasDeAulaII",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 9
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 5
     },
       geometry: {
         type: "Polygon",
@@ -9328,9 +9109,9 @@ height: 9
       type: "Feature",
       name: "CCSABlocoD",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 9
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 5
     },
       geometry: {
         type: "Polygon",
@@ -9342,8 +9123,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoDeInclusaoDigital",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
     height: 9
     },
       geometry: {
@@ -9356,8 +9137,8 @@ height: 9
       type: "Feature",
       name: "CCSACentrosAcademicos",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
     height: 9
     },
       geometry: {
@@ -10929,8 +10710,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoC",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
     height: 9
     },
       geometry: {
@@ -10943,9 +10724,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresI",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -10957,9 +10738,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresII",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -10971,9 +10752,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoA",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -10985,9 +10766,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSASalasDeAulaI",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -10999,9 +10780,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoB",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -11013,9 +10794,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSASalasDeAulaII",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -11027,9 +10808,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoD",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -11041,9 +10822,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoDeInclusaoDigital",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -11055,9 +10836,9 @@ var dataccsa = {
       type: "Feature",
       name: "CCSACentrosAcademicos",
       properties: {
-    wallColor: "rgba(4,4,118,1.5)",
-    roofColor: "rgba(0,0,65,1.5)",
-    height: 5
+    wallColor: "rgba(0,0,65,1.5)",
+    roofColor: "rgba(86,86,241,1.5)",
+    height: 9
     },
       geometry: {
         type: "Polygon",
