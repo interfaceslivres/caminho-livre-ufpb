@@ -9230,8 +9230,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoC",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9244,8 +9244,8 @@ height: 9
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresI",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9258,8 +9258,8 @@ height: 9
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresII",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9272,8 +9272,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoA",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9286,8 +9286,8 @@ height: 9
       type: "Feature",
       name: "CCSASalasDeAulaI",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9300,8 +9300,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoB",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9314,8 +9314,8 @@ height: 9
       type: "Feature",
       name: "CCSASalasDeAulaII",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9328,8 +9328,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoD",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9342,8 +9342,8 @@ height: 9
       type: "Feature",
       name: "CCSABlocoDeInclusaoDigital",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -9356,8 +9356,8 @@ height: 9
       type: "Feature",
       name: "CCSACentrosAcademicos",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -10929,8 +10929,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoC",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 9
     },
       geometry: {
@@ -10943,8 +10943,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresI",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -10957,8 +10957,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSAAmbienteDosProfessoresII",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -10971,8 +10971,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoA",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -10985,8 +10985,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSASalasDeAulaI",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -10999,8 +10999,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoB",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -11013,8 +11013,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSASalasDeAulaII",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -11027,8 +11027,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoD",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -11041,8 +11041,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSABlocoDeInclusaoDigital",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
@@ -11055,8 +11055,8 @@ var dataccsa = {
       type: "Feature",
       name: "CCSACentrosAcademicos",
       properties: {
-    wallColor: "rgba(205,205,205,1.5)",
-    roofColor: "rgba(0,0,0,1.5)",
+    wallColor: "rgba(4,4,118,1.5)",
+    roofColor: "rgba(0,0,65,1.5)",
     height: 5
     },
       geometry: {
