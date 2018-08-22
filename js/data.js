@@ -9027,7 +9027,7 @@ height: 9
       properties: {
     wallColor: "rgba(0,0,65,1.5)",
     roofColor: "rgba(86,86,241,1.5)",
-    height: 5
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -9041,7 +9041,7 @@ height: 9
       properties: {
     wallColor: "rgba(0,0,65,1.5)",
     roofColor: "rgba(86,86,241,1.5)",
-    height: 5
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -9055,7 +9055,7 @@ height: 9
       properties: {
     wallColor: "rgba(0,0,65,1.5)",
     roofColor: "rgba(86,86,241,1.5)",
-    height: 5
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -9069,7 +9069,7 @@ height: 9
       properties: {
     wallColor: "rgba(0,0,65,1.5)",
     roofColor: "rgba(86,86,241,1.5)",
-    height: 5
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -9097,7 +9097,7 @@ height: 9
       properties: {
     wallColor: "rgba(0,0,65,1.5)",
     roofColor: "rgba(86,86,241,1.5)",
-    height: 5
+    height: 9
     },
       geometry: {
         type: "Polygon",
@@ -9111,7 +9111,7 @@ height: 9
       properties: {
     wallColor: "rgba(0,0,65,1.5)",
     roofColor: "rgba(86,86,241,1.5)",
-    height: 5
+    height: 9
     },
       geometry: {
         type: "Polygon",
