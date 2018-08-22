@@ -2325,7 +2325,7 @@ var CCSASalasDeAulaII_pop = InserirPopUp(
 1, 1,
 //Salas do Térreo, Laboratórios do Térreo, Ambientes do Térreo
 "Sala de Vídeo; Sala 113",
-"Laboratórios de Informática I e II; Laboratórios de Contábil I e II; ",
+"Laboratórios de Informática I e II; Laboratórios de Contábil I e II",
 "Coordenação e Departamento do Curso de Relações Internacionais; Auditório Azul; GAPPE; Secretaria do N.C.A; PGPCI - Programa de Pós-Graduação em Gestão Pública e Cooperação Internacional.",
 //Banheiro 1º Andar, Acessibilidade 1º Andar (0 ou 1)
 0, 0,

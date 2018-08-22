@@ -311,34 +311,34 @@
               'HospitalUniversitarioLauroWanderley'
               ],
               [
-              'CCSABlocoC'
+              'CCSABlocoC', 'Laboratório de Objetos Digitais', 'Coordenação do Curso de Ciências Contábeis', 'Departamento de Finanças e Contabilidade', 'Coordenação do Curso de Ciências Atuariais', 'Biblioteca Escola', 'Coordenação do Curso de Arquivologia', 'Secretaria do Curso de Biblioteconomia', 'Coordenação de Estágio do Curso de Biblioteconomia', 'Coordenação do Curso de Biblioteconomia', 'Coordenação e Secretaria do PPGCI - Programa de Pós-Graduação em Ciência da Informação', 'Coordenação do PPGCC - Programa de Pós-Graduação em Ciências Contábeis', 'Ambiente de estudos da Revista Informação & Sociedade', 'Departamento de Ciência da Informação'
               ],
               [
-              'CCSAAmbienteDosProfessoresI'
+              'CCSAAmbienteDosProfessoresI', 'Salas 61, 62, 63, 64, 65 e 66'
               ],
               [
-              'CCSAAmbienteDosProfessoresII'
+              'CCSAAmbienteDosProfessoresII', 'Ambientes de 01 a 21', 'Ambientes de 22 a 60'
               ],
               [
-              'CCSABlocoA'
+              'CCSABlocoA', 'salas 213, 218, 219', 'LABCOR - Laboratório de Conservação e Restauro', 'OPPA - Observatório de Pesquisa e Prática em Administração', 'Arquivo Setorial', 'Arquivo Escola', 'Salas 221, 222, 223, 224, 225, 226, 227, 228, 220'
               ],
               [
-              'CCSASalasDeAulaI'
+              'CCSASalasDeAulaI', 'Salas 201, 202, 203, 204,  205, 206, 207, 208, 209', 'LAPE - Laboratório de Práticas Econômicas'
               ],
               [
-              'CCSABlocoB'
+              'CCSABlocoB', 'Laboratório de Informática do Curso de Arquivologia', 'Laboratório de Práticas Arquivísticas', 'Sala de Videoconferência do CCSA', 'Sala Multimídia I', 'Biblioteca Setorial', 'Salas 229, 230, 231, 232, 233, 234', 'Ambiente 73 - Departamento de Relações Internacionais', 'Ambientes 74, 75, 76, 77, 78'
               ],
               [
-              'CCSASalasDeAulaII'
+              'CCSASalasDeAulaII', 'Sala de Vídeo', 'Sala 113', 'Laboratórios de Informática I e II', 'Laboratórios de Contábil I e II', 'Coordenação e Departamento do Curso de Relações Internacionais', 'Auditório Azul', 'GAPPE', 'Secretaria do N.C.A', 'PGPCI - Programa de Pós-Graduação em Gestão Pública e Cooperação Internacional'
               ],
               [
-              'CCSABlocoD'
+              'CCSABlocoD', 'Setor de Recursos Humanos','Acessorias do CCSA', 'Diretoria, Vice Diretoria e Secretaria Geral do CCSA', 'Coordenação e Secretaria do PPGE', 'Secretaria e Departamento do CGE - Curso de Graduação em Economia', 'Sala de Reuniões', 'Secretaria Departamento de Administração', 'Secretaria do PPGA - Programa de Pós-Graduação em Administração', 'Coordenação do Curso de Administração'
               ],
               [
               'CCSABlocoDeInclusaoDigital'
               ],
               [
-              'CCSACentrosAcademicos'
+              'CCSACentrosAcademicos', 'CAGESP - Centro Acadêmico de Gestão Pública', 'CACIC - Centro Acadêmico de Ciências Contábeis',  'Centro Acadêmico de Biblioteconomia', 'Centro Acadêmico de Arquivologia', 'Centro Acadêmico de Ciências Atuariais', 'LÍDERI - Consultoria Nacional e Internacional', 'Centro Acadêmico de Administração', 'Centro Acadêmico de Economia', 'Centro Acadêmico de Relações Internacionais Celso Amorim', 'Consultoria da EJA - Empresa Júnior de Administ'
               ],
               [
               'p011'
