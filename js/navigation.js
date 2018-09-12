@@ -341,6 +341,36 @@
               'CCSACentrosAcademicos', 'CAGESP - Centro Acadêmico de Gestão Pública', 'CACIC - Centro Acadêmico de Ciências Contábeis',  'Centro Acadêmico de Biblioteconomia', 'Centro Acadêmico de Arquivologia', 'Centro Acadêmico de Ciências Atuariais', 'LÍDERI - Consultoria Nacional e Internacional', 'Centro Acadêmico de Administração', 'Centro Acadêmico de Economia', 'Centro Acadêmico de Relações Internacionais Celso Amorim', 'Consultoria da EJA - Empresa Júnior de Administ'
               ],
               [
+              'p001'
+              ],
+              [
+              'p002'
+              ],
+              [
+              'p003'
+              ],
+              [
+              'p004'
+              ],
+              [
+              'p005'
+              ],
+              [
+              'p006'
+              ],
+              [
+              'p007'
+              ],
+              [
+              'p008'
+              ],
+              [
+              'p009'
+              ],
+              [
+              'p010'
+              ],
+              [
               'p011'
               ],
               [
@@ -507,42 +537,6 @@
               ],
               [
               'p072'
-              ],
-              [
-              'p073'
-              ],
-              [
-              'p074'
-              ],
-              [
-              'p075'
-              ],
-              [
-              'p076'
-              ],
-              [
-              'p077'
-              ],
-              [
-              'p078'
-              ],
-              [
-              'p079'
-              ],
-              [
-              'p080'
-              ],
-              [
-              'p081'
-              ],
-              [
-              'p082'
-              ],
-              [
-              'p083'
-              ],
-              [
-              'p084'
               ],
               [
               'Sala de Concertos Radegundis Feitosa'
