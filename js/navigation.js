@@ -41,7 +41,7 @@
                 'Sala 417 - Sala 425', 'T417', 'T418', 'T419', 'Coordenação da LEA', 'Coordenação de Tradução'
               ],
               [
-                'Biblioteca Setorial',
+                'Biblioteca Setorial CCHLA',
                 'Sala de Atendimento ao Usuário'
               ],
               [
@@ -164,7 +164,7 @@
               'Elefante Branco - Bloco II', 'Departamento de Odontologia Restauradora CCS', 'Coordenação de Pós-graduação Odontologia', 'Núcleo de Pesquisa em Bioética - NEPB', 'Salas próximas ao Departamento de Fisioterapia: 1-9', 'Salas próximas ao departamento de Ciências Farmacêuticas: Sala de aula 1 e 2', 'Sala Profª Silvana Teresa L. Jales e Profº José Damião C. Borba', 'Sala Dr. Lauro Santos Filho e Dra. Isabele Beserra S. Gomes', 'Sala Profº Dr. João Vianney M. S. S. Maior e Profª Dra. Luciana Aranha', 'Laboratório de Biologia Bucal', 'Laboratório de Biomateriais I', 'Laboratório de Biomateriais II', 'Departamento de Fisioterapia', 'Núcleo de Estudos e Pesquisas Interdisciplinares em Biomateriais – NEPIBIO', 'Banco de Dentes Humanos BDH/CCS', 'Comitê de Ética em Pesquisa do CCS', 'Ambiente Docente – Professor Fábio Correia Sampaio', 'Ambiente Docente (sem identificação)', 'Copa di EB2', 'Auditórios do EB2', 'Grupo de Pesquisa em Biomateriais – GEPIBIO', 'Coordenação do Estágio Supervisionado em Análises Clínicas', 'Departamento de Ciências Farmacêuticas', 'Chefia do Departamento de Ciências Farmacêuticas', 'Sala Mestrado em Ciências da Nutrição', 'Sala dos professores de nutrição', 'Ambiente docente, sala 1 e 2 - Enfermagem Saúde Pública', 'Sala 1 e 2 - Enfermagem Clínica Pediátrica', 'Sala Enfermagem Obstétrica', 'Sala Enfermagem Psiquiátrica', 'Sala de reunião do EB2', 'Sala Epidemiologia', 'Sala de Planejamento e gestão', 'Sala Saúde Mental', 'Sala Pós-graduação', 'Especialização e residência', 'Sala Educação em Saúde', 'Sala Saúde e Trabalho', 'Departamento de Nutrição', 'Sala de audio-visual', 'Cantina do EB2', 'Chefia do Departamento de Nutrição', 'Departamento de Enfermagem em Saúde Coletiva', 'Copa do EB2', 'Auditório do EB2', 'Núcleo de Estudos em Saúde Coletiva - NESC', 'Coordenação do NESC', 'Secretaria do Estágio Rural Integrado - ERI', 'Coordenação do ERI', 'Auditório do ERI'
               ],
               [
-              'CE - Bloco C', 'Sala 8', 'Sala de Reunião Prof. Vanildo', 'Sala de Estudo e Pesquisa Prof. Onelice de Medeiros Barros', 'LAD - Laboratório de Aprendizagens Digitais','Biblioteca Setorial','Ambiente 36','Programa de Pós Graduação em Ciências das Religiões', 'Sala do Servidor/Assessoria de Informática', 'Sala de Manutenção', 'Ambiente 1', 'Ambiente 2 (Grupo de Estudos Transdisciplinares em Educação e Saúde - GERES)', 'Ambiente (Grupo de Estudos e Pesquisas em Políticas Curriculares - GEPPC)', 'Ambientes 3-11', 'Ambiente 12 (Coordenação do Curso de Graduação em Ciências Naturais - Licenciatura à Distância)','Ambiente 13 (Coordenação Secretaria)','Ambientes 14-15','Ambiente 16 (Ambiente de Professores do DME)','Ambientes 17-33','Ambiente 35','Ambientes 37-42'
+              'CE - Bloco C', 'Sala 8', 'Sala de Reunião Prof. Vanildo', 'Sala de Estudo e Pesquisa Prof. Onelice de Medeiros Barros', 'LAD - Laboratório de Aprendizagens Digitais','Biblioteca Setorial do CE','Ambiente 36','Programa de Pós Graduação em Ciências das Religiões', 'Sala do Servidor/Assessoria de Informática', 'Sala de Manutenção', 'Ambiente 1', 'Ambiente 2 (Grupo de Estudos Transdisciplinares em Educação e Saúde - GERES)', 'Ambiente (Grupo de Estudos e Pesquisas em Políticas Curriculares - GEPPC)', 'Ambientes 3-11', 'Ambiente 12 (Coordenação do Curso de Graduação em Ciências Naturais - Licenciatura à Distância)','Ambiente 13 (Coordenação Secretaria)','Ambientes 14-15','Ambiente 16 (Ambiente de Professores do DME)','Ambientes 17-33','Ambiente 35','Ambientes 37-42'
               ],
               [
               'CE - Bloco Administrativo', 'Salas 301-310', 'LABEC - Laboratório de Ensino de Ciências', 'LATED 2 - Laboratório de Tecnologia Educacional (Brinquedoteca)','Coordenação da Graduação em Ciências das Religiões','Departamento em Ciências das Religiões','Recursos Humanos','Secretaria MPGOA','DME - Departamento de Metodologia','DFE - Departamento de Fundamentação da Educação; Ante-Sala (Direção/Vice-Direção/Secretaria)','DHP - Departamento de Habilitações Pedagógicas','Núcleo de EJA','Coordenação de Pedagogia','CPD - Centro de Processamento de Dados','Almoxarifado Setorial e Patrimônio','Ilha Virtual - Internautas do CE','Cubículo 1 - Banheiros Masculino e Feminino com Acessibilidade','Cubículo 2 - DA Pedagogia'
@@ -326,7 +326,7 @@
               'CCSASalasDeAulaI', 'Salas 201, 202, 203, 204,  205, 206, 207, 208, 209', 'LAPE - Laboratório de Práticas Econômicas'
               ],
               [
-              'CCSABlocoB', 'Laboratório de Informática do Curso de Arquivologia', 'Laboratório de Práticas Arquivísticas', 'Sala de Videoconferência do CCSA', 'Sala Multimídia I', 'Biblioteca Setorial', 'Salas 229, 230, 231, 232, 233, 234', 'Ambiente 73 - Departamento de Relações Internacionais', 'Ambientes 74, 75, 76, 77, 78'
+              'CCSABlocoB', 'Laboratório de Informática do Curso de Arquivologia', 'Laboratório de Práticas Arquivísticas', 'Sala de Videoconferência do CCSA', 'Sala Multimídia I', 'Biblioteca Setorial do CCSA', 'Salas 229, 230, 231, 232, 233, 234', 'Ambiente 73 - Departamento de Relações Internacionais', 'Ambientes 74, 75, 76, 77, 78'
               ],
               [
               'CCSASalasDeAulaII', 'Sala de Vídeo', 'Sala 113', 'Laboratórios de Informática I e II', 'Laboratórios de Contábil I e II', 'Coordenação e Departamento do Curso de Relações Internacionais', 'Auditório Azul', 'GAPPE', 'Secretaria do N.C.A', 'PGPCI - Programa de Pós-Graduação em Gestão Pública e Cooperação Internacional'
@@ -543,7 +543,7 @@
               ],
               [
               'DEMÚS - Departamento de Música',
-              'Salas de 1 a 4', 'Salas de 6 a 19', 'Salas de A a I', 'Sala de Iniciação Musical', 'Auditório 1', 'Secretaria', 'Biblioteca Setorial'
+              'Salas de 1 a 4', 'Salas de 6 a 19', 'Salas de A a I', 'Sala de Iniciação Musical', 'Auditório 1', 'Secretaria', 'Biblioteca Setorial do CCTA'
               ],
               [
               'CCTA - Bloco D',

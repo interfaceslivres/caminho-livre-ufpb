@@ -586,7 +586,7 @@ var BlocoK = {
    }]
 };
 
-var BibliotecaSetorial = {
+var BibliotecaSetorialCCHLA = {
   type: "FeatureCollection",
   features: [{
       type: "Feature",

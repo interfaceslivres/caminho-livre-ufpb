@@ -1508,7 +1508,7 @@ var xyClinicaDePsicologia =
         ];
 
 
-var xyBibliotecaSetorial = 
+var xyBibliotecaSetorialCCHLA = 
 
 [
          [
@@ -6524,7 +6524,7 @@ var data = {
 
     {
       type: "Feature",
-      name: "Biblioteca Setorial",
+      name: "Biblioteca Setorial CCHLA",
       properties: {
     wallColor: "rgba(0,123,190,1.5)",
     roofColor: "rgba(0,157,255,1.5)",
@@ -6532,7 +6532,7 @@ var data = {
     },
       geometry: {
         type: "Polygon",
-        coordinates: xyBibliotecaSetorial
+        coordinates: xyBibliotecaSetorialCCHLA
       }
     },
 
@@ -9176,7 +9176,7 @@ var datacchla = {
 
     {
       type: "Feature",
-      name: "Biblioteca Setorial",
+      name: "Biblioteca Setorial CCHLA",
       properties: {
     wallColor: "rgba(0,123,190,1.5)",
     roofColor: "rgba(0,157,255,1.5)",
@@ -9184,7 +9184,7 @@ var datacchla = {
     },
       geometry: {
         type: "Polygon",
-        coordinates: xyBibliotecaSetorial
+        coordinates: xyBibliotecaSetorialCCHLA
       }
     },
 
